@@ -204,6 +204,7 @@ Figuur :
 * Bij "Simon Says" werd het behouden van eerdere kleuren in de volgorde als nuttig ervaren.
 * Gebruikers waardeerden de mogelijkheid om de snelheid en moeilijkheidsgraad aan te passen.
 * Bij "Memory" benadrukten gebruikers het belang van visuele feedback bij foutieve keuzes om hun geheugen te trainen​
+
 Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina ([Scratch]()).
 
 **Gebruiksscenario's**
@@ -212,6 +213,7 @@ Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-p
 **Algemene observaties**
 * Duidelijke en eenvoudige spelregels, zowel visueel als auditief, waren noodzakelijk.
 * Gebruikers waardeerden positieve aanmoediging en korte oefeningen om betrokken te blijven.
+
 Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 1](https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO)).
 
 
@@ -238,6 +240,7 @@ Figuur :
 Reactiespel: Gebruikers waardeerden de uitdaging, maar foutmeldingen (rood licht) veroorzaakten frustratie doordat er geen duidelijke toelichting werd gegeven.
 Muzikale volgorde: Het gebruik van muziek werd positief ontvangen, maar er ontstond verwarring over de spelregels: zoals het onderscheid tussen een lange druk op een knop en meerdere korte drukken.
 Bomspel: Het spel was te complex en ontmoedigend en had demotiverende effect van opnieuw moeten beginnen bij een fout bij sommige gebruikers​.
+
 Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina ([Scratch]()).
 
 
@@ -250,6 +253,7 @@ Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-p
 * Het stapelsysteem werd praktisch bevonden, hoewel het onhandig was voor gebruikers met beperkte handkracht.
 * Het ophangsysteem op de muur werd gewaardeerd om zijn motiverende effect, maar stabiliteit van de gebruiker bleef een aandachtspunt.
 * De draagkoffer werd als te zwaar beschouwd.
+
 Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM).
 
 
