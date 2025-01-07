@@ -29,9 +29,10 @@ Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
-De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie. Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld. Deze cijfers onderstrepen de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
+De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie ([Expertisecentrum Dementie Vlaanderen](https://www.dementie.be/home/wat-is-dementie/prevalentie/)). Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld ([Alzheimer’s Disease International, z.d.]([https://www.scribbr.nl/category/apa-stijl/](https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/))). Afbeelding 1 illustreert de verwachte toename van het aantal mensen met dementie wereldwijd tussen 2019 en 2050, zoals gerapporteerd door de WHO ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)). Deze cijfers onderstrepen de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
 
 ![image](https://github.com/user-attachments/assets/9d09cb9c-83d0-4dd2-921d-a27b3b5e4a60)
+Afbeelding 1. Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
 
 
 LumiLife biedt een innovatieve oplossing voor deze uitdaging. Met een set interactieve pads die licht- en geluidssignalen gebruiken, combineert LumiLife fysieke en cognitieve stimulatie. De pads zijn ontworpen om eenvoudig en speels te gebruiken, zowel thuis als in woonzorgcentra. Door ouderen te motiveren actief te blijven, bevordert LumiLife niet alleen hun mobiliteit en reactiesnelheid, maar draagt het ook bij aan hun mentale veerkracht en algehele levenskwaliteit. Dit maakt LumiLife tot een waardevol hulpmiddel in de ondersteuning van ouderen in hun dagelijkse leven.
@@ -76,6 +77,9 @@ Definieer de belangrijkste designbeslissingen
 Max. 500 woorden
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+[^1]: Alzheimer’s Disease International - Dementia statistics(z.d.). [dementia facts figures](//www.alzint.org/about/dementia-facts-figures/dementia-statistics/) 
+[^2]: Alzheimer’s Disease International - WHO launches its global status report on the public health response to dementia. [WHO global status raport]([//www.alzint.org/about/dementia-facts-figures/dementia-statistics/](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)) 
+[^3]: Expertisecentrum Dementie Vlaanderen. (z.d.) - Prevalentie van dementie in België. [prevalentie dementie]([//https://www.dementie.be/home/wat-is-dementie/prevalentie/)) 
+
 
 ## Bijlagen
