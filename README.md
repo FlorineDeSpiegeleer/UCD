@@ -30,9 +30,6 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 
 De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie ([Expertisecentrum Dementie Vlaanderen](https://www.dementie.be/home/wat-is-dementie/prevalentie/)). Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld ([Alzheimer’s Disease International, z.d.]([https://www.scribbr.nl/category/apa-stijl/](https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/))). Afbeelding 1 illustreert de verwachte toename van het aantal mensen met dementie wereldwijd tussen 2019 en 2050, zoals gerapporteerd door de WHO ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)). Deze cijfers onderstrepen de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
@@ -49,7 +46,6 @@ LumiLife biedt een innovatieve oplossing voor deze uitdaging. Met een set intera
 
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 
 Het project werd uitgevoerd volgens een gestructureerd proces gebaseerd op het Triple Diamond-model. Semester 1 richtte zich op de Discovery- en Definition-fasen, waarin het probleem werd onderzocht en een oplossing werd gedefinieerd. Semester 2 richtte zich op iteratieve ontwikkelingen in de Development-fase.
@@ -78,11 +74,13 @@ Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken v
 
 ## Discovery
 
+
 ### Doestellingen
 De Discovery-fase richtte zich op het beantwoorden van de vraag: "Wat is het probleem en hoe kunnen we dit begrijpen?". Het doel was om diepgaand inzicht te verkrijgen in de behoeften, uitdagingen en gedragingen van de doelgroep, met name ouderen, en hoe deze met fysieke en cognitieve beperkingen omgaan. Specifiek streefden we ernaar:
 * In kaart brengen van mobiliteits- en geheugenproblemen bij ouderen.
 * Onderzoeken van bestaande methodes en technologieën die fysieke en cognitieve stimulatie bevorderen, waaronder de Ronnie Gardiner Methode (RGM).
 * Identificeren van mogelijkheden om een toegankelijk product te ontwikkelen dat ouderen motiveert tot actieve participatie.
+
 
 ### Materiaal & methoden
 **"How Might We"-vraag**
@@ -91,6 +89,7 @@ Een "How Might We"-vraag werd geformuleerd om het onderzoek te kaderen:
 Hoe kunnen we een interactieve, multisensorische ervaring creëren voor ouderen die zowel hun cognitieve als fysieke gezondheid bevordert, terwijl het boeiend en gemakkelijk te gebruiken blijft?
 Deze vraag definieerde de doelgroep, het probleem, de context en de technologische haalbaarheid. Ze diende als richtlijn voor alle onderzoeksactiviteiten.
 
+
 **Literatuuronderzoek**
 
 Een literatuurstudie werd uitgevoerd om inzicht te krijgen in:
@@ -98,12 +97,14 @@ Een literatuurstudie werd uitgevoerd om inzicht te krijgen in:
 * De Ronnie Gardiner Methode (RGM) en vergelijkbare technieken.
 Het literatuuronderzoek volgde een gestructureerd protocol waarbij databases en relevante wetenschappelijke artikelen werden geraadpleegd. De resultaten werden samengevat in een rapport dat als basis diende voor verdere beslissingen.
 
+
 **Interviews**
 
 Interviews werden afgenomen om waardevolle inzichten te verkrijgen in de behoeften van ouderen en professionals:
 * Twee interviews met ouderen, waarvan één persoon ervaring had met cognitieve stimulatie en één niet, maar wel regelmatig oefeningen doet.
 * Eén interview met een kinesist die werkt met ouderen, maar nog geen ervaring heeft met de Ronnie Gardiner Methode (RGM).
 Voorafgaand aan de interviews werden protocollen opgesteld en a.d.h.v. een informed consent gevraagd om toestemming te verkrijgen voor deelname en het gebruik van de verzamelde gegevens. De gegevens uit de interviews werden zorgvuldig geanalyseerd om thema’s en patronen te identificeren die relevant zijn voor het ontwerp van de oplossing.
+
 
 **Benchmarking**
 
@@ -113,11 +114,13 @@ Er werd een benchmarking uitgevoerd van bestaande producten die fysieke en cogni
 * Thera-Trainer Senso
 De producten werden geanalyseerd op aspecten zoals functionaliteit, gebruiksgemak, prijs en multisensorische feedback.
 
+
 **Tools en Materialen**
 * Onderzoeksprotocollen: Voor zowel het literatuuronderzoek als de interviews werden gedetailleerde protocollen opgesteld in Word om het onderzoek gestructureerd te laten verlopen.
 * Rapportage: De resultaten en bevindingen van de verschillende methoden werden geanalyseerd en samengevat in rapporten, opgesteld met Microsoft Word. Voor het verwerken en organiseren van kwantitatieve en kwalitatieve gegevens werd gebruik gemaakt van Microsoft Excel.
 * Opnames: Tijdens de interviews werd gebruik gemaakt van Word Dictate om audio-opnames te maken, wat zorgde voor een efficiënte verwerking en analyse van de gesprekken.
 * Analysemodellen: Het onderzoek werd ondersteund door methoden zoals root-cause analysis om fundamentele problemen te identificeren en de innovatrix om oplossingen te verkennen en te evalueren.
+
 
 ### Resultaten
 **How Might We"-vraag**
@@ -129,8 +132,29 @@ De vraag definieert:
 * Waarom: Met een groeiende vergrijzing is er een dringende behoefte aan oplossingen die fysieke en cognitieve oefeningen combineren om het welzijn van ouderen te bevorderen.
 De "How Might We"-vraag fungeerde als richtlijn om onderzoeksvragen en ontwerpeisen helder te formuleren. 
 
+
+**Belangrijke bevindingen uit het literatuuronderzoek:**
+* Effectiviteit van ritme en muziek: Ritmische bewegingen en muziek verbeteren cognitieve functies zoals geheugen en balans, zoals aangetoond in studies over de Ronnie Gardiner Methode (RGM). Deze methode combineert multisensorische prikkels met fysieke activiteit​
+* Cognitieve en fysieke dual-tasking: Het gelijktijdig uitvoeren van fysieke en cognitieve taken leidt tot verbeterde motorische en mentale vaardigheden, wat de kern vormt van het concept​
+* Motivatie en personalisatie: Gebruikers reageren beter wanneer activiteiten aansluiten bij hun persoonlijke voorkeuren, vooral bij muziek. Dit benadrukt het belang van aanpasbaarheid in het ontwerp​
+Details zijn te vinden in het literatuursonderzoek protocol ([literatuuronderzoek protocol](https://www.scribbr.nl/category/apa-stijl/)) en het literatuuronderzoekrapport in de bijlage ([literatuuronderzoekrapport](https://www.scribbr.nl/category/apa-stijl/)).
+
+
+**Inzicht uit de interviews:**
+* Eenvoud en toegankelijkheid: Ouderen prefereren intuïtieve technologieën die gemakkelijk te begrijpen zijn. Complexiteit werkt ontmoedigend​
+* Multisensorische feedback: Licht en subtiele geluiden worden gewaardeerd, maar overstimulatie moet worden vermeden. Dit geldt vooral bij cognitieve uitdagingen zoals balans- en geheugenproblemen​
+* Zelfstandigheid en motivatie: Variatie in oefeningen en autonomie zijn belangrijk voor motivatie en consistent gebruik​
+Zie interviewrapporten ([interviewrapport](https://www.scribbr.nl/category/apa-stijl/))en protocollen ([interview protocol](https://www.scribbr.nl/category/apa-stijl/))in de bijlage voor een uitgebreide analyse.
+
+
+**Bevindingen uit Benchmarking:**
+Uit benchmarking van producten zoals Moto Tiles, BlazePods, en Thera-Trainer Senso kwamen de volgende inzichten:
+* Multisensorische interacties: Deze producten gebruiken licht en geluid om fysieke en cognitieve uitdagingen te combineren.
+* Kosten en complexiteit: Veel concurrerende producten zijn duur en vereisen vaak een operator, wat ze minder geschikt maakt voor zelfstandig gebruik door ouderen.
+
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De Discovery-fase leverde cruciale inzichten op voor het ontwerp van een toegankelijk product dat ouderen zowel cognitief als fysiek ondersteunt. Multisensorische interactie, zoals visuele, auditieve en tactiele feedback, werd geïdentificeerd als essentieel om betrokkenheid en effectiviteit te verhogen. Daarnaast is het ontwerp gericht op eenvoud en aanpasbaarheid, zodat gebruikers met verschillende niveaus van mobiliteit en cognitie het gemakkelijk kunnen gebruiken. Ritmische stimulatie, geïnspireerd door de Ronnie Gardiner Methode, bleek een waardevol therapeutisch middel om motoriek en geheugen te verbeteren. Tot slot benadrukten benchmarking en literatuuronderzoek het belang van kosteneffectiviteit en gebruiksgemak om het product breed inzetbaar te maken.
 
 
 
