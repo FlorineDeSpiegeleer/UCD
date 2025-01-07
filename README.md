@@ -281,7 +281,7 @@ Max. 500 woorden
 
 ## Bijlagen
 
-[^1]: ([miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572)) 
+[^1]: [miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
 [^2]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
 [^3]: [literatuuronderzoekrapport](https://1drv.ms/w/c/9458d939536e9058/EWQz_9QD8dpBpTh8NQzMlokB5SeG6wV0K6LT6gMB9irLHA?e=O8cmlj)
 [^4]: [interviewrapport](https://1drv.ms/w/c/9458d939536e9058/ER6nH3z0XeFKuMaCuIisP8YBIFPhPJLEmsiKt6eIfM8fhg?e=8cAQuv)
@@ -289,7 +289,7 @@ Max. 500 woorden
 [^6]: [benchmarking rapport](https://1drv.ms/w/c/9458d939536e9058/EQlW4kpImIJMtvqYNZ5XCkoBC6DovXtIstasZ4E2wJtfuw?e=PyZ9mh)
 [^7]: [gebruikerstest protocol - Wave 1](https://1drv.ms/w/c/9458d939536e9058/EZPexuH_t1ZDrBxKF-i5EC4BjO-2J_DN5rmQSSC7-4Sotg?e=qlHPgn)
 [^8]: [gebruikerstest rapport - Wave 1](https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO)
-[^9]: [gebruikerstest protocol - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+[^9]: [gebruikerstest protocol - Wave 2](https://1drv.ms/w/c/9458d939536e9058/Efkxnmg8y29DovwRH3Wme88Bf6xJzYXhyNBKQ7RPIrKVMA?e=dqqbPx)
 [^10]: [gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM)
 
 
