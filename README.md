@@ -190,12 +190,74 @@ De kennis en inzichten uit elke test werden gebruikt om nieuwe, betere prototype
 
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 
+#### Wave 1
+
+De eerste gebruikerstest leverde belangrijke inzichten op over de fysieke interactie en interfacevoorkeuren van ouderen:
+**Vorm en grootte van de pads**
+* Vorm: Hexagonale pads werden geprefereerd vanwege hun stabiliteit en gebruiksgemak. Ronde pads gleden vaak weg en werden minder praktisch gevonden.
+* Grootte: Kleinere en middelgrote pads waren favoriet. Deze formaten zijn handzaam en geschikt voor ouderen met beperkte kracht en mobiliteit​
+
+Figuur : 
+
+**Spelervaring en mechanismen**
+* Bij "Simon Says" werd het behouden van eerdere kleuren in de volgorde als nuttig ervaren.
+* Gebruikers waardeerden de mogelijkheid om de snelheid en moeilijkheidsgraad aan te passen.
+* Bij "Memory" benadrukten gebruikers het belang van visuele feedback bij foutieve keuzes om hun geheugen te trainen​
+Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina ([Scratch]()).
+
+**Gebruiksscenario's**
+* Zittend gebruik bleek essentieel, aangezien deelnemers in woonzorgcentra geen oefeningen rechtstaand konden uitvoeren​
+
+**Algemene observaties**
+* Duidelijke en eenvoudige spelregels, zowel visueel als auditief, waren noodzakelijk.
+* Gebruikers waardeerden positieve aanmoediging en korte oefeningen om betrokken te blijven.
+Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 1](https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO)).
+
+
+#### Wave 2
+
+De tweede gebruikerstest richtte zich op interface-optimalisatie, spelvarianten en opbergmethoden:
+
+**Interface-optimalisatie**
+* Lay-out A (kleurrijke interface met icoontjes): Positief ontvangen vanwege de visuele aantrekkingskracht, hoewel icoontjes soms overbodig werden gevonden.
+
+Figuur : 
+
+* Lay-out B (zwart-wit): Rustig en leesbaar, maar minder uitnodigend voor sommige gebruikers.
+
+Figuur :
+
+* Lay-out C (kleurrijke interface zonder icoontjes): Eenvoudig en aantrekkelijk, hoewel sommige kleuren minder zichtbaar waren​
+
+Figuur :  
+
+
+**Spelvarianten**
+
+Reactiespel: Gebruikers waardeerden de uitdaging, maar foutmeldingen (rood licht) veroorzaakten frustratie doordat er geen duidelijke toelichting werd gegeven.
+Muzikale volgorde: Het gebruik van muziek werd positief ontvangen, maar er ontstond verwarring over de spelregels: zoals het onderscheid tussen een lange druk op een knop en meerdere korte drukken.
+Bomspel: Het spel was te complex en ontmoedigend en had demotiverende effect van opnieuw moeten beginnen bij een fout bij sommige gebruikers​.
+Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina ([Scratch]()).
+
+
+**Feedback en motivatie**
+* Auditieve feedback, zoals muziek en verbale aanmoediging, werd als stimulerend ervaren.
+* Visuele feedback (groen voor succes, rood voor fouten) hielp gebruikers beter begrijpen wat goed of fout was​.
+
+
+**Opbergmethoden**
+* Het stapelsysteem werd praktisch bevonden, hoewel het onhandig was voor gebruikers met beperkte handkracht.
+* Het ophangsysteem op de muur werd gewaardeerd om zijn motiverende effect, maar stabiliteit van de gebruiker bleef een aandachtspunt.
+* De draagkoffer werd als te zwaar beschouwd.
+Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM).
+
+
+Wave 3
 
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in het ontwerp. Spelregels moeten intuïtief en duidelijk zijn om frustratie te voorkomen, en fouten mogen niet leiden tot demotivatie. Ritmische en multisensorische feedback blijft een essentieel element om zowel fysieke als cognitieve stimulatie te waarborgen.
 
 ## Bill of materials
 - Welk
@@ -224,9 +286,9 @@ Max. 500 woorden
 [^4]: [interviewrapport](https://1drv.ms/w/c/9458d939536e9058/ER6nH3z0XeFKuMaCuIisP8YBIFPhPJLEmsiKt6eIfM8fhg?e=8cAQuv)
 [^5]: [interview protocol](https://1drv.ms/w/c/9458d939536e9058/EWRbjy3uARlLg2ORJMHx51kB_5V5LIPIr9IfjHXqO9-4yA?e=10Dczc)
 [^6]: [benchmarking rapport](https://1drv.ms/w/c/9458d939536e9058/EQlW4kpImIJMtvqYNZ5XCkoBC6DovXtIstasZ4E2wJtfuw?e=PyZ9mh)
-[^7]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
-[^8]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
-[^9]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
-[^10]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+[^7]: [gebruikerstest protocol - Wave 1](https://1drv.ms/w/c/9458d939536e9058/EZPexuH_t1ZDrBxKF-i5EC4BjO-2J_DN5rmQSSC7-4Sotg?e=qlHPgn)
+[^8]: [gebruikerstest rapport - Wave 1](https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO)
+[^9]: [gebruikerstest protocol - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+[^10]: [gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM)
 
 
