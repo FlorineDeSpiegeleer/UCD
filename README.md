@@ -16,7 +16,7 @@ LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houde
 sketch/render/image: 
 
 
-Figuur 1: 
+Afbeelding 1.  
 
 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
@@ -27,21 +27,25 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
 
+
+
 ## Introductie
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+
 
 De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie ([Expertisecentrum Dementie Vlaanderen](https://www.dementie.be/home/wat-is-dementie/prevalentie/)). Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld ([Alzheimer’s Disease International, z.d.]([https://www.scribbr.nl/category/apa-stijl/](https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/))). Afbeelding 1 illustreert de verwachte toename van het aantal mensen met dementie wereldwijd tussen 2019 en 2050, zoals gerapporteerd door de WHO ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)). Deze cijfers onderstrepen de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
 
 
 ![image](https://github.com/user-attachments/assets/9d09cb9c-83d0-4dd2-921d-a27b3b5e4a60)
 
-Afbeelding 1. Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
+Afbeelding 2. Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
 
 
 
 LumiLife biedt een innovatieve oplossing voor deze uitdaging. Met een set interactieve pads die licht- en geluidssignalen gebruiken, combineert LumiLife fysieke en cognitieve stimulatie. De pads zijn ontworpen om eenvoudig en speels te gebruiken, zowel thuis als in woonzorgcentra. Door ouderen te motiveren actief te blijven, bevordert LumiLife niet alleen hun mobiliteit en reactiesnelheid, maar draagt het ook bij aan hun mentale veerkracht en algehele levenskwaliteit. Dit maakt LumiLife tot een waardevol hulpmiddel in de ondersteuning van ouderen in hun dagelijkse leven.
+
 
 
 ## Methodologie
@@ -50,18 +54,22 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 
 Het project werd uitgevoerd volgens een gestructureerd proces, opgedeeld in vijf hoofdfasen: Discovery, Definition, Development Iteration 1, Development Iteration 2, en Delivery. Elke fase had een specifieke focus en bevatte doelgerichte activiteiten om het concept te ontwikkelen en te valideren.
 
-Discovery (Week 1-4): Deze fase richtte zich op het begrijpen van de uitdagingen en behoeften van ouderen. We voerden literatuuronderzoek uit naar mobiliteits- en geheugenproblemen bij ouderen en organiseerden interviews met therapeuten en ouderen om hun perspectieven te begrijpen. Dit gaf ons waardevolle inzichten in de fysieke en cognitieve beperkingen waarmee onze doelgroep te maken heeft.
+* **Discovery (Week 1-4):** Deze fase richtte zich op het begrijpen van de uitdagingen en behoeften van ouderen. We voerden literatuuronderzoek uit naar mobiliteits- en geheugenproblemen bij ouderen en organiseerden interviews met therapeuten en ouderen om hun perspectieven te begrijpen. Dit gaf ons waardevolle inzichten in de fysieke en cognitieve beperkingen waarmee onze doelgroep te maken heeft.
 
-Definition (Week 5-7): De verzamelde data uit de Discovery-fase werd geanalyseerd en vertaald naar concrete ontwerpeisen. We definieerden de probleemstelling en creëerden initiële concepten voor LumiLife. Vervolgens werden gebruikerstesten uitgevoerd om te beoordelen welke concepten het meest aantrekkelijk en haalbaar waren voor onze doelgroep.
+* **Definition (Week 5-7):** De verzamelde data uit de Discovery-fase werd geanalyseerd en vertaald naar concrete ontwerpeisen. We definieerden de probleemstelling en creëerden initiële concepten voor LumiLife. Vervolgens werden gebruikerstesten uitgevoerd om te beoordelen welke concepten het meest aantrekkelijk en haalbaar waren voor onze doelgroep.
 
-Development Iteration 1 (Week 8-10): Tijdens de eerste ontwikkelronde werkten we een functioneel prototype uit. Dit prototype bevatte interactieve pads met basisfunctionaliteiten zoals licht- en geluidssignalen. Gebruikerstesten hielpen ons om het ontwerp verder te verfijnen en technische beperkingen aan te pakken.
+* **Development Iteration 1 (Week 8-10):** Tijdens de eerste ontwikkelronde werkten we een functioneel prototype uit. Dit prototype bevatte interactieve pads met basisfunctionaliteiten zoals licht- en geluidssignalen. Gebruikerstesten hielpen ons om het ontwerp verder te verfijnen en technische beperkingen aan te pakken.
 
-Development Iteration 2 (Week 11-13): Op basis van feedback uit de eerste iteratie werd het prototype verder geoptimaliseerd. We voegden nieuwe functies toe, zoals ritmische interactie met muziek, en testten het in een realistischere setting. Deze iteratie zorgde voor een gebruiksvriendelijker ontwerp dat beter aansloot op de behoeften van de doelgroep.
+* **Development Iteration 2 (Week 11-13):** Op basis van feedback uit de eerste iteratie werd het prototype verder geoptimaliseerd. We voegden nieuwe functies toe, zoals ritmische interactie met muziek, en testten het in een realistischere setting. Deze iteratie zorgde voor een gebruiksvriendelijker ontwerp dat beter aansloot op de behoeften van de doelgroep.
 
-Delivery (Week 14-16): In de laatste fase werd het eindproduct gepresenteerd. We demonstreerden de functionaliteiten van LumiLife en stelden een uitgebreid rapport op waarin het volledige ontwerpproces werd gedocumenteerd. Het eindproduct werd geëvalueerd op functionaliteit, gebruiksvriendelijkheid en impact op de doelgroep.
+* **Delivery (Week 14-16):** In de laatste fase werd het eindproduct gepresenteerd. We demonstreerden de functionaliteiten van LumiLife en stelden een uitgebreid rapport op waarin het volledige ontwerpproces werd gedocumenteerd. Het eindproduct werd geëvalueerd op functionaliteit, gebruiksvriendelijkheid en impact op de doelgroep.
+
 
 Tijdlijn
 Om het proces visueel te ondersteunen, werd een tijdlijn opgesteld waarin de verschillende fasen, activiteiten en tijdsindicaties zijn weergegeven. Deze tijdlijn benadrukt de iteratieve aanpak en de nadruk op constante evaluatie en verbetering.
+
+tijdlijn
+Afbeelding 3. 
 
 Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken van de doelgroep, werd LumiLife ontwikkeld als een innovatieve en effectieve oplossing om ouderen fysiek en mentaal te ondersteunen.
 
