@@ -16,6 +16,7 @@ LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houde
 sketch/render/image: 
 
 
+Figuur 1: 
 
 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
