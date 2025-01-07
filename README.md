@@ -77,15 +77,59 @@ Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken v
 
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+De Discovery-fase richtte zich op het beantwoorden van de vraag: "Wat is het probleem en hoe kunnen we dit begrijpen?". Het doel was om diepgaand inzicht te verkrijgen in de behoeften, uitdagingen en gedragingen van de doelgroep, met name ouderen, en hoe deze met fysieke en cognitieve beperkingen omgaan. Specifiek streefden we ernaar:
+* In kaart brengen van mobiliteits- en geheugenproblemen bij ouderen.
+* Onderzoeken van bestaande methodes en technologieën die fysieke en cognitieve stimulatie bevorderen, waaronder de Ronnie Gardiner Methode (RGM).
+* Identificeren van mogelijkheden om een toegankelijk product te ontwikkelen dat ouderen motiveert tot actieve participatie.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+**"How Might We"-vraag**
+Een "How Might We"-vraag werd geformuleerd om het onderzoek te kaderen:
+Hoe kunnen we een interactieve, multisensorische ervaring creëren voor ouderen die zowel hun cognitieve als fysieke gezondheid bevordert, terwijl het boeiend en gemakkelijk te gebruiken blijft?
+Deze vraag definieerde de doelgroep, het probleem, de context en de technologische haalbaarheid. Ze diende als richtlijn voor alle onderzoeksactiviteiten.
+
+**Literatuuronderzoek**
+Een literatuurstudie werd uitgevoerd om inzicht te krijgen in:
+* Mobiliteits- en cognitieve uitdagingen bij ouderen.
+* De Ronnie Gardiner Methode (RGM) en vergelijkbare technieken.
+Het literatuuronderzoek volgde een gestructureerd protocol waarbij databases en relevante wetenschappelijke artikelen werden geraadpleegd. De resultaten werden samengevat in een rapport dat als basis diende voor verdere beslissingen.
+
+**Interviews**
+Interviews werden afgenomen om waardevolle inzichten te verkrijgen in de behoeften van ouderen en professionals:
+* Twee interviews met ouderen, waarvan één persoon ervaring had met cognitieve stimulatie en één niet, maar wel regelmatig oefeningen doet.
+* Eén interview met een kinesist die werkt met ouderen, maar nog geen ervaring heeft met de Ronnie Gardiner Methode (RGM).
+Voorafgaand aan de interviews werden protocollen opgesteld en a.d.h.v. een informed consent gevraagd om toestemming te verkrijgen voor deelname en het gebruik van de verzamelde gegevens. De gegevens uit de interviews werden zorgvuldig geanalyseerd om thema’s en patronen te identificeren die relevant zijn voor het ontwerp van de oplossing.
+
+**Benchmarking**
+Er werd een benchmarking uitgevoerd van bestaande producten die fysieke en cognitieve stimulatie combineren. Dit omvatte onder andere:
+* Moto Tiles
+* BlazePods
+* Thera-Trainer Senso
+De producten werden geanalyseerd op aspecten zoals functionaliteit, gebruiksgemak, prijs en multisensorische feedback.
+
+**Tools en Materialen**
+* Onderzoeksprotocollen: Voor zowel het literatuuronderzoek als de interviews werden gedetailleerde protocollen opgesteld in Word om het onderzoek gestructureerd te laten verlopen.
+* Rapportage: De resultaten en bevindingen van de verschillende methoden werden geanalyseerd en samengevat in rapporten, opgesteld met Microsoft Word. Voor het verwerken en organiseren van kwantitatieve en kwalitatieve gegevens werd gebruik gemaakt van Microsoft Excel.
+* Opnames: Tijdens de interviews werd gebruik gemaakt van Word Dictate om audio-opnames te maken, wat zorgde voor een efficiënte verwerking en analyse van de gesprekken.
+* Analysemodellen: Het onderzoek werd ondersteund door methoden zoals root-cause analysis om fundamentele problemen te identificeren en de innovatrix om oplossingen te verkennen en te evalueren.
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+**How Might We"-vraag**
+De "How Might We"-vraag werd geformuleerd om het onderzoek te kaderen en richten: "Hoe kunnen we een interactieve, multisensorische ervaring creëren voor ouderen die zowel hun cognitieve als fysieke gezondheid bevordert, terwijl het boeiend en gemakkelijk te gebruiken blijft?"
+De vraag definieert:
+* Doelgroep: Ouderen die te maken hebben met verminderde mobiliteit of een  cognitieve achteruitgang.
+* Probleem: Cognitieve achteruitgang en fysieke inactiviteit komen veel voor bij oudere mensen, wat leidt tot gezondheidsrisico's zoals geheugenverlies en slechte motoriek.
+* Context: Deze oplossing kan worden toegepast in zorginstellingen, thuisomgevingen of revalidatiecentra.
+* Waarom: Met een groeiende vergrijzing is er een dringende behoefte aan oplossingen die fysieke en cognitieve oefeningen combineren om het welzijn van ouderen te bevorderen.
+De "How Might We"-vraag fungeerde als richtlijn om onderzoeksvragen en ontwerpeisen helder te formuleren. 
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
+
+
+
 
 ## Definition
 Max. 1000 woorden
@@ -119,3 +163,5 @@ Max. 500 woorden
 
 
 ## Bijlagen
+[^1]: [miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572)) 
+[^1]: [miroboard ](//www.alzint.org/about/dementia-facts-figures/dementia-statistics/) 
