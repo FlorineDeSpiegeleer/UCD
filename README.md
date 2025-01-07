@@ -1,4 +1,5 @@
 # LumiLife
+
 *LumiLife: Interactieve, lichtgevende pads die ouderen op een leuke en toegankelijke manier stimuleren om fysiek en cognitief actief te blijven.* 
 
 *Projectteam: De Spiegeleer Florine; Braekevelt Baptiste*
@@ -6,6 +7,7 @@
 08/01/2025
 
 ## Samenvatting
+
 LumiLife is ontwikkeld om het probleem van fysieke en cognitieve achteruitgang bij ouderen aan te pakken. Veel ouderen ervaren mobiliteitsproblemen en geheugenverlies, wat hun onafhankelijkheid en levenskwaliteit sterk beïnvloedt. Traditionele oplossingen zijn vaak duur, complex en niet gericht op een speelse aanpak die ouderen motiveert.
 Dit probleem is onderzocht door middel van literatuurstudies, gebruikerstesten en interviews met ouderen en therapeuten. Deze aanpak bood waardevolle inzichten in de voorkeuren en behoeften van de doelgroep, zoals het belang van eenvoudige bediening, toegankelijkheid en motiverende feedbackmechanismen.
 De oplossing is LumiLife: een set compacte, interactieve pads die licht- en geluidssignalen combineren om ouderen fysiek en cognitief te stimuleren. De pads lichten op in ritme met de muziek, en de gebruiker moet snel drukken op de oplichtende pad. Dit bevordert niet alleen motorische vaardigheden en reactiesnelheid, maar zorgt ook voor een leuke en uitdagende ervaring. De pads zijn ontworpen voor zowel zittend als staand gebruik en kunnen eenvoudig worden ingezet in woonzorgcentra of thuisomgevingen.
@@ -32,6 +34,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie ([Expertisecentrum Dementie Vlaanderen](https://www.dementie.be/home/wat-is-dementie/prevalentie/)). Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld ([Alzheimer’s Disease International, z.d.]([https://www.scribbr.nl/category/apa-stijl/](https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/))). Afbeelding 1 illustreert de verwachte toename van het aantal mensen met dementie wereldwijd tussen 2019 en 2050, zoals gerapporteerd door de WHO ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)). Deze cijfers onderstrepen de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
 
 ![image](https://github.com/user-attachments/assets/9d09cb9c-83d0-4dd2-921d-a27b3b5e4a60)
+
 Afbeelding 1. Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
 
 
