@@ -54,13 +54,14 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 
 Het project werd uitgevoerd volgens een gestructureerd proces gebaseerd op het Triple Diamond-model. Semester 1 richtte zich op de Discovery- en Definition-fasen, waarin het probleem werd onderzocht en een oplossing werd gedefinieerd. Semester 2 richtte zich op iteratieve ontwikkelingen in de Development-fase.
 
-* **Discovery (Week 1-4)**
+* **Discovery (Week 1-6)**
 De Discovery-fase richtte zich op het begrijpen van de uitdagingen en behoeften van ouderen. Dit omvatte een uitgebreide literatuurstudie naar mobiliteits- en geheugenproblemen bij ouderen, evenals de Ronnie Gardiner Methode (RGM) en de toepassingen daarvan. Er werd ook benchmarking uitgevoerd om bestaande oplossingen en hun tekortkomingen te analyseren. Daarnaast werden interviews georganiseerd met therapeuten en ouderen om diepgaand inzicht te krijgen in hun perspectieven en ervaringen. Deze gecombineerde aanpak stelde ons in staat om probleemopportuniteiten te identificeren en de belangrijkste behoeften van de doelgroep te definiëren.
 
-* **
+* **Definition (Week 6-12)**
 Tijdens de Definition-fase werden de inzichten uit de Discovery-fase vertaald naar duidelijke ontwerpeisen en productvereisten. Op basis van deze gegevens werden verschillende concepten ontwikkeld, zorgvuldig beoordeeld en geprioriteerd om te voldoen aan de behoeften van de doelgroep.
 Om de interactie met het product beter te begrijpen en te illustreren, werd een storyboard ontworpen.
 Daarnaast vonden drie rondes van gebruikerstesten plaats, waarbij elke ronde 4 tot 5 deelnemers telde. De testen richtten zich op het evalueren van de aantrekkelijkheid, haalbaarheid en gebruiksvriendelijkheid van het ontwerp a.d.h.v. low-fidelity prototypes. Voor elke test werden uitgebreide protocollen en informed consents opgesteld en de resultaten werden nauwgezet gedocumenteerd in rapporten.
+De resultaten en rapporten vormden een solide basis voor het definitieve concept en de verdere ontwikkeling.
 
 * **Development (Semester 2)**
 In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratieve processen. De focus zal liggen op:
