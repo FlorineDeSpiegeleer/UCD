@@ -65,11 +65,12 @@ De resultaten en rapporten vormden een solide basis voor het definitieve concept
 
 * **Development (Semester 2)**
 In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratieve processen. De focus zal liggen op:
-* Definiëren van de belangrijkste ontwerpprioriteiten: Het identificeren en specificeren van cruciale aspecten van het productontwerp die afgestemd zijn op gebruikersbehoeften en technologische mogelijkheden.
-* Ontwerpmethoden toepassen: Het uitvoeren van doelgerichte activiteiten, zoals prototyping, testen, en evalueren, om het ontwerp te verfijnen en de functionaliteiten te optimaliseren.
-* Drie iteratieve ontwikkelingsfases: In elke iteratie worden nieuwe functies toegevoegd en geëvalueerd. Het proces omvat het testen van basisfunctionaliteiten (zoals licht- en geluidssignalen), uitbreiding met complexe interacties (zoals multisensorische feedback), en optimalisatie van de gebruikservaring in realistische contexten.
+  * Definiëren van de belangrijkste ontwerpprioriteiten: Het identificeren en specificeren van cruciale aspecten van het productontwerp die afgestemd zijn op gebruikersbehoeften en technologische mogelijkheden.
+  * Ontwerpmethoden toepassen: Het uitvoeren van doelgerichte activiteiten, zoals prototyping, testen, en evalueren, om het ontwerp te verfijnen en de functionaliteiten te optimaliseren.
+  * Drie iteratieve ontwikkelingsfases: In elke iteratie worden nieuwe functies toegevoegd en geëvalueerd. Het proces omvat het testen van basisfunctionaliteiten (zoals licht- en geluidssignalen), uitbreiding met complexe interacties (zoals multisensorische feedback), en optimalisatie van de gebruikservaring in realistische contexten.
 
 tijdlijn
+
 Afbeelding 3. 
 
 Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken van de doelgroep, werd LumiLife ontwikkeld als een innovatieve en effectieve oplossing om ouderen fysiek en mentaal te ondersteunen.
