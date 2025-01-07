@@ -280,7 +280,8 @@ Max. 500 woorden
 
 
 ## Bijlagen
-[^1]: [miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
+
+[^1]: ([miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572)) 
 [^2]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
 [^3]: [literatuuronderzoekrapport](https://1drv.ms/w/c/9458d939536e9058/EWQz_9QD8dpBpTh8NQzMlokB5SeG6wV0K6LT6gMB9irLHA?e=O8cmlj)
 [^4]: [interviewrapport](https://1drv.ms/w/c/9458d939536e9058/ER6nH3z0XeFKuMaCuIisP8YBIFPhPJLEmsiKt6eIfM8fhg?e=8cAQuv)
