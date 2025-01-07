@@ -168,16 +168,24 @@ Gebaseerd op de Discovery-fase werden de belangrijkste ontwerpeisen opgesteld. D
 De eerste stap bestond uit het opstellen van een storyboard om de gebruikersflow en de mogelijke interacties met het product visueel te maken. Dit storyboard diende als leidraad bij de planning en uitvoering van de gebruikerstesten.
 
 Om een goed product te ontwikkelen, werd een iteratief proces van drie waves van gebruikerstesten opgezet. Het doel van deze waves was om steeds verfijndere inzichten te krijgen en verbeteringen aan te brengen in het ontwerp op basis van gebruikersfeedback.
+
 **Voorbereiding** 
+
 Voor elke gebruikerstest werden protocollen opgesteld om de structuur en consistentie van de tests te waarborgen. Bovendien werd informed consent gevraagd aan de deelnemers om toestemming te verkrijgen voor deelname en het gebruik van de verzamelde gegevens. Dit proces zorgde ervoor dat de ethische normen werden nageleefd.
+
 **Uitvoering van de tests** 
+
 De gebruikerstesten vonden plaats in een gecontroleerde omgeving en werden semi-gestructureerd uitgevoerd. Tijdens de tests werden:
 * Observaties gedaan van fysieke reacties en non-verbale signalen.
 * Interviews afgenomen na afloop van de tests om kwalitatieve feedback te verzamelen.
 * Notities en foto’s gemaakt om alle relevante inzichten vast te leggen.
+
 **Analyse en rapportage**
+
 Na elke gebruikerstest werd de verzamelde data geanalyseerd en samengevat in een rapport (opgesteld in Word). Deze rapporten bevatten gedetailleerde beschrijvingen van de feedback, observaties en interviews, en werden gebruikt om verbeterpunten te identificeren.
+
 **Iteratieve verbeteringen**
+
 De kennis en inzichten uit elke test werden gebruikt om nieuwe, betere prototypes te ontwikkelen voor de volgende wave. Dit iteratieve proces zorgde ervoor dat het product bij elke stap meer aansloot op de behoeften en voorkeuren van de gebruikers.
 
 
