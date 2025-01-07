@@ -52,21 +52,21 @@ LumiLife biedt een innovatieve oplossing voor deze uitdaging. Met een set intera
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 
-Het project werd uitgevoerd volgens een gestructureerd proces, opgedeeld in vijf hoofdfasen: Discovery, Definition, Development Iteration 1, Development Iteration 2, en Delivery. Elke fase had een specifieke focus en bevatte doelgerichte activiteiten om het concept te ontwikkelen en te valideren.
+Het project werd uitgevoerd volgens een gestructureerd proces gebaseerd op het Triple Diamond-model. Semester 1 richtte zich op de Discovery- en Definition-fasen, waarin het probleem werd onderzocht en een oplossing werd gedefinieerd. Semester 2 richtte zich op iteratieve ontwikkelingen in de Development-fase.
 
-* **Discovery (Week 1-4):** Deze fase richtte zich op het begrijpen van de uitdagingen en behoeften van ouderen. We voerden literatuuronderzoek uit naar mobiliteits- en geheugenproblemen bij ouderen en organiseerden interviews met therapeuten en ouderen om hun perspectieven te begrijpen. Dit gaf ons waardevolle inzichten in de fysieke en cognitieve beperkingen waarmee onze doelgroep te maken heeft.
+* **Discovery (Week 1-4)**
+De Discovery-fase richtte zich op het begrijpen van de uitdagingen en behoeften van ouderen. Dit omvatte een uitgebreide literatuurstudie naar mobiliteits- en geheugenproblemen bij ouderen, evenals de Ronnie Gardiner Methode (RGM) en de toepassingen daarvan. Er werd ook benchmarking uitgevoerd om bestaande oplossingen en hun tekortkomingen te analyseren. Daarnaast werden interviews georganiseerd met therapeuten en ouderen om diepgaand inzicht te krijgen in hun perspectieven en ervaringen. Deze gecombineerde aanpak stelde ons in staat om probleemopportuniteiten te identificeren en de belangrijkste behoeften van de doelgroep te definiëren.
 
-* **Definition (Week 5-7):** De verzamelde data uit de Discovery-fase werd geanalyseerd en vertaald naar concrete ontwerpeisen. We definieerden de probleemstelling en creëerden initiële concepten voor LumiLife. Vervolgens werden gebruikerstesten uitgevoerd om te beoordelen welke concepten het meest aantrekkelijk en haalbaar waren voor onze doelgroep.
+* **
+Tijdens de Definition-fase werden de inzichten uit de Discovery-fase vertaald naar duidelijke ontwerpeisen en productvereisten. Op basis van deze gegevens werden verschillende concepten ontwikkeld, zorgvuldig beoordeeld en geprioriteerd om te voldoen aan de behoeften van de doelgroep.
+Om de interactie met het product beter te begrijpen en te illustreren, werd een storyboard ontworpen.
+Daarnaast vonden drie rondes van gebruikerstesten plaats, waarbij elke ronde 4 tot 5 deelnemers telde. De testen richtten zich op het evalueren van de aantrekkelijkheid, haalbaarheid en gebruiksvriendelijkheid van het ontwerp a.d.h.v. low-fidelity prototypes. Voor elke test werden uitgebreide protocollen en informed consents opgesteld en de resultaten werden nauwgezet gedocumenteerd in rapporten.
 
-* **Development Iteration 1 (Week 8-10):** Tijdens de eerste ontwikkelronde werkten we een functioneel prototype uit. Dit prototype bevatte interactieve pads met basisfunctionaliteiten zoals licht- en geluidssignalen. Gebruikerstesten hielpen ons om het ontwerp verder te verfijnen en technische beperkingen aan te pakken.
-
-* **Development Iteration 2 (Week 11-13):** Op basis van feedback uit de eerste iteratie werd het prototype verder geoptimaliseerd. We voegden nieuwe functies toe, zoals ritmische interactie met muziek, en testten het in een realistischere setting. Deze iteratie zorgde voor een gebruiksvriendelijker ontwerp dat beter aansloot op de behoeften van de doelgroep.
-
-* **Delivery (Week 14-16):** In de laatste fase werd het eindproduct gepresenteerd. We demonstreerden de functionaliteiten van LumiLife en stelden een uitgebreid rapport op waarin het volledige ontwerpproces werd gedocumenteerd. Het eindproduct werd geëvalueerd op functionaliteit, gebruiksvriendelijkheid en impact op de doelgroep.
-
-
-Tijdlijn
-Om het proces visueel te ondersteunen, werd een tijdlijn opgesteld waarin de verschillende fasen, activiteiten en tijdsindicaties zijn weergegeven. Deze tijdlijn benadrukt de iteratieve aanpak en de nadruk op constante evaluatie en verbetering.
+* **Development (Semester 2)**
+In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratieve processen. De focus zal liggen op:
+* Definiëren van de belangrijkste ontwerpprioriteiten: Het identificeren en specificeren van cruciale aspecten van het productontwerp die afgestemd zijn op gebruikersbehoeften en technologische mogelijkheden.
+* Ontwerpmethoden toepassen: Het uitvoeren van doelgerichte activiteiten, zoals prototyping, testen, en evalueren, om het ontwerp te verfijnen en de functionaliteiten te optimaliseren.
+* Drie iteratieve ontwikkelingsfases: In elke iteratie worden nieuwe functies toegevoegd en geëvalueerd. Het proces omvat het testen van basisfunctionaliteiten (zoals licht- en geluidssignalen), uitbreiding met complexe interacties (zoals multisensorische feedback), en optimalisatie van de gebruikservaring in realistische contexten.
 
 tijdlijn
 Afbeelding 3. 
