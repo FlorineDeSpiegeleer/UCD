@@ -86,23 +86,27 @@ De Discovery-fase richtte zich op het beantwoorden van de vraag: "Wat is het pro
 
 ### Materiaal & methoden
 **"How Might We"-vraag**
+
 Een "How Might We"-vraag werd geformuleerd om het onderzoek te kaderen:
 Hoe kunnen we een interactieve, multisensorische ervaring creëren voor ouderen die zowel hun cognitieve als fysieke gezondheid bevordert, terwijl het boeiend en gemakkelijk te gebruiken blijft?
 Deze vraag definieerde de doelgroep, het probleem, de context en de technologische haalbaarheid. Ze diende als richtlijn voor alle onderzoeksactiviteiten.
 
 **Literatuuronderzoek**
+
 Een literatuurstudie werd uitgevoerd om inzicht te krijgen in:
 * Mobiliteits- en cognitieve uitdagingen bij ouderen.
 * De Ronnie Gardiner Methode (RGM) en vergelijkbare technieken.
 Het literatuuronderzoek volgde een gestructureerd protocol waarbij databases en relevante wetenschappelijke artikelen werden geraadpleegd. De resultaten werden samengevat in een rapport dat als basis diende voor verdere beslissingen.
 
 **Interviews**
+
 Interviews werden afgenomen om waardevolle inzichten te verkrijgen in de behoeften van ouderen en professionals:
 * Twee interviews met ouderen, waarvan één persoon ervaring had met cognitieve stimulatie en één niet, maar wel regelmatig oefeningen doet.
 * Eén interview met een kinesist die werkt met ouderen, maar nog geen ervaring heeft met de Ronnie Gardiner Methode (RGM).
 Voorafgaand aan de interviews werden protocollen opgesteld en a.d.h.v. een informed consent gevraagd om toestemming te verkrijgen voor deelname en het gebruik van de verzamelde gegevens. De gegevens uit de interviews werden zorgvuldig geanalyseerd om thema’s en patronen te identificeren die relevant zijn voor het ontwerp van de oplossing.
 
 **Benchmarking**
+
 Er werd een benchmarking uitgevoerd van bestaande producten die fysieke en cognitieve stimulatie combineren. Dit omvatte onder andere:
 * Moto Tiles
 * BlazePods
