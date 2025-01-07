@@ -148,6 +148,7 @@ Zie interviewrapporten ([interviewrapport](https://www.scribbr.nl/category/apa-s
 
 
 **Bevindingen uit Benchmarking:**
+
 Uit benchmarking van producten zoals Moto Tiles, BlazePods, en Thera-Trainer Senso kwamen de volgende inzichten:
 * Multisensorische interacties: Deze producten gebruiken licht en geluid om fysieke en cognitieve uitdagingen te combineren.
 * Kosten en complexiteit: Veel concurrerende producten zijn duur en vereisen vaak een operator, wat ze minder geschikt maakt voor zelfstandig gebruik door ouderen.
