@@ -13,19 +13,10 @@ Dit probleem is onderzocht door middel van literatuurstudies, gebruikerstesten e
 De oplossing is LumiLife: een set compacte, interactieve pads die licht- en geluidssignalen combineren om ouderen fysiek en cognitief te stimuleren. De pads lichten op in ritme met de muziek, en de gebruiker moet snel drukken op de oplichtende pad. Dit bevordert niet alleen motorische vaardigheden en reactiesnelheid, maar zorgt ook voor een leuke en uitdagende ervaring. De pads zijn ontworpen voor zowel zittend als staand gebruik en kunnen eenvoudig worden ingezet in woonzorgcentra of thuisomgevingen.
 LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houden, hun geheugen te trainen en hun mobiliteit te verbeteren. Dit alles in een product dat eenvoudig te gebruiken, gemakkelijk op te bergen en motiverend is voor de doelgroep.
 
+
 sketch/render/image: 
 
-
 Afbeelding 1.  
-
-
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
 
 
 
@@ -137,14 +128,14 @@ De "How Might We"-vraag fungeerde als richtlijn om onderzoeksvragen en ontwerpei
 * Effectiviteit van ritme en muziek: Ritmische bewegingen en muziek verbeteren cognitieve functies zoals geheugen en balans, zoals aangetoond in studies over de Ronnie Gardiner Methode (RGM). Deze methode combineert multisensorische prikkels met fysieke activiteit​
 * Cognitieve en fysieke dual-tasking: Het gelijktijdig uitvoeren van fysieke en cognitieve taken leidt tot verbeterde motorische en mentale vaardigheden, wat de kern vormt van het concept​
 * Motivatie en personalisatie: Gebruikers reageren beter wanneer activiteiten aansluiten bij hun persoonlijke voorkeuren, vooral bij muziek. Dit benadrukt het belang van aanpasbaarheid in het ontwerp​
-Details zijn te vinden in het literatuursonderzoek protocol ([literatuuronderzoek protocol](https://www.scribbr.nl/category/apa-stijl/)) en het literatuuronderzoekrapport in de bijlage ([literatuuronderzoekrapport](https://www.scribbr.nl/category/apa-stijl/)).
+Details zijn te vinden in het literatuursonderzoek protocol ([literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)) en het literatuuronderzoekrapport in de bijlage ([literatuuronderzoekrapport](https://1drv.ms/w/c/9458d939536e9058/EWQz_9QD8dpBpTh8NQzMlokB5SeG6wV0K6LT6gMB9irLHA?e=O8cmlj)).
 
 
 **Inzicht uit de interviews:**
 * Eenvoud en toegankelijkheid: Ouderen prefereren intuïtieve technologieën die gemakkelijk te begrijpen zijn. Complexiteit werkt ontmoedigend​
 * Multisensorische feedback: Licht en subtiele geluiden worden gewaardeerd, maar overstimulatie moet worden vermeden. Dit geldt vooral bij cognitieve uitdagingen zoals balans- en geheugenproblemen​
 * Zelfstandigheid en motivatie: Variatie in oefeningen en autonomie zijn belangrijk voor motivatie en consistent gebruik​
-Zie interviewrapporten ([interviewrapport](https://www.scribbr.nl/category/apa-stijl/))en protocollen ([interview protocol](https://www.scribbr.nl/category/apa-stijl/))in de bijlage voor een uitgebreide analyse.
+Zie interviewrapporten ([interviewrapport](https://1drv.ms/w/c/9458d939536e9058/ER6nH3z0XeFKuMaCuIisP8YBIFPhPJLEmsiKt6eIfM8fhg?e=8cAQuv))en protocollen ([interview protocol](https://1drv.ms/w/c/9458d939536e9058/EWRbjy3uARlLg2ORJMHx51kB_5V5LIPIr9IfjHXqO9-4yA?e=10Dczc))in de bijlage voor een uitgebreide analyse.
 
 
 **Bevindingen uit Benchmarking:**
@@ -152,22 +143,32 @@ Zie interviewrapporten ([interviewrapport](https://www.scribbr.nl/category/apa-s
 Uit benchmarking van producten zoals Moto Tiles, BlazePods, en Thera-Trainer Senso kwamen de volgende inzichten:
 * Multisensorische interacties: Deze producten gebruiken licht en geluid om fysieke en cognitieve uitdagingen te combineren.
 * Kosten en complexiteit: Veel concurrerende producten zijn duur en vereisen vaak een operator, wat ze minder geschikt maakt voor zelfstandig gebruik door ouderen.
+Details zijn te vinden in het benchmarking rapport ([benchmarking rapport](https://1drv.ms/w/c/9458d939536e9058/EQlW4kpImIJMtvqYNZ5XCkoBC6DovXtIstasZ4E2wJtfuw?e=PyZ9mh)).
 
 
 ### Conclusies & implicaties
 De Discovery-fase leverde cruciale inzichten op voor het ontwerp van een toegankelijk product dat ouderen zowel cognitief als fysiek ondersteunt. Multisensorische interactie, zoals visuele, auditieve en tactiele feedback, werd geïdentificeerd als essentieel om betrokkenheid en effectiviteit te verhogen. Daarnaast is het ontwerp gericht op eenvoud en aanpasbaarheid, zodat gebruikers met verschillende niveaus van mobiliteit en cognitie het gemakkelijk kunnen gebruiken. Ritmische stimulatie, geïnspireerd door de Ronnie Gardiner Methode, bleek een waardevol therapeutisch middel om motoriek en geheugen te verbeteren. Tot slot benadrukten benchmarking en literatuuronderzoek het belang van kosteneffectiviteit en gebruiksgemak om het product breed inzetbaar te maken.
 
 
-
-
 ## Definition
-Max. 1000 woorden
+
+
 ### Doestellingen
-Wat wilde je bereiken?
+De Definition-fase was gericht op het vertalen van de inzichten uit de Discovery-fase naar concrete concepten en ontwerpeisen. Het hoofddoel was het ontwikkelen van een onderbouwd en uitvoerbaar ontwerpconcept dat zowel cognitieve als fysieke stimulatie voor ouderen combineert. Specifiek streefden we naar:
+* Het vaststellen van duidelijke productdoelstellingen en -vereisten gebaseerd op gebruikersinzichten.
+* Het ontwerpen en evalueren van low-fidelity prototypes om de haalbaarheid en aantrekkelijkheid van het concept te testen.
+* Het identificeren en prioriteren van essentiële functies die het product effectief, gebruiksvriendelijk en toegankelijk maken.
+
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Gebaseerd op de Discovery-fase werden de belangrijkste ontwerpeisen opgesteld. Deze werden geïnspireerd door de "How Might We"-vraag en inzichten uit literatuuronderzoek, interviews en benchmarking. Het doel was om een helder kader te creëren voor de ontwikkeling van prototypes en concepten.
+
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
@@ -192,5 +193,15 @@ Max. 500 woorden
 
 
 ## Bijlagen
-[^1]: [miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572)) 
-[^1]: [miroboard ](//www.alzint.org/about/dementia-facts-figures/dementia-statistics/) 
+[^1]: [miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
+[^2]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+[^3]: [literatuuronderzoekrapport](https://1drv.ms/w/c/9458d939536e9058/EWQz_9QD8dpBpTh8NQzMlokB5SeG6wV0K6LT6gMB9irLHA?e=O8cmlj)
+[^4]: [interviewrapport](https://1drv.ms/w/c/9458d939536e9058/ER6nH3z0XeFKuMaCuIisP8YBIFPhPJLEmsiKt6eIfM8fhg?e=8cAQuv)
+[^5]: [interview protocol](https://1drv.ms/w/c/9458d939536e9058/EWRbjy3uARlLg2ORJMHx51kB_5V5LIPIr9IfjHXqO9-4yA?e=10Dczc)
+[^6]: [benchmarking rapport](https://1drv.ms/w/c/9458d939536e9058/EQlW4kpImIJMtvqYNZ5XCkoBC6DovXtIstasZ4E2wJtfuw?e=PyZ9mh)
+[^7]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+[^8]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+[^9]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+[^10]: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+
+
