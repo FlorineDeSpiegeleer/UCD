@@ -205,7 +205,9 @@ Figuur :
 * Gebruikers waardeerden de mogelijkheid om de snelheid en moeilijkheidsgraad aan te passen.
 * Bij "Memory" benadrukten gebruikers het belang van visuele feedback bij foutieve keuzes om hun geheugen te trainen​
 
-Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina ([Scratch]()).
+Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina.
+* Memory:  ([memory 2s](https://scratch.mit.edu/projects/1105844361))([memory 4s](https://scratch.mit.edu/projects/1105841443))([memory 6s](https://scratch.mit.edu/projects/1105627585))
+* Simon Says: ([blijvend](https://scratch.mit.edu/projects/1105530454))([afzonderlijk](https://scratch.mit.edu/projects/1105490436))
 
 **Gebruiksscenario's**
 * Zittend gebruik bleek essentieel, aangezien deelnemers in woonzorgcentra geen oefeningen rechtstaand konden uitvoeren​
@@ -228,7 +230,7 @@ Figuur :
 
 * Lay-out B (zwart-wit): Rustig en leesbaar, maar minder uitnodigend voor sommige gebruikers.
 
-Figuur :
+Figuur : 
 
 * Lay-out C (kleurrijke interface zonder icoontjes): Eenvoudig en aantrekkelijk, hoewel sommige kleuren minder zichtbaar waren​
 
@@ -241,7 +243,10 @@ Reactiespel: Gebruikers waardeerden de uitdaging, maar foutmeldingen (rood licht
 Muzikale volgorde: Het gebruik van muziek werd positief ontvangen, maar er ontstond verwarring over de spelregels: zoals het onderscheid tussen een lange druk op een knop en meerdere korte drukken.
 Bomspel: Het spel was te complex en ontmoedigend en had demotiverende effect van opnieuw moeten beginnen bij een fout bij sommige gebruikers​.
 
-Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina ([Scratch]()).
+Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina.
+* Reactiespel: ([reactiespel]())
+* Muzikale volgorde: ([broeder Jacob]())
+* Bomspel: ([oversteek]())
 
 
 **Feedback en motivatie**
@@ -252,6 +257,9 @@ Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-p
 **Opbergmethoden**
 * Het stapelsysteem werd praktisch bevonden, hoewel het onhandig was voor gebruikers met beperkte handkracht.
 * Het ophangsysteem op de muur werd gewaardeerd om zijn motiverende effect, maar stabiliteit van de gebruiker bleef een aandachtspunt.
+
+Figuur : 
+
 * De draagkoffer werd als te zwaar beschouwd.
 
 Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM).
@@ -279,21 +287,32 @@ Max. 500 woorden
 
 ## Bronnen
 1: Alzheimer’s Disease International - Dementia statistics(z.d.). [dementia facts figures](//www.alzint.org/about/dementia-facts-figures/dementia-statistics/) 
-2: Alzheimer’s Disease International - WHO launches its global status report on the public health response to dementia. [WHO global status raport]([//www.alzint.org/about/dementia-facts-figures/dementia-statistics/](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)) 
+
+2: Alzheimer’s Disease International - WHO launches its global status report on the public health response to dementia. [WHO global status raport]((https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)) 
+
 3: Expertisecentrum Dementie Vlaanderen. (z.d.) - Prevalentie van dementie in België. [prevalentie dementie]([//https://www.dementie.be/home/wat-is-dementie/prevalentie/)) 
 
 
 ## Bijlagen
 
 1: [miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
+
 2: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
+
 3: [literatuuronderzoekrapport](https://1drv.ms/w/c/9458d939536e9058/EWQz_9QD8dpBpTh8NQzMlokB5SeG6wV0K6LT6gMB9irLHA?e=O8cmlj)
+
 4: [interviewrapport](https://1drv.ms/w/c/9458d939536e9058/ER6nH3z0XeFKuMaCuIisP8YBIFPhPJLEmsiKt6eIfM8fhg?e=8cAQuv)
+
 5: [interview protocol](https://1drv.ms/w/c/9458d939536e9058/EWRbjy3uARlLg2ORJMHx51kB_5V5LIPIr9IfjHXqO9-4yA?e=10Dczc)
+
 6: [benchmarking rapport](https://1drv.ms/w/c/9458d939536e9058/EQlW4kpImIJMtvqYNZ5XCkoBC6DovXtIstasZ4E2wJtfuw?e=PyZ9mh)
+
 7: [gebruikerstest protocol - Wave 1](https://1drv.ms/w/c/9458d939536e9058/EZPexuH_t1ZDrBxKF-i5EC4BjO-2J_DN5rmQSSC7-4Sotg?e=qlHPgn)
+
 8: [gebruikerstest rapport - Wave 1](https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO)
+
 9: [gebruikerstest protocol - Wave 2](https://1drv.ms/w/c/9458d939536e9058/Efkxnmg8y29DovwRH3Wme88Bf6xJzYXhyNBKQ7RPIrKVMA?e=dqqbPx)
+
 10: [gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM)
 
 
