@@ -15,7 +15,7 @@ LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houde
 
 <img src="https://github.com/user-attachments/assets/7efb93a3-ce78-4fa9-96cb-1d0a359c266c" alt="sketch van de pads" width="50%"/><br/>
 <img src="https://github.com/user-attachments/assets/7a4e949d-ee9a-4cbb-9d29-5ae345ce5b92" alt="sketch van de pads" width="50%"/><br/>
-Figuur 1: Sketch van de pads
+Figuur 1 & 2: Sketch van de pads en mockup van interface
 
 ## Introductie
 
@@ -25,7 +25,7 @@ De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossin
 
 ![image](https://github.com/user-attachments/assets/9d09cb9c-83d0-4dd2-921d-a27b3b5e4a60)
 
-Figuur 2: Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
+Figuur 3: Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
 
 
 
@@ -47,7 +47,7 @@ Tijdens de Definition-fase werden de inzichten uit de Discovery-fase vertaald na
 Er werd een storyboard ontworpen om de gebruikerservaring en interacties met LumiLife te visualiseren. Dit storyboard speelde een cruciale rol in het communiceren van ontwerpideeën en het maken van abstracte concepten tastbaar voor het team en gebruikers. Het bood een visueel overzicht van hoe de pads zouden worden gebruikt in verschillende contexten, en hielp bij het identificeren van potentiële knelpunten in de gebruikersflow.
 
 
-Figuur 3: Storyboard
+Figuur 4: Storyboard
 
 Daarnaast vonden drie rondes van gebruikerstesten plaats, waarbij elke ronde 4 tot 5 deelnemers telde. De testen richtten zich op het evalueren van de aantrekkelijkheid, haalbaarheid en gebruiksvriendelijkheid van het ontwerp a.d.h.v. low-fidelity prototypes. Voor elke test werden uitgebreide protocollen en informed consents opgesteld en de resultaten werden nauwgezet gedocumenteerd in rapporten.
 De resultaten en rapporten vormden een solide basis voor het definitieve concept en de verdere ontwikkeling.
@@ -60,7 +60,7 @@ In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratie
 
 ![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/8d520abe4ca6ac43c15741aea6686691e437a6c5/tijdlijn.jpg)
 
-Figuur 4: Tijdlijn 
+Figuur 5: Tijdlijn 
 
 Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken van de doelgroep, werd LumiLife ontwikkeld als een innovatieve en effectieve oplossing om ouderen fysiek en mentaal te ondersteunen.
 
@@ -200,13 +200,13 @@ De eerste gebruikerstest leverde belangrijke inzichten op over de fysieke intera
 * Vorm: Hexagonale pads werden geprefereerd vanwege hun stabiliteit en gebruiksgemak. Ronde pads gleden vaak weg en werden minder praktisch gevonden.
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0005.jpg" alt="vorm van de pads" width="50%"/><br/>
-Figuur 5: Vorm van de pads
+Figuur 6: Vorm van de pads
 
 
 * Grootte: Kleinere en middelgrote pads waren favoriet. Deze formaten zijn handzaam en geschikt voor ouderen met beperkte kracht en mobiliteit​
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0006.jpg" alt="grootte van de pads" width="50%"/><br/>
-Figuur 6: Grootte van de pads
+Figuur 7: Grootte van de pads
 
 **Spelervaring en mechanismen**
 * Bij "Simon Says" werd het behouden van eerdere kleuren in de volgorde als nuttig ervaren.
@@ -235,17 +235,17 @@ De tweede gebruikerstest richtte zich op interface-optimalisatie, spelvarianten 
 * Lay-out A (kleurrijke interface met icoontjes): Positief ontvangen vanwege de visuele aantrekkingskracht, hoewel icoontjes soms overbodig werden gevonden.
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%202%20-%20elderly%20game%20(1).jpg" alt="lay-out A" width="50%"/><br/>
-Figuur 7: Lay-out kleurijke interface met icoontjes
+Figuur 8: Lay-out kleurijke interface met icoontjes
 
 * Lay-out B (zwart-wit): Rustig en leesbaar, maar minder uitnodigend voor sommige gebruikers.
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%201%20-%20elderly%20game%20(1).jpg" alt="lay-out B" width="50%"/><br/>
-Figuur 8: Lay-out zwart-wit
+Figuur 9: Lay-out zwart-wit
 
 * Lay-out C (kleurrijke interface zonder icoontjes): Eenvoudig en aantrekkelijk, hoewel sommige kleuren minder zichtbaar waren​
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%203%20-%20elderly%20game%20(1).jpg" alt="lay-out C" width="50%"/><br/>
-Figuur 9: Lay-out licht blauw
+Figuur 10: Lay-out licht blauw
 
 
 **Spelvarianten**
@@ -271,7 +271,7 @@ Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-p
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0009.jpg" alt="ophangen op muur" width="50%"/><br/>
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0012.jpg" alt="ophangen op muur" width="50%"/><br/>
-Figuur 10 & 11: ophangsysteem op muur 
+Figuur 11 & 12: ophangsysteem op muur 
 
 * De draagkoffer werd als te zwaar beschouwd.
 
