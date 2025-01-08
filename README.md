@@ -344,7 +344,26 @@ De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in he
 - Prototype
 
 ## Kritische reflectie
-Max. 500 woorden
+Het LumiLife-project heeft ons een diepgaand inzicht gegeven in het proces van gebruikersgericht ontwerpen, met name voor een kwetsbare doelgroep zoals ouderen. Door gebruik te maken van een iteratief ontwerpproces en drie golven van gebruikerstesten, hebben we het concept kunnen verfijnen tot een oplossing die zowel cognitieve als fysieke stimulatie combineert. Ondanks onze vooruitgang zijn er enkele sterke punten en uitdagingen die het reflecteren waard zijn.
+
+**Sterke punten**
+Een van de belangrijkste successen van het project was de nauwe betrokkenheid van de doelgroep tijdens elke fase. Door interviews, observaties en feedback van ouderen hebben we een ontwerp ontwikkeld dat aansluit bij hun behoeften. De keuze voor hexagonale pads, grotere knoppen en verbeterde kleurencontrasten zijn voorbeelden van directe resultaten van gebruikersfeedback.
+
+Daarnaast was het iteratieve karakter van het project een groot voordeel. Door prototypes te ontwikkelen, te testen en te verbeteren, hebben we het product steeds gebruiksvriendelijker en aantrekkelijker gemaakt. Vooral de aanpassing van visuele en auditieve feedback bleek cruciaal om de spelervaring intuïtiever en motiverender te maken.
+
+De methodische aanpak, zoals het Triple Diamond-model, zorgde ervoor dat het proces goed gestructureerd bleef. Het gebruik van benchmarks, literatuuronderzoek en duidelijke protocollen maakte de beslissingen transparant en onderbouwd. Deze aanpak gaf ons niet alleen richting, maar zorgde er ook voor dat het eindproduct stevig geworteld is in theorie en praktijk.
+
+**Uitdagingen**
+Ondanks deze successen waren er ook beperkingen. De relatief kleine testgroep, voornamelijk bestaande uit ouderen met interesse in technologie, maakt het lastig om de resultaten te generaliseren.
+
+Daarnaast bleek de technische uitvoerbaarheid van sommige functies een uitdaging. Het verminderen van het gewicht van de pads en het toevoegen van een volumeregeling voor auditieve feedback vereisen verdere technologische innovatie en samenwerking met materiaal- en elektronica-experts.
+
+Het ontwerpen van een balans tussen stimulatie en eenvoud was ook complex. Hoewel ouderen de multisensorische feedback waardeerden, werd overstimulatie soms als overweldigend ervaren. Het vinden van een optimale instelling die aanpasbaar is voor individuele voorkeuren blijft een aandachtspunt.
+
+**Lessen en vooruitzichten**
+Een belangrijke les is dat gebruikersbetrokkenheid vanaf het begin cruciaal is voor het succes van een ontwerp. De inzichten uit interviews en testen hebben ons geholpen om problemen vroegtijdig te identificeren en op te lossen. Tegelijkertijd hebben we geleerd dat flexibiliteit in ontwerp en aanpassingsvermogen in technologie essentieel zijn voor producten die een diverse doelgroep bedienen.
+
+Vooruitkijkend biedt LumiLife een solide basis voor verdere ontwikkeling. Met aanvullende tests, een bredere gebruikersgroep en technologische verbeteringen kan het product een significante impact hebben op de levenskwaliteit van ouderen. Het project heeft ons niet alleen waardevolle ontwerpvaardigheden bijgebracht, maar ook laten zien hoe technologie op een toegankelijke manier kan bijdragen aan maatschappelijke uitdagingen.
 
 ## Algemene Product requirements
 
