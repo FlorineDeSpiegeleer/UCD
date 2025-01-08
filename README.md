@@ -14,7 +14,6 @@ De oplossing is LumiLife: een set compacte, interactieve pads die licht- en gelu
 LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houden, hun geheugen te trainen en hun mobiliteit te verbeteren. Dit alles in een product dat eenvoudig te gebruiken, gemakkelijk op te bergen en motiverend is voor de doelgroep.
 
 
-sketch/render/image: 
 
 
 
