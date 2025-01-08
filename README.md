@@ -327,7 +327,9 @@ Aanbevelingen voor verdere ontwikkeling:
 
 4. Ontwikkel een handleiding met visuele en eenvoudige instructies om zelfstandig gebruik te ondersteunen.
 
-Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 3]()).
+Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/baptiste_braekevelt_ugent_be/EQKbyQ5XPVJLrybpckSG4dUBGQ-3FgQxPabmIXJJkcQ6sw?e=UkvHKF)).
+
+Je vindt de Definition template hier in de bijlage ([Definition template](https://www.figma.com/design/Cy5q6bLcNbuYPB8e8v4Wj1/Untitled?node-id=0-1&p=f&t=RWDK0Pis2ZzK7HZx-0))
 
 ### Conclusies & implicaties
 De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in het ontwerp. Spelregels moeten intuïtief en duidelijk zijn om frustratie te voorkomen, en fouten mogen niet leiden tot demotivatie. Ritmische en multisensorische feedback blijft een essentieel element om zowel fysieke als cognitieve stimulatie te waarborgen.
@@ -425,9 +427,9 @@ Voor een uitgebreide lijst met specifieke requirements en de onderliggende analy
 
 10: [gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM)
 
-11: [gebruikerstest protocol - Wave 3]()
+11: [gebruikerstest protocol - Wave 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/baptiste_braekevelt_ugent_be/EbCnf3R7DIdLmGyTlWvTBcUBCBHf9HaWExY64SAbwqhtrg?e=NYnRbU)
 
-12: [gebruikerstest rapport - Wave 3]()
+12: [gebruikerstest rapport - Wave 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/baptiste_braekevelt_ugent_be/EQKbyQ5XPVJLrybpckSG4dUBGQ-3FgQxPabmIXJJkcQ6sw?e=UkvHKF)
 
 13: Scratch
 * Memory:  ([memory 2s](https://scratch.mit.edu/projects/1105844361))([memory 4s](https://scratch.mit.edu/projects/1105841443))([memory 6s](https://scratch.mit.edu/projects/1105627585))
