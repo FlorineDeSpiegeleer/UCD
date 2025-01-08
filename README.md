@@ -270,7 +270,7 @@ Figuur 7 & 8: ophangsysteem op muur
 
 * De draagkoffer werd als te zwaar beschouwd.
 
-Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM).
+Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM)).
 
 
 #### Wave 3
