@@ -15,7 +15,7 @@ LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houde
 
 <img src="https://github.com/user-attachments/assets/7efb93a3-ce78-4fa9-96cb-1d0a359c266c" alt="sketch van de pads" width="50%"/><br/>
 <img src="https://github.com/user-attachments/assets/7a4e949d-ee9a-4cbb-9d29-5ae345ce5b92" alt="sketch van de pads" width="50%"/><br/>
-Figuur 1 & 2: Sketch van de pads en mockup van interface
+Figuur 1 & 2: Sketch van de pads en mockup van de interface
 
 ## Introductie
 
