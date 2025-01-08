@@ -196,9 +196,14 @@ De kennis en inzichten uit elke test werden gebruikt om nieuwe, betere prototype
 De eerste gebruikerstest leverde belangrijke inzichten op over de fysieke interactie en interfacevoorkeuren van ouderen:
 **Vorm en grootte van de pads**
 * Vorm: Hexagonale pads werden geprefereerd vanwege hun stabiliteit en gebruiksgemak. Ronde pads gleden vaak weg en werden minder praktisch gevonden.
+
+![foto gebruikerstest 1](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0005.jpg)
+Figuur 2: Vorm van de pads
+
 * Grootte: Kleinere en middelgrote pads waren favoriet. Deze formaten zijn handzaam en geschikt voor ouderen met beperkte kracht en mobiliteit​
 
-Figuur : 
+![foto gebruikerstest 2](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0006.jpg)
+Figuur 3: Grootte van de pads
 
 **Spelervaring en mechanismen**
 * Bij "Simon Says" werd het behouden van eerdere kleuren in de volgorde als nuttig ervaren.
@@ -226,15 +231,18 @@ De tweede gebruikerstest richtte zich op interface-optimalisatie, spelvarianten 
 **Interface-optimalisatie**
 * Lay-out A (kleurrijke interface met icoontjes): Positief ontvangen vanwege de visuele aantrekkingskracht, hoewel icoontjes soms overbodig werden gevonden.
 
-Figuur : 
+![foto gebruikerstest 3](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%202%20-%20elderly%20game%20(1).jpg)
+Figuur 4: Lay-out kleurijke interface met icoontjes
 
 * Lay-out B (zwart-wit): Rustig en leesbaar, maar minder uitnodigend voor sommige gebruikers.
 
-Figuur : 
+![foto gebruikerstest 4](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%201%20-%20elderly%20game%20(1).jpg)
+Figuur 5: Lay-out zwart-wit
 
 * Lay-out C (kleurrijke interface zonder icoontjes): Eenvoudig en aantrekkelijk, hoewel sommige kleuren minder zichtbaar waren​
 
-Figuur :  
+![foto gebruikerstest 5](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%203%20-%20elderly%20game%20(1).jpg)
+Figuur 6: Lay-out licht blauw
 
 
 **Spelvarianten**
@@ -244,9 +252,9 @@ Muzikale volgorde: Het gebruik van muziek werd positief ontvangen, maar er ontst
 Bomspel: Het spel was te complex en ontmoedigend en had demotiverende effect van opnieuw moeten beginnen bij een fout bij sommige gebruikers​.
 
 Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina.
-* Reactiespel: ([reactiespel]())
-* Muzikale volgorde: ([broeder Jacob]())
-* Bomspel: ([oversteek]())
+* Reactiespel: ([reactiespel](https://scratch.mit.edu/projects/1108515084))
+* Muzikale volgorde: ([broeder Jacob](https://scratch.mit.edu/projects/1108770480))
+* Bomspel: ([oversteek](https://scratch.mit.edu/projects/1108045979))
 
 
 **Feedback en motivatie**
@@ -258,7 +266,9 @@ Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-p
 * Het stapelsysteem werd praktisch bevonden, hoewel het onhandig was voor gebruikers met beperkte handkracht.
 * Het ophangsysteem op de muur werd gewaardeerd om zijn motiverende effect, maar stabiliteit van de gebruiker bleef een aandachtspunt.
 
-Figuur : 
+![foto gebruikerstest 6](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0009.jpg)
+![foto gebruikerstest 7]((https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0012.jpg))
+Figuur 7 & 8: ophangsysteem op muur 
 
 * De draagkoffer werd als te zwaar beschouwd.
 
