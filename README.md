@@ -293,6 +293,28 @@ De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in he
 ## Kritische reflectie
 Max. 500 woorden
 
+## Product requirements
+### Algemene Product Requirements
+
+| **Categorie**          | **Requirement**                                                                                  | **Bron**                          |
+|-------------------------|------------------------------------------------------------------------------------------------|-----------------------------------|
+| **Gebruiksgemak**       | Het product moet intuïtief zijn, met minimale uitleg of training voor gebruikers.                | Interviews, Gebruikerstesten      |
+|                         | Alle elementen moeten eenvoudig bedienbaar zijn, ook voor mensen met beperkte kracht of mobiliteit. | Interviews, Wave 1 & Wave 2       |
+|                         | De lay-out moet duidelijk en consistent zijn, zodat gebruikers snel kunnen navigeren.            | Literatuuronderzoek               |
+| **Veiligheid**          | Het product moet veilig zijn om te gebruiken, zonder scherpe randen of onderdelen die gemakkelijk loskomen. | Benchmarking, Gebruikerstesten   |
+|                         | Het gebruik van materialen moet allergievrij en niet-giftig zijn.                                | Benchmarking                      |
+| **Flexibiliteit**       | Het product moet aanpasbaar zijn voor gebruikers met verschillende fysieke en cognitieve niveaus. | Interviews, Literatuuronderzoek   |
+|                         | Er moeten instellingen zijn om de moeilijkheidsgraad aan te passen.                              | Wave 2                            |
+| **Duurzaamheid**        | De materialen moeten bestand zijn tegen intensief gebruik en langdurige belasting.               | Benchmarking                      |
+|                         | Het product moet eenvoudig schoon te maken zijn.                                                | Interviews, Wave 1                |
+| **Feedback**            | Visuele en auditieve feedback moeten duidelijk en begrijpelijk zijn.                            | Literatuuronderzoek, Wave 2       |
+|                         | Feedback moet aangepast kunnen worden aan persoonlijke voorkeuren (bijv. volume, kleurintensiteit). | Gebruikerstesten                  |
+| **Toegankelijkheid**    | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                  | Interviews, Benchmarking          |
+|                         | Alle teksten en instructies moeten in het Nederlands beschikbaar zijn.                          | Interviews, Wave 2                |
+| **Opslag en Transport** | Het product moet lichtgewicht en draagbaar zijn, met eenvoudige opbergmogelijkheden.             | Wave 2                            |
+|                         | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                               | Wave 2                            |
+
+
 ## Bronnen
 1: Alzheimer’s Disease International - Dementia statistics(z.d.). [dementia facts figures](//www.alzint.org/about/dementia-facts-figures/dementia-statistics/) 
 
