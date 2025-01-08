@@ -296,6 +296,7 @@ Max. 500 woorden
 ## Algemene Product requirements
 
 Hieronder worden de belangrijkste algemene product requirements samengevat, gebaseerd op inzichten uit interviews, literatuuronderzoek, benchmarking en gebruikerstesten. Deze vereisten bieden een overzicht van de kernfuncties en eigenschappen die essentieel zijn voor het ontwerp en de ontwikkeling van het product.
+
 Voor een uitgebreide lijst met specifieke requirements en de onderliggende analyses verwijzen we naar het volledige document in de bijlage ([Product requirements](https://1drv.ms/w/c/9458d939536e9058/EeOrmluedlZEijFVp-KXkkYByNwl6bXrTcV5uZBdw7UXhA?e=TZn4MG)). Hierin worden alle product requirements gedetailleerd besproken, inclusief de bronverwijzingen en context.
 
 | **Categorie**          | **Requirement**                                                                                  | **Bron**                          |
