@@ -333,15 +333,20 @@ Zie het rapport voor een volledige analyse (gebruikerstest rapport - Wave 3).
 De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in het ontwerp. Spelregels moeten intuïtief en duidelijk zijn om frustratie te voorkomen, en fouten mogen niet leiden tot demotivatie. Ritmische en multisensorische feedback blijft een essentieel element om zowel fysieke als cognitieve stimulatie te waarborgen.
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+**Elektronische componenten**
+1. LED-strips of -panelen: Voor de visuele feedback.
+2. Druksensoren: Voor het detecteren van aanrakingen op de pads.
+3. Microcontroller (zoals Arduino of Raspberry Pi): Voor de aansturing van LED's en sensoren.
+4. Batterij of oplaadbare accu: Voor draagbare energievoorziening.
+
+**Fysieke materialen**
+1. Padstructuur (bijvoorbeeld acryl, kunststof of hout): Voor de behuizing en fysieke vorm van de pads.
+2. Rubberen antislipmateriaal: Om de pads stabiel te houden op verschillende oppervlakken.
+3. Draagkoffer of opbergdoos: Voor transport en opslag.
+
+**Gereedschappen en accessoires**
+1. Schroeven, bouten, of lijm: Voor het assembleren van de pads.
+2. Soldeerbout en soldeertin: Voor het verbinden van elektronische componenten.
 
 ## Kritische reflectie
 Het LumiLife-project heeft ons een diepgaand inzicht gegeven in het proces van gebruikersgericht ontwerpen, met name voor een kwetsbare doelgroep zoals ouderen. Door gebruik te maken van een iteratief ontwerpproces en drie golven van gebruikerstesten, hebben we het concept kunnen verfijnen tot een oplossing die zowel cognitieve als fysieke stimulatie combineert. Ondanks onze vooruitgang zijn er enkele sterke punten en uitdagingen die het reflecteren waard zijn.
