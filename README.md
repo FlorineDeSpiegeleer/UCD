@@ -199,12 +199,10 @@ De eerste gebruikerstest leverde belangrijke inzichten op over de fysieke intera
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0005.jpg" alt="vorm van de pads" width="50%"/><br/>
 Figuur 2: Vorm van de pads
 
-![foto gebruikerstest 1](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0005.jpg)
-Figuur 2: Vorm van de pads
 
 * Grootte: Kleinere en middelgrote pads waren favoriet. Deze formaten zijn handzaam en geschikt voor ouderen met beperkte kracht en mobiliteit​
 
-![foto gebruikerstest 2](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0006.jpg)
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0006.jpg" alt="grootte van de pads" width="50%"/><br/>
 Figuur 3: Grootte van de pads
 
 **Spelervaring en mechanismen**
@@ -233,17 +231,17 @@ De tweede gebruikerstest richtte zich op interface-optimalisatie, spelvarianten 
 **Interface-optimalisatie**
 * Lay-out A (kleurrijke interface met icoontjes): Positief ontvangen vanwege de visuele aantrekkingskracht, hoewel icoontjes soms overbodig werden gevonden.
 
-![foto gebruikerstest 3](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%202%20-%20elderly%20game%20(1).jpg)
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%202%20-%20elderly%20game%20(1).jpg" alt="lay-out A" width="50%"/><br/>
 Figuur 4: Lay-out kleurijke interface met icoontjes
 
 * Lay-out B (zwart-wit): Rustig en leesbaar, maar minder uitnodigend voor sommige gebruikers.
 
-![foto gebruikerstest 4](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%201%20-%20elderly%20game%20(1).jpg)
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%201%20-%20elderly%20game%20(1).jpg" alt="lay-out B" width="50%"/><br/>
 Figuur 5: Lay-out zwart-wit
 
 * Lay-out C (kleurrijke interface zonder icoontjes): Eenvoudig en aantrekkelijk, hoewel sommige kleuren minder zichtbaar waren​
 
-![foto gebruikerstest 5](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%203%20-%20elderly%20game%20(1).jpg)
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%203%20-%20elderly%20game%20(1).jpg" alt="lay-out C" width="50%"/><br/>
 Figuur 6: Lay-out licht blauw
 
 
@@ -268,8 +266,8 @@ Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-p
 * Het stapelsysteem werd praktisch bevonden, hoewel het onhandig was voor gebruikers met beperkte handkracht.
 * Het ophangsysteem op de muur werd gewaardeerd om zijn motiverende effect, maar stabiliteit van de gebruiker bleef een aandachtspunt.
 
-![foto gebruikerstest 6](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0009.jpg)
-![foto gebruikerstest 7]((https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0012.jpg))
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0009.jpg" alt="ophangen op muur" width="50%"/><br/>
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0012.jpg" alt="ophangen op muur" width="50%"/><br/>
 Figuur 7 & 8: ophangsysteem op muur 
 
 * De draagkoffer werd als te zwaar beschouwd.
