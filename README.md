@@ -55,7 +55,9 @@ In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratie
   * Ontwerpmethoden toepassen: Het uitvoeren van doelgerichte activiteiten, zoals prototyping, testen, en evalueren, om het ontwerp te verfijnen en de functionaliteiten te optimaliseren.
   * Drie iteratieve ontwikkelingsfases: In elke iteratie worden nieuwe functies toegevoegd en geëvalueerd. Het proces omvat het testen van basisfunctionaliteiten (zoals licht- en geluidssignalen), uitbreiding met complexe interacties (zoals multisensorische feedback), en optimalisatie van de gebruikservaring in realistische contexten.
 
-<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/3cf681e7db9edbde4c57bfe74cfff021ba0937ab/tijdlijn.pdf" alt="tijdlijn" width="50%"/>
+![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/3cf681e7db9edbde4c57bfe74cfff021ba0937ab/tijdlijn.pdf)
+
+Figuur 3: Tijdlijn 
 
 Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken van de doelgroep, werd LumiLife ontwikkeld als een innovatieve en effectieve oplossing om ouderen fysiek en mentaal te ondersteunen.
 
@@ -193,6 +195,9 @@ De kennis en inzichten uit elke test werden gebruikt om nieuwe, betere prototype
 De eerste gebruikerstest leverde belangrijke inzichten op over de fysieke interactie en interfacevoorkeuren van ouderen:
 **Vorm en grootte van de pads**
 * Vorm: Hexagonale pads werden geprefereerd vanwege hun stabiliteit en gebruiksgemak. Ronde pads gleden vaak weg en werden minder praktisch gevonden.
+
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0005.jpg" alt="vorm van de pads" width="50%"/><br/>
+Figuur 2: Vorm van de pads
 
 ![foto gebruikerstest 1](https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0005.jpg)
 Figuur 2: Vorm van de pads
