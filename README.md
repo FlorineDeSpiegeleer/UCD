@@ -273,8 +273,61 @@ Figuur 7 & 8: ophangsysteem op muur
 Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM).
 
 
-Wave 3
+#### Wave 3
 
+**Doelstellingen**
+
+De derde wave van gebruikerstesten in de Definition-fase richtte zich op het verder verfijnen en valideren van het concept. Het hoofddoel was om te onderzoeken of het product daadwerkelijk een probleem oplost voor ouderen en hoe het kan worden geoptimaliseerd voor de uiteindelijke doelgroep. Specifiek waren de doelstellingen:
+
+* Het valideren van de aantrekkelijkheid, functionaliteit en effectiviteit van het concept.
+
+* Het verkrijgen van diepgaand inzicht in hoe ouderen omgaan met het product in een realistische setting.
+
+* Het identificeren van eventuele resterende barrières en verbeterpunten.
+
+**Materiaal & methoden**
+
+Gebruikersgroep: Voor de derde wave werden drie oudere deelnemers geselecteerd (leeftijd 65-70 jaar) die eerder interesse toonden in technologie en spellen. Deze groep bood een representatief beeld van de doelgroep.
+
+Voorbereiding: De prototypes die werden gebruikt, waren verbeterde versies gebaseerd op de feedback uit de eerste twee waves. De belangrijkste verbeteringen waren:
+
+* Geoptimaliseerde spelregels en visuele feedback.
+
+* Een stabielere fysieke structuur van de pads.
+
+* Een aangepaste interface met grotere knoppen en verbeterde kleurencontrasten.
+
+Uitvoering van de tests: De tests werden uitgevoerd in de vertrouwde omgeving van de deelnemers om realistische interacties te observeren. De methoden omvatten:
+
+Observatie: Non-verbale reacties en fysieke interacties werden geanalyseerd.
+
+Semi-gestructureerde interviews: Open vragen werden gesteld om inzichten te verzamelen over gebruiksgemak, spelplezier en verbeterpunten.
+
+Feedbackformulieren: Deelnemers vulden een korte vragenlijst in over hun algemene ervaring.
+
+**Algemene feedback**
+
+* Deelnemers vonden het product een nuttige en leuke manier om zowel fysiek als mentaal actief te blijven.
+
+* Korte sessies van 10-15 minuten werden als ideaal beschouwd.
+
+* De draagbaarheid van de pads en het gemak van opbergen bleven aandachtspunten.
+
+**Conclusie en aanbevelingen**
+
+De derde wave van gebruikerstesten bevestigde dat het concept aansluit bij de behoeften van ouderen. Het product stimuleert zowel fysieke als cognitieve activiteit op een toegankelijke en plezierige manier.
+
+Aanbevelingen voor verdere ontwikkeling:
+
+1. Optimaliseer de draagbaarheid van de pads, bijvoorbeeld door een lichter materiaal te gebruiken.
+
+2. Voeg een volumeregeling toe voor de auditieve feedback.
+
+3. Overweeg meer spelvarianten die zowel individueel als in groepsverband gespeeld kunnen worden.
+
+4. Ontwikkel een handleiding met visuele en eenvoudige instructies om zelfstandig gebruik te ondersteunen.
+
+Zie het rapport voor een volledige analyse (gebruikerstest rapport - Wave 3).
 
 ### Conclusies & implicaties
 De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in het ontwerp. Spelregels moeten intuïtief en duidelijk zijn om frustratie te voorkomen, en fouten mogen niet leiden tot demotivatie. Ritmische en multisensorische feedback blijft een essentieel element om zowel fysieke als cognitieve stimulatie te waarborgen.
