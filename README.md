@@ -16,8 +16,7 @@ LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houde
 
 sketch/render/image: 
 
-Afbeelding 1.  
-
+Figuur 1: 
 
 
 ## Introductie
@@ -28,7 +27,7 @@ De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossin
 
 ![image](https://github.com/user-attachments/assets/9d09cb9c-83d0-4dd2-921d-a27b3b5e4a60)
 
-Afbeelding 2. Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
+Figuur 2: Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
 
 
 
@@ -56,9 +55,7 @@ In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratie
   * Ontwerpmethoden toepassen: Het uitvoeren van doelgerichte activiteiten, zoals prototyping, testen, en evalueren, om het ontwerp te verfijnen en de functionaliteiten te optimaliseren.
   * Drie iteratieve ontwikkelingsfases: In elke iteratie worden nieuwe functies toegevoegd en geëvalueerd. Het proces omvat het testen van basisfunctionaliteiten (zoals licht- en geluidssignalen), uitbreiding met complexe interacties (zoals multisensorische feedback), en optimalisatie van de gebruikservaring in realistische contexten.
 
-tijdlijn
-
-Afbeelding 3. 
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/3cf681e7db9edbde4c57bfe74cfff021ba0937ab/tijdlijn.pdf" alt="tijdlijn" width="50%"/>
 
 Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken van de doelgroep, werd LumiLife ontwikkeld als een innovatieve en effectieve oplossing om ouderen fysiek en mentaal te ondersteunen.
 
@@ -324,5 +321,14 @@ Max. 500 woorden
 9: [gebruikerstest protocol - Wave 2](https://1drv.ms/w/c/9458d939536e9058/Efkxnmg8y29DovwRH3Wme88Bf6xJzYXhyNBKQ7RPIrKVMA?e=dqqbPx)
 
 10: [gebruikerstest rapport - Wave 2](https://1drv.ms/w/c/9458d939536e9058/EQAoYSECcCZIl89DBi5uTBwBhS_ndjKiyS1uXfosK8tKcw?e=wQepgM)
+
+11: Scratch
+* Memory:  ([memory 2s](https://scratch.mit.edu/projects/1105844361))([memory 4s](https://scratch.mit.edu/projects/1105841443))([memory 6s](https://scratch.mit.edu/projects/1105627585))
+* Simon Says: ([blijvend](https://scratch.mit.edu/projects/1105530454))([afzonderlijk](https://scratch.mit.edu/projects/1105490436))
+* Reactiespel: ([reactiespel](https://scratch.mit.edu/projects/1108515084))
+* Muzikale volgorde: ([broeder Jacob](https://scratch.mit.edu/projects/1108770480))
+* Bomspel: ([oversteek](https://scratch.mit.edu/projects/1108045979))
+
+
 
 
