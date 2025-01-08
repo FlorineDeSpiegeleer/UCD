@@ -55,7 +55,7 @@ In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratie
   * Ontwerpmethoden toepassen: Het uitvoeren van doelgerichte activiteiten, zoals prototyping, testen, en evalueren, om het ontwerp te verfijnen en de functionaliteiten te optimaliseren.
   * Drie iteratieve ontwikkelingsfases: In elke iteratie worden nieuwe functies toegevoegd en geëvalueerd. Het proces omvat het testen van basisfunctionaliteiten (zoals licht- en geluidssignalen), uitbreiding met complexe interacties (zoals multisensorische feedback), en optimalisatie van de gebruikservaring in realistische contexten.
 
-![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/39361bc5730af36de080ac7f7971c688fa384c1f/tijdlijn.pdf)
+![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/8d520abe4ca6ac43c15741aea6686691e437a6c5/tijdlijn.jpg)
 
 Figuur 3: Tijdlijn 
 
