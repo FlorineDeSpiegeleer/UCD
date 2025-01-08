@@ -16,7 +16,7 @@ LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houde
 
 sketch/render/image: 
 
-Figuur 1: 
+
 
 
 ## Introductie
