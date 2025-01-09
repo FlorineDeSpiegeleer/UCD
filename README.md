@@ -46,7 +46,7 @@ Tijdens de Definition-fase werden de inzichten uit de Discovery-fase vertaald na
 
 Er werd een storyboard ontworpen om de gebruikerservaring en interacties met LumiLife te visualiseren. Dit storyboard speelde een cruciale rol in het communiceren van ontwerpideeën en het maken van abstracte concepten tastbaar voor het team en gebruikers. Het bood een visueel overzicht van hoe de pads zouden worden gebruikt in verschillende contexten, en hielp bij het identificeren van potentiële knelpunten in de gebruikersflow.
 
-
+![image](https://github.com/user-attachments/assets/9317f081-5b9f-4352-bf7f-57bc3adc0fd6)
 Figuur 4: Storyboard
 
 Daarnaast vonden drie rondes van gebruikerstesten plaats, waarbij elke ronde 4 tot 5 deelnemers telde. De testen richtten zich op het evalueren van de aantrekkelijkheid, haalbaarheid en gebruiksvriendelijkheid van het ontwerp a.d.h.v. low-fidelity prototypes. Voor elke test werden uitgebreide protocollen en informed consents opgesteld en de resultaten werden nauwgezet gedocumenteerd in rapporten.
