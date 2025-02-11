@@ -69,7 +69,7 @@ Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken v
 
 
 ### Doestellingen
-De Discovery-fase richtte zich op het beantwoorden van de vraag: "Wat is het probleem en hoe kunnen we dit begrijpen?". Het doel was om diepgaand inzicht te verkrijgen in de behoeften, uitdagingen en gedragingen van de doelgroep, met name ouderen, en hoe deze met fysieke en cognitieve beperkingen omgaan. Specifiek streefden we ernaar:
+De Discovery-fase richtte zich op het beantwoorden van de vraag: "Wat is het probleem en hoe kunnen we dit begrijpen?". Het doel was om diepgaand inzicht te verkrijgen in de behoeften, uitdagingen en gedragingen van de doelgroep, met name ouderen, en hoe deze met fysieke en cognitieve beperkingen omgaan. Specifiek werd er gestreefd naar:
 * In kaart brengen van mobiliteits- en geheugenproblemen bij ouderen.
 * Onderzoeken van bestaande methodes en technologieën die fysieke en cognitieve stimulatie bevorderen, waaronder de Ronnie Gardiner Methode (RGM).
 * Identificeren van mogelijkheden om een toegankelijk product te ontwikkelen dat ouderen motiveert tot actieve participatie.
@@ -156,7 +156,7 @@ De Discovery-fase leverde cruciale inzichten op voor het ontwerp van een toegank
 
 
 ### Doestellingen
-De Definition-fase was gericht op het vertalen van de inzichten uit de Discovery-fase naar concrete concepten en ontwerpeisen. Het hoofddoel was het ontwikkelen van een onderbouwd en uitvoerbaar ontwerpconcept dat zowel cognitieve als fysieke stimulatie voor ouderen combineert. Specifiek streefden we naar:
+De Definition-fase was gericht op het vertalen van de inzichten uit de Discovery-fase naar concrete concepten en ontwerpeisen. Het hoofddoel was het ontwikkelen van een onderbouwd en uitvoerbaar ontwerpconcept dat zowel cognitieve als fysieke stimulatie voor ouderen combineert. Specifiek werd er gestreefd naar:
 * Het vaststellen van duidelijke productdoelstellingen en -vereisten gebaseerd op gebruikersinzichten.
 * Het ontwerpen en evalueren van low-fidelity prototypes om de haalbaarheid en aantrekkelijkheid van het concept te testen.
 * Het identificeren en prioriteren van essentiële functies die het product effectief, gebruiksvriendelijk en toegankelijk maken.
