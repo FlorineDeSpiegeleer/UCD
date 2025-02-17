@@ -13,8 +13,8 @@ Dit probleem is onderzocht door middel van literatuurstudies, gebruikerstesten e
 De oplossing is LumiLife: een set compacte, interactieve pads die licht- en geluidssignalen combineren om ouderen fysiek en cognitief te stimuleren. De pads lichten op in ritme met de muziek, en de gebruiker moet snel drukken op de oplichtende pad. Dit bevordert niet alleen motorische vaardigheden en reactiesnelheid, maar zorgt ook voor een leuke en uitdagende ervaring. De pads zijn ontworpen voor zowel zittend als staand gebruik en kunnen eenvoudig worden ingezet in woonzorgcentra of thuisomgevingen.
 LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houden, hun geheugen te trainen en hun mobiliteit te verbeteren. Dit alles in een product dat eenvoudig te gebruiken, gemakkelijk op te bergen en motiverend is voor de doelgroep.
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/7efb93a3-ce78-4fa9-96cb-1d0a359c266c" alt="sketch van de pads" width="50%"/><br/>
+<p float="left">
+ <img src="https://github.com/user-attachments/assets/7efb93a3-ce78-4fa9-96cb-1d0a359c266c" alt="sketch van de pads" width="50%"/><br/>
 <img src="https://github.com/user-attachments/assets/7a4e949d-ee9a-4cbb-9d29-5ae345ce5b92" alt="sketch van de pads" width="50%"/><br/>
 </p>
 
