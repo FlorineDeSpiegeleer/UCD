@@ -405,9 +405,9 @@ Voor een uitgebreide lijst met specifieke requirements en de onderliggende analy
 ## Bronnen
 1: Alzheimer’s Disease International - Dementia statistics(z.d.). [dementia facts figures](//www.alzint.org/about/dementia-facts-figures/dementia-statistics/) 
 
-2: Alzheimer’s Disease International - WHO launches its global status report on the public health response to dementia. [WHO global status raport]((https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)) 
+2: Alzheimer’s Disease International - WHO launches its global status report on the public health response to dementia. [WHO global status raport](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/) 
 
-3: Expertisecentrum Dementie Vlaanderen. (z.d.) - Prevalentie van dementie in België. [prevalentie dementie]([//https://www.dementie.be/home/wat-is-dementie/prevalentie/)) 
+3: Expertisecentrum Dementie Vlaanderen. (z.d.) - Prevalentie van dementie in België. [prevalentie dementie]([//https://www.dementie.be/home/wat-is-dementie/prevalentie/) 
 
 
 ## Bijlagen
