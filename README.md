@@ -411,7 +411,7 @@ Voor een uitgebreide lijst met specifieke requirements en de onderliggende analy
 
 ## Bijlagen
 
-1: [Miroboard](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
+1: [miroboard](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
 
 2: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
 
