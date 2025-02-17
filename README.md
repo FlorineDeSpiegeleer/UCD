@@ -195,8 +195,7 @@ De kennis en inzichten uit elke test werden gebruikt om nieuwe, betere prototype
 
 #### Wave 1
 
-De eerste gebruikerstest leverde belangrijke inzichten op over de fysieke interactie en interfacevoorkeuren van ouderen:
-**Vorm en grootte van de pads**
+In Wave 1 van dit project waren er twee respondenten (N=2), en de eerste gebruikerstest gaf waardevolle inzichten over de fysieke interactie en de voorkeuren voor de interface van ouderen, zoals **de vorm en grootte van de pads**.
 * Vorm: Hexagonale pads werden geprefereerd vanwege hun stabiliteit en gebruiksgemak. Ronde pads gleden vaak weg en werden minder praktisch gevonden.
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0005.jpg" alt="vorm van de pads" width="50%"/><br/>
@@ -229,7 +228,7 @@ Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 1](ht
 
 #### Wave 2
 
-De tweede gebruikerstest richtte zich op interface-optimalisatie, spelvarianten en opbergmethoden:
+De tweede gebruikerstest richtte zich op de optimalisatie van **de interface**, verschillende **spelvarianten** en **opbergmethoden**, waarbij vier respondenten (N=4) betrokken waren.
 
 **Interface-optimalisatie**
 * Lay-out A (kleurrijke interface met icoontjes): Positief ontvangen vanwege de visuele aantrekkingskracht, hoewel icoontjes soms overbodig werden gevonden.
@@ -282,7 +281,7 @@ Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 2](ht
 
 **Doelstellingen**
 
-De derde wave van gebruikerstesten in de Definition-fase richtte zich op het verder verfijnen en valideren van het concept. Het hoofddoel was om te onderzoeken of het product daadwerkelijk een probleem oplost voor ouderen en hoe het kan worden geoptimaliseerd voor de uiteindelijke doelgroep. Specifiek waren de doelstellingen:
+In Wave 3 waren er drie respondenten (N=3) die betrokken waren om aanvullende inzichten te verkrijgen. De gebruikerstesten in de Definition-fase richtte zich op het verder verfijnen en valideren van het concept. Het hoofddoel was om te onderzoeken of het product daadwerkelijk een probleem oplost voor ouderen en hoe het geoptimaliseerd kan worden voor de uiteindelijke doelgroep. Specifiek waren de doelstellingen:
 
 * Het valideren van de aantrekkelijkheid, functionaliteit en effectiviteit van het concept.
 
