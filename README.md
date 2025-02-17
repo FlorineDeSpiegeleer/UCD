@@ -21,7 +21,7 @@ Figuur 1 & 2: Sketch van de pads en mockup van de interface
 ## Introductie
 
 
-De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie ([Expertisecentrum Dementie Vlaanderen](https://www.dementie.be/home/wat-is-dementie/prevalentie/)). Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld ([Alzheimer’s Disease International, z.d.]([https://www.scribbr.nl/category/apa-stijl/](https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/))). Afbeelding 1 illustreert de verwachte toename van het aantal mensen met dementie wereldwijd tussen 2019 en 2050, zoals gerapporteerd door de WHO ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)). Deze cijfers onderstrepen de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
+De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie ([Expertisecentrum Dementie Vlaanderen](https://www.dementie.be/home/wat-is-dementie/prevalentie/)). Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld ([Alzheimer’s Disease International, z.d.]([https://www.scribbr.nl/category/apa-stijl/](https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/))). Afbeelding 1 illustreert de verwachte toename van het aantal mensen met dementie wereldwijd tussen 2019 en 2050, zoals gerapporteerd door de WHO ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)). Deze cijfers benadrukken de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
 
 ![image](https://github.com/user-attachments/assets/9d09cb9c-83d0-4dd2-921d-a27b3b5e4a60)
 
@@ -112,14 +112,14 @@ De producten werden geanalyseerd op aspecten zoals functionaliteit, gebruiksgema
 * Onderzoeksprotocollen: Voor zowel het literatuuronderzoek als de interviews werden gedetailleerde protocollen opgesteld in Word om het onderzoek gestructureerd te laten verlopen.
 * Rapportage: De resultaten en bevindingen van de verschillende methoden werden geanalyseerd en samengevat in rapporten, opgesteld met Microsoft Word. Voor het verwerken en organiseren van kwantitatieve en kwalitatieve gegevens werd gebruik gemaakt van Microsoft Excel.
 * Opnames: Tijdens de interviews werd gebruik gemaakt van Word Dictate om audio-opnames te maken, wat zorgde voor een efficiënte verwerking en analyse van de gesprekken.
-* Analysemodellen: Het onderzoek werd ondersteund door methoden zoals root-cause analysis om fundamentele problemen te identificeren en de innovatrix om oplossingen te verkennen en te evalueren.
+* Analysemodellen: Het onderzoek werd ondersteund door methoden zoals root-cause analysis om fundamentele problemen te identificeren en de Innovatrix om oplossingen te verkennen en te evalueren.
 
 
 ### Resultaten
 **How Might We"-vraag**
 De "How Might We"-vraag werd geformuleerd om het onderzoek te kaderen en richten: "Hoe kunnen we een interactieve, multisensorische ervaring creëren voor ouderen die zowel hun cognitieve als fysieke gezondheid bevordert, terwijl het boeiend en gemakkelijk te gebruiken blijft?"
 De vraag definieert:
-* Doelgroep: Ouderen die te maken hebben met verminderde mobiliteit of een  cognitieve achteruitgang.
+* Doelgroep: Ouderen die te maken hebben met verminderde mobiliteit of een cognitieve achteruitgang.
 * Probleem: Cognitieve achteruitgang en fysieke inactiviteit komen veel voor bij oudere mensen, wat leidt tot gezondheidsrisico's zoals geheugenverlies en slechte motoriek.
 * Context: Deze oplossing kan worden toegepast in zorginstellingen, thuisomgevingen of revalidatiecentra.
 * Waarom: Met een groeiende vergrijzing is er een dringende behoefte aan oplossingen die fysieke en cognitieve oefeningen combineren om het welzijn van ouderen te bevorderen.
@@ -130,7 +130,7 @@ De "How Might We"-vraag fungeerde als richtlijn om onderzoeksvragen en ontwerpei
 * Effectiviteit van ritme en muziek: Ritmische bewegingen en muziek verbeteren cognitieve functies zoals geheugen en balans, zoals aangetoond in studies over de Ronnie Gardiner Methode (RGM). Deze methode combineert multisensorische prikkels met fysieke activiteit​
 * Cognitieve en fysieke dual-tasking: Het gelijktijdig uitvoeren van fysieke en cognitieve taken leidt tot verbeterde motorische en mentale vaardigheden, wat de kern vormt van het concept​
 * Motivatie en personalisatie: Gebruikers reageren beter wanneer activiteiten aansluiten bij hun persoonlijke voorkeuren, vooral bij muziek. Dit benadrukt het belang van aanpasbaarheid in het ontwerp​
-Details zijn te vinden in het literatuursonderzoek protocol ([literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)) en het literatuuronderzoekrapport in de bijlage ([literatuuronderzoekrapport](https://1drv.ms/w/c/9458d939536e9058/EWQz_9QD8dpBpTh8NQzMlokB5SeG6wV0K6LT6gMB9irLHA?e=O8cmlj)).
+Details zijn te vinden in het literatuuronderzoek protocol ([literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)) en het literatuuronderzoekrapport in de bijlage ([literatuuronderzoekrapport](https://1drv.ms/w/c/9458d939536e9058/EWQz_9QD8dpBpTh8NQzMlokB5SeG6wV0K6LT6gMB9irLHA?e=O8cmlj)).
 
 
 **Inzicht uit de interviews:**
@@ -213,7 +213,7 @@ Figuur 7: Grootte van de pads
 * Bij "Memory" benadrukten gebruikers het belang van visuele feedback bij foutieve keuzes om hun geheugen te trainen​
 
 Zie de spelletjes die tijdens de gebruikerstesten werden ingezet op de Scratch-projectpagina.
-* Memory:  ([memory 2s](https://scratch.mit.edu/projects/1105844361))([memory 4s](https://scratch.mit.edu/projects/1105841443))([memory 6s](https://scratch.mit.edu/projects/1105627585))
+* Memory: ([memory 2s](https://scratch.mit.edu/projects/1105844361))([memory 4s](https://scratch.mit.edu/projects/1105841443))([memory 6s](https://scratch.mit.edu/projects/1105627585))
 * Simon Says: ([blijvend](https://scratch.mit.edu/projects/1105530454))([afzonderlijk](https://scratch.mit.edu/projects/1105490436))
 
 **Gebruiksscenario's**
@@ -234,7 +234,7 @@ De tweede gebruikerstest richtte zich op de optimalisatie van **de interface**, 
 * Lay-out A (kleurrijke interface met icoontjes): Positief ontvangen vanwege de visuele aantrekkingskracht, hoewel icoontjes soms overbodig werden gevonden.
 
 <img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/interface%202%20-%20elderly%20game%20(1).jpg" alt="lay-out A" width="50%"/><br/>
-Figuur 8: Lay-out kleurijke interface met icoontjes
+Figuur 8: Lay-out kleurrijke interface met icoontjes
 
 * Lay-out B (zwart-wit): Rustig en leesbaar, maar minder uitnodigend voor sommige gebruikers.
 
@@ -305,7 +305,7 @@ Uitvoering van de tests: De tests werden uitgevoerd in de vertrouwde omgeving va
 
 Observatie: Non-verbale reacties en fysieke interacties werden geanalyseerd.
 
-Semi-gestructureerde interviews: Open vragen werden gesteld om inzichten te verzamelen over gebruiksgemak, spelplezier en verbeterpunten.
+Semigestructureerde interviews: Open vragen werden gesteld om inzichten te verzamelen over gebruiksgemak, spelplezier en verbeterpunten.
 
 Feedbackformulieren: Deelnemers vulden een korte vragenlijst in over hun algemene ervaring.
 
@@ -346,7 +346,7 @@ De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in he
 4. Batterij of oplaadbare accu: Voor draagbare energievoorziening.
 
 **Fysieke materialen**
-1. Padstructuur (bijvoorbeeld acryl, kunststof of hout): Voor de behuizing en fysieke vorm van de pads.
+1. Pads structuur (bijvoorbeeld acryl, kunststof of hout): Voor de behuizing en fysieke vorm van de pads.
 2. Rubberen antislipmateriaal: Om de pads stabiel te houden op verschillende oppervlakken.
 3. Draagkoffer of opbergdoos: Voor transport en opslag.
 
@@ -411,7 +411,7 @@ Voor een uitgebreide lijst met specifieke requirements en de onderliggende analy
 
 ## Bijlagen
 
-1: [miroboard ](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
+1: [Miroboard](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
 
 2: [literatuuronderzoek protocol](https://1drv.ms/w/c/9458d939536e9058/EeYX1FP0L-lAgm024h_cDNcBPWpA-TumwWbAEvHtPe6b6w?e=PJB6Yb)
 
