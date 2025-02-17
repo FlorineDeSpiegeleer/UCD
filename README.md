@@ -13,10 +13,8 @@ Dit probleem is onderzocht door middel van literatuurstudies, gebruikerstesten e
 De oplossing is LumiLife: een set compacte, interactieve pads die licht- en geluidssignalen combineren om ouderen fysiek en cognitief te stimuleren. De pads lichten op in ritme met de muziek, en de gebruiker moet snel drukken op de oplichtende pad. Dit bevordert niet alleen motorische vaardigheden en reactiesnelheid, maar zorgt ook voor een leuke en uitdagende ervaring. De pads zijn ontworpen voor zowel zittend als staand gebruik en kunnen eenvoudig worden ingezet in woonzorgcentra of thuisomgevingen.
 LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houden, hun geheugen te trainen en hun mobiliteit te verbeteren. Dit alles in een product dat eenvoudig te gebruiken, gemakkelijk op te bergen en motiverend is voor de doelgroep.
 
-<p align=center">
- <img src="https://github.com/user-attachments/assets/7efb93a3-ce78-4fa9-96cb-1d0a359c266c" alt="sketch van de pads" width="50%"/><br/>
+<img src="https://github.com/user-attachments/assets/7efb93a3-ce78-4fa9-96cb-1d0a359c266c" alt="sketch van de pads" width="50%"/><br/>
 <img src="https://github.com/user-attachments/assets/7a4e949d-ee9a-4cbb-9d29-5ae345ce5b92" alt="sketch van de pads" width="50%"/><br/>
-</p>
 
 Figuur 1 & 2: Sketch van de pads en mockup van de interface
 
@@ -25,8 +23,9 @@ Figuur 1 & 2: Sketch van de pads en mockup van de interface
 
 De wereldwijde vergrijzing brengt een toenemende vraag naar innovatieve oplossingen voor de uitdagingen van ouder worden. In België heeft 10% van de 65-plussers mobiliteitsproblemen, en dit percentage neemt aanzienlijk toe naarmate de leeftijd vordert. Daarnaast kampt 10% van de 65-plussers, 20% van de 80-plussers en zelfs 40% van de 90-plussers met geheugenverlies of dementie ([Expertisecentrum Dementie Vlaanderen](https://www.dementie.be/home/wat-is-dementie/prevalentie/)). Wereldwijd wordt er om de drie seconden bij iemand de diagnose dementie gesteld ([Alzheimer’s Disease International, z.d.]([https://www.scribbr.nl/category/apa-stijl/](https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/))). Afbeelding 1 illustreert de verwachte toename van het aantal mensen met dementie wereldwijd tussen 2019 en 2050, zoals gerapporteerd door de WHO ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/)). Deze cijfers onderstrepen de dringende noodzaak om ouderen op een toegankelijke en motiverende manier fysiek en mentaal te ondersteunen.
 
-
+<p align="center">
 ![image](https://github.com/user-attachments/assets/9d09cb9c-83d0-4dd2-921d-a27b3b5e4a60)
+</p>
 
 Figuur 3: Verwachte groei van het aantal mensen met dementie wereldwijd van 2019 tot 2050. ([Alzheimer’s Disease International, 2021](https://www.alzint.org/news-events/news/who-launches-its-global-status-report-on-the-public-health-response-to-dementia/))
 
