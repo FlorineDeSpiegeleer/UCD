@@ -6,6 +6,8 @@
 
 08/01/2025
 
+---
+
 ## Samenvatting
 
 LumiLife is ontwikkeld om het probleem van fysieke en cognitieve achteruitgang bij ouderen aan te pakken. Veel ouderen ervaren mobiliteitsproblemen en geheugenverlies, wat hun onafhankelijkheid en levenskwaliteit sterk beïnvloedt. Traditionele oplossingen zijn vaak duur, complex en niet gericht op een speelse aanpak die ouderen motiveert.
@@ -18,6 +20,7 @@ LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houde
 
 Figuur 1 & 2: Sketch van de pads en mockup van de interface
 
+---
 ## Introductie
 
 
@@ -32,7 +35,7 @@ Figuur 3: Verwachte groei van het aantal mensen met dementie wereldwijd van 2019
 LumiLife biedt een innovatieve oplossing voor deze uitdaging. Met een set interactieve pads die licht- en geluidssignalen gebruiken, combineert LumiLife fysieke en cognitieve stimulatie. De pads zijn ontworpen om eenvoudig en speels te gebruiken, zowel thuis als in woonzorgcentra. Door ouderen te motiveren actief te blijven, bevordert LumiLife niet alleen hun mobiliteit en reactiesnelheid, maar draagt het ook bij aan hun mentale veerkracht en algehele levenskwaliteit. Dit maakt LumiLife tot een waardevol hulpmiddel in de ondersteuning van ouderen in hun dagelijkse leven.
 
 
-
+---
 ## Methodologie
 
 
@@ -64,7 +67,7 @@ Figuur 5: Tijdlijn
 
 Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken van de doelgroep, werd LumiLife ontwikkeld als een innovatieve en effectieve oplossing om ouderen fysiek en mentaal te ondersteunen.
 
-
+---
 ## Discovery
 
 
@@ -151,7 +154,7 @@ Details zijn te vinden in het benchmarking rapport ([benchmarking rapport](https
 ### Conclusies & implicaties
 De Discovery-fase leverde cruciale inzichten op voor het ontwerp van een toegankelijk product dat ouderen zowel cognitief als fysiek ondersteunt. Multisensorische interactie, zoals visuele, auditieve en tactiele feedback, werd geïdentificeerd als essentieel om betrokkenheid en effectiviteit te verhogen. Daarnaast is het ontwerp gericht op eenvoud en aanpasbaarheid, zodat gebruikers met verschillende niveaus van mobiliteit en cognitie het gemakkelijk kunnen gebruiken. Ritmische stimulatie, geïnspireerd door de Ronnie Gardiner Methode, bleek een waardevol therapeutisch middel om motoriek en geheugen te verbeteren. Tot slot benadrukten benchmarking en literatuuronderzoek het belang van kosteneffectiviteit en gebruiksgemak om het product breed inzetbaar te maken.
 
-
+---
 ## Definition
 
 
@@ -343,7 +346,7 @@ De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in he
 
 
 
-
+---
 ## Develop 1: Interface en Opslagsystemen
 
 ### Doelstellingen
@@ -379,6 +382,7 @@ Om de bruikbaarheid van LumiLife in verschillende woonomgevingen te testen, werd
 2. **Honingraatstructuur** – een decoratief opbergsysteem met geometrische vormgeving dat inspeelt op visuele ordening.
 3. **Schilderijframe** – een geïntegreerde wandoplossing waarbij de pads rond een kunstwerk worden geplaatst, wat zorgt voor esthetische meerwaarde en speelse interactie.
 
+Figuur 13, 14 en 15: Ophangsysteem
 Deze drie varianten werden getest op gebruiksgemak, stabiliteit en voorkeur bij ouderen. De foto’s hieronder illustreren elk prototype.
 
 
@@ -470,6 +474,120 @@ De eerste ontwikkelfase van LumiLife leverde waardevolle inzichten op over hoe o
 
 Voor meer details, zie het [Develop 1 - rapport](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi) en het [testprotocol](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR).
 
+---
+## Develop 2: Elektronische Spelervaring en Feedbackmechanismen
+
+### Doelstellingen
+
+In de tweede ontwikkelfase lag de focus op het testen van de elektronische werking van de LumiLife-pads en het evalueren van vier concrete spelconcepten. De doelstelling was drievoudig:
+
+1. **Gebruikservaring van elektronische interactie**: Nagaan hoe ouderen omgaan met LED-feedback en drukknoppen in een spelcontext.
+2. **Begrijpelijkheid en spelplezier**: Evalueren hoe duidelijk de spelregels zijn en welke beleving elk spel oproept.
+3. **Iteratief verbeteren op basis van feedback**: Detecteren van technische, visuele of spelinhoudelijke knelpunten en formuleren van aanbevelingen voor optimalisatie.
+
+
+
+### Materiaal en methoden
+
+**Aantal respondenten**: N = 4  
+**Doelgroep**: Ouderen tussen 65 en 80 jaar, zonder mentale of fysieke beperkingen.  
+**Locatie**: Thuisomgeving van de respondenten (regio Gent en Zwevegem)  
+**Duur per sessie**: Ongeveer 50 minuten
+
+#### Voorbereiding
+
+Voor deze testfase werd een elektronisch prototype ontwikkeld op basis van een Arduino Nano, gekoppeld aan 9 breadboards met elk een LED en een drukknop. De visuele en auditieve feedback werd bewust eenvoudig gehouden om overprikkeling te vermijden. Een kartonnen behuizing zorgde ervoor dat de technische onderdelen onzichtbaar bleven, waardoor de gebruikers zich konden focussen op het spel. Hieronder is een afbeelding te zien van het prototype. 
+
+Figuur 16 & 17: prototype spelvarianten
+
+Vier interactieve spelletjes werden ontwikkeld en in dezelfde volgorde aangeboden:
+
+1. **Reactiespel** – Druk zo snel mogelijk op de oplichtende pad.
+2. **Simon Says** – Herhaal een steeds langer wordende kleurvolgorde.
+3. **Foutzoekspel** – Zoek de pad die *niet* brandt.
+4. **Opletspel** – Reageer zo snel mogelijk op een onverwacht lichtsignaal.
+
+#### Uitvoering van de tests
+
+Per sessie werden de vier spellen gespeeld en afzonderlijk geëvalueerd. De test bestond uit:
+
+- Introductie en invullen van informed consent (5 min)
+- Spelrondes met directe feedback na elk spel (4 × ±10 min)
+- Algemene reflectievragen over voorkeuren, technologiebeleving en herhaalbaarheid (5 min)
+
+De onderzoekers observeerden verbaal en non-verbaal gedrag, en noteerden reacties, voorkeuren en knelpunten per speltype.  
+
+
+
+### Resultaten
+
+#### Reactiespel (Snelheid)
+
+- **Ervaring**: Het spel werd eenvoudig gevonden, maar één deelnemer ervaarde de visuele flickerfeedback bij fouten als stresserend.  
+- **Problemen**: De vaste lengte van 90 seconden werd als te lang ervaren. Starttempo was voor sommigen te hoog.  
+- **Positief**: Ritme en eenvoud werden gewaardeerd.  
+- **Aanbevelingen**:
+  - Laat gebruikers de spelduur zelf instellen.
+  - Voeg een optie toe om het tempo aan te passen.
+  - Bied mogelijkheid om flickerfeedback uit te schakelen.
+
+#### Simon Says (Geheugen)
+
+- **Ervaring**: Hoge betrokkenheid, ondanks de moeilijkheidsgraad. Sommige deelnemers drukten te snel of vergaten het patroon.  
+- **Problemen**: Instructies waren onvoldoende duidelijk. Gebruikers wisten niet altijd wanneer hun beurt begon.  
+- **Scores**: Bereikte stappen varieerden van 3 tot 12.  
+- **Aanbevelingen**:
+  - Langere brandduur van de LED’s.
+  - Vooraf duidelijke speluitleg of korte demonstratie.
+  - Mogelijkheid om het startniveau (aantal stappen) zelf te kiezen.
+
+#### Foutzoekspel (Visuele focus)
+
+- **Ervaring**: Oudere deelnemers vonden het spel boeiend en uitdagend. Jongere deelnemers gaven aan dat het spel verwarrend werd bij veel gelijktijdige LED’s.  
+- **Problemen**: Eén deelnemer vond de lichtintensiteit te laag.  
+- **Scores**: Aantal correct opgeloste rondes varieerde van 18 tot 26.  
+- **Aanbevelingen**:
+  - Verhoog de LED-helderheid.
+  - Zorg voor beter visueel contrast bij veel lichtbronnen.
+
+#### Opletspel (Reactietijd)
+
+- **Ervaring**: Rustig spel dat weinig stress veroorzaakte.  
+- **Problemen**: LEDs brandden te kort. Onzekerheid over spelverloop (wanneer stopt het, wat gebeurt er bij fouten?).  
+- **Tijden**: Reactietijden varieerden tussen 754 ms en 1555 ms.  
+- **Aanbevelingen**:
+  - Laat de LEDs langer branden.
+  - Toon op het einde de snelste tijd.
+  - Voeg duidelijke begin- en eindsignalen toe.
+
+
+
+### Algemene observaties
+
+- **Fysiek gebruik**: Sommige drukknoppen zaten te diep, wat lastig was voor gebruikers met verminderde vingerkracht.
+- **Technologiebeleving**: Alle deelnemers stonden positief tegenover het gebruik van elektronische componenten, ondanks beperkte ervaring.  
+- **Spelregels en interface**:
+  - Er is nood aan duidelijke instructies vóór elk spel.
+  - Een visuele timer op het scherm zou houvast bieden.
+  - Auditieve feedback moet optioneel zijn om overstimulatie te vermijden.
+
+
+
+### Conclusie en ontwerpimplicaties
+
+De tweede ontwikkelfase toonde aan dat elektronische spellen voor ouderen effectief kunnen bijdragen aan motivatie, aandacht en spelplezier – mits de interactie helder, fysiek toegankelijk en psychologisch laagdrempelig blijft.
+
+**Spelbeleving is persoonlijk en situatieafhankelijk**: Sommige gebruikers zoeken uitdaging (zoals in *Simon Says*), terwijl anderen eerder rust en eenvoud verkiezen (*Opletspel*). Flexibiliteit in instellingen zoals tempo, spelduur en moeilijkheidsgraad is daarom essentieel.
+
+**Fysieke interactie moet vlot en intuïtief blijven**: Te diep gelegen knoppen of korte LED-signalen kunnen frustratie veroorzaken. Eenvoudige aanpassingen zoals hogere lichtintensiteit of langere feedbackduur verhogen de toegankelijkheid.
+
+**Duidelijkheid en structuur zijn cruciaal**: Heldere instructies, zichtbare timers en voorspelbare spelopbouw zorgen ervoor dat gebruikers zich veilig en autonoom voelen.
+
+**Technologische drempel is laag, mits goed begeleid**: Hoewel sommigen initieel twijfelden over hun eigen ‘technologische kennis’, verdween deze aarzeling snel bij een rustige introductie en laagdrempelige spelopzet.
+
+Deze bevindingen bevestigen dat de gekozen richting van LumiLife – fysieke en cognitieve stimulatie via speelse technologie – aansluit bij de leefwereld en mogelijkheden van ouderen. De verkregen feedback vormt een directe basis voor de technische en inhoudelijke verbeteringen in de derde ontwikkelfase.
+
+Voor alle details, zie het [Develop 2 - testverslag](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi) en het [testprotocol](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR).
 
 
 
