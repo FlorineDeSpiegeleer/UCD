@@ -335,8 +335,143 @@ Zie het rapport voor een volledige analyse ([gebruikerstest rapport - Wave 3](ht
 
 Je vindt de Definition template hier in de bijlage ([Definition template](https://www.figma.com/design/Cy5q6bLcNbuYPB8e8v4Wj1/Untitled?node-id=0-1&p=f&t=RWDK0Pis2ZzK7HZx-0))
 
+
 ### Conclusies & implicaties
 De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in het ontwerp. Spelregels moeten intuïtief en duidelijk zijn om frustratie te voorkomen, en fouten mogen niet leiden tot demotivatie. Ritmische en multisensorische feedback blijft een essentieel element om zowel fysieke als cognitieve stimulatie te waarborgen.
+
+## Develop 1: Interface en Opslagsystemen
+
+### Doelstellingen
+
+In deze eerste ontwikkelfase werd gefocust op het optimaliseren van de fysieke, cognitieve en sensoriële ergonomie van de LumiLife-stimulatiepads. De nadruk lag op het testen en verfijnen van drie cruciale productaspecten:
+
+1. **Fysieke ergonomie**: Onderzoeken hoe ouderen interageren met de pads in zowel zittende als staande positie, met aandacht voor comfort, houding en bewegingsbereik.
+2. **Opslagsystemen**: Vergelijken van drie opbergprototypes op vlak van gebruiksgemak, esthetiek en praktische toepasbaarheid in een woonzorgcontext.
+3. **Interfaceontwerp**: Toetsen of theoretisch onderbouwde UX-principes voor ouderen ook in de praktijk geprefereerd worden, aan de hand van visuele vergelijkingen tussen verschillende interface-elementen.
+
+---
+
+### Materiaal en methoden
+
+**Aantal respondenten**: N = 4  
+**Doelgroep**: Ouderen van 65–70 jaar, twee uit een woonzorgcentrum en twee die zelfstandig wonen.  
+**Locatie**: Woonzorgcentrum Heilig Hart en thuisomgevingen  
+**Duur per sessie**: Ongeveer 30 minuten  
+
+#### Voorbereiding
+
+Voorafgaand aan de gebruikerstesten werd een literatuuronderzoek uitgevoerd naar UX-ontwerpprincipes voor oudere volwassenen. Tijdens de gebruikerstest (N = 4) kregen de deelnemers per aspect telkens twee visueel uitgewerkte varianten te zien. Ze werden gevraagd om op basis van persoonlijke voorkeur aan te duiden welke versie ze het meest leesbaar, duidelijk of aantrekkelijk vonden. De elementen die geëvalueerd werden, omvatten:
+- Twee typografische stijlen (groot/vet vs. klein/standaard)
+- Twee knopvormen (groot/afgerond vs. smal/rechthoekig)
+- Twee kleurcombinaties (hoog vs. laag contrast)
+- Twee lay-outopzetten (luchtig gespreid vs. compact)
+Het document dat gebruikt werd tijdens de gebruikerstesten, met de resultaten van het literatuuronderzoek vindt u ([hier]([https://www.figma.com/design/Cy5q6bLcNbuYPB8e8v4Wj1/Untitled?node-id=0-1&p=f&t=RWDK0Pis2ZzK7HZx-0](https://1drv.ms/w/c/9458d939536e9058/EalpHkAlwedOk8uQsMz_srsBpAp_RENM4rBhBhqwPlnYFg?e=QTNQ8P))) terug. 
+
+Om de bruikbaarheid van LumiLife in verschillende woonomgevingen te testen, werden drie prototypes ontwikkeld voor het opbergen van de pads. Elk systeem exploreert een andere benadering van functionaliteit, esthetiek en ergonomie:
+
+1. **Magnetisch whiteboard** – een functioneel, modulair systeem waarbij pads snel bevestigd en verwijderd kunnen worden.
+2. **Honingraatstructuur** – een decoratief opbergsysteem met geometrische vormgeving dat inspeelt op visuele ordening.
+3. **Schilderijframe** – een geïntegreerde wandoplossing waarbij de pads rond een kunstwerk worden geplaatst, wat zorgt voor esthetische meerwaarde en speelse interactie.
+
+Deze drie varianten werden getest op gebruiksgemak, stabiliteit en voorkeur bij ouderen. De foto’s hieronder illustreren elk prototype.
+
+#### Uitvoering van de tests
+
+De testopzet bestond uit drie delen:
+
+1. **Interactieve pads – zittend vs. staand gebruik (15 min)**
+   - Deelnemers voerden een geheugenspel uit met kleurvolgorde zowel zittend als staand.
+   - Observaties: houding, bereikbaarheid, interactiestijl en tekenen van ongemak.
+
+2. **Opslagsystemen (10 min)**
+   - De deelnemers testten elk ophangsysteem afzonderlijk. Er werd ook gekeken naar hoe snel de begruikers intuitief doorhadden hoe het ophangsysteem werkt.
+   - Observaties: snelheid, hanteerbaarheid, voorkeur.
+
+3. **Interfacebeoordeling (5 min)**
+   - De deelnemers kregen verschillende interfacevarianten voorgelegd (kleur, tekststijl, knoppen) en werden gevraagd hun favoriet aan te duiden.
+   - Observaties: voorkeuren, herkenning, leesbaarheid.
+
+Tijdens elke sessie werd gebruik gemaakt van observaties, notities, en een kort interview. Alle deelnemers tekenden vooraf het informed consent.
+
+
+### Resultaten
+
+#### Interactie met de pads – zittend gebruik
+
+Tijdens het testen in zittende positie werd vooral gelet op comfort, bereikbaarheid en natuurlijke houding. De deelnemers kregen vooraf de mogelijkheid om de pads naar een voor hen comfortabele plek te verplaatsen, maar opvallend genoeg maakte niemand hiervan gebruik. Wel voelden de deelnemers vóór de start aan de verste en dichtstbijzijnde pads om de toegankelijkheid in te schatten. Dit gedrag suggereert dat ouderen zich spontaan aanpassen aan het standaardaanbod, zolang het binnen hun fysieke bereik valt.
+
+De observaties toonden subtiele maar relevante verschillen tussen gebruikers. Eén deelnemer zat verder van de pads en moest de rug losmaken van de rugleuning om de verste pads aan te raken. Ondanks een eerdere schouderoperatie kon zij de buitenste pads nog vlot bereiken, zonder spanningen in pols of arm. Een tweede deelnemer zat juist dichter bij de tafel, hoefde nauwelijks voorover te leunen, en vond automatisch een rusthouding waarbij de handen ontspannen op de bovenbenen lagen. Deze positie bleek ergonomisch optimaal en werd omschreven als “aangenaam natuurlijk”.
+
+Een belangrijke bevinding was dat het plaatsen van de pads op een matige afstand ertoe leidt dat gebruikers hun bovenlichaam in rust kunnen houden. Hierdoor wordt overbelasting van schouders en rug vermeden bij herhaald gebruik. Dit inzicht ondersteunt het idee dat LumiLife perfect inzetbaar is in een zittende context, op voorwaarde dat de tafelhoogte en afstand correct zijn afgestemd op de gebruiker.
+
+#### Interactie met de pads – staand gebruik
+
+Het staand gebruik werd over het algemeen als “meer inspannend” maar tegelijk ook “activerend” omschreven. Beide deelnemers rapporteerden een gevoel van fysieke stimulatie dat ze als positief ervaarden. Eén gebruiker beperkte zich tot de dichtstbijzijnde pads, en drukte op die knoppen zelfs wanneer hetzelfde kleur elders oplichtte. Dit toont aan dat comfortzones een grote rol spelen in de fysieke actieradius van ouderen: ze kiezen spontaan voor het pad dat het minst ver verwijderd is, zelfs als dit ten koste gaat van de spelcorrectheid.
+
+De andere deelnemer toonde net een tegenovergestelde strategie. Hij bewoog energiek mee, verplaatste zijn voeten, en draaide zijn romp om pads op grotere afstand te bereiken. Bovendien sprak hij de kleurvolgorde luidop uit in een ritmisch patroon alvorens te drukken – een aanpak die hij zelf beschreef als “helpend voor het onthouden van de volgorde”. Deze spontane gedragsvorm bevestigt dat ritme en beweging cognitieve processen kunnen ondersteunen, en dat de integratie van auditieve prikkels een waardevolle designkeuze is.
+
+Niettemin brachten beide deelnemers ook enkele fysieke beperkingen aan het licht. Door de huidige plaatsing van de pads moesten gebruikers zich herhaaldelijk vooroverbuigen, wat leidde tot spanning in nek, schouders en onderrug. Ook de armpositie bleek niet optimaal: uitgestrekte armen richting de lage pads veroorzaakten vermoeidheid na meerdere herhalingen. De licht gebogen knieën boden enige steun, maar bleken onvoldoende om langdurige inspanning te compenseren.
+
+Hieruit volgt dat staand gebruik zeker wenselijk is, vooral voor actievere gebruikers, maar enkel mits aangepaste hoogte- en wandpositionering van de pads. Idealiter worden de pads op borsthoogte geplaatst, zodat het bovenlichaam in een rechte lijn kan blijven.
+
+#### Interface-evaluatie
+
+De interface werd getest aan de hand van verschillende visuele ontwerpvarianten, telkens aangeboden in een tweekeuzemodel. Gebruikers beoordeelden elk element afzonderlijk op basis van duidelijkheid, aantrekkelijkheid en gebruiksgemak. De focus lag op typografie, kleurcontrast, knopvormen en lay-out.
+
+- **Typografie**: Grote, vetgedrukte tekst werd unaniem verkozen boven dunnere of kleinere lettertypes. Deze keuze werd omschreven als “duidelijker voor de ogen” en “minder inspannend om te lezen”. Eén deelnemer merkte op dat hij in de kleinere tekst “details begon te missen”.
+
+- **Kleurcontrast**: Knoppen met sterke kleurcontrasten – zoals witte tekst op donkerblauwe of zwarte achtergrond – werden als rustiger en leesbaarder ervaren. Varianten met gelijkaardige kleurtonen tussen tekst en achtergrond veroorzaakten verwarring of werden traag herkend. Eén deelnemer gaf aan “soms te twijfelen wat er op de knop stond” bij lage contrasten.
+
+- **Kleurcodering**: De semantiek van kleur werd snel herkend. Groen werd geassocieerd met ‘doorgaan’ of ‘goed’, rood met ‘fout’ of ‘stoppen’. Deze natuurlijke interpretaties kwamen spontaan naar boven zonder uitleg. De combinatie van kleur en vorm bleek essentieel om snel beslissingen te nemen.
+
+- **Knopgrootte en vorm**: De voorkeur ging uit naar grotere, afgeronde knoppen met voldoende witruimte ertussen. Smalle knoppen werden als “druk” of “onduidelijk” ervaren, en beperkten de precisie bij het aanraken.
+
+- **Lay-out en hiërarchie**: Een ruimtelijke en overzichtelijke schermopbouw, waarbij elementen duidelijk gescheiden zijn, werd als rustgevend en intuïtief ervaren. Interfaces met te veel elementen of dicht bij elkaar geplaatste componenten veroorzaakten onzekerheid of visuele overbelasting.
+
+Samenvattend bevestigde deze evaluatie de meeste principes uit het voorafgaand literatuuronderzoek. De doelgroep heeft baat bij een eenvoudig, visueel helder en logisch opgebouwd scherm, met nadruk op zichtbaarheid, herkenning en vertrouwde kleurcodes.
+
+#### Opslag- en ophangsystemen
+
+Tijdens het testen van de drie opberg- en ophangsysteemprototypes werd zowel de functionele bruikbaarheid als de emotionele beleving geëvalueerd. Elk systeem werd afzonderlijk getest op gemak, stabiliteit en gebruiksvriendelijkheid.
+
+- **Magnetische muur met knoppen en schermoptie**: Dit systeem werd technisch functioneel bevonden, maar de gebruikers begrepen niet altijd meteen hoe het werkte. De schermfunctie bleef abstract zonder demonstratie. Bovendien werden pads vaak willekeurig terug op het bord geplaatst, zonder logica of vast patroon. De leerbaarheid was laag, ondanks het praktische potentieel.
+
+- **Honingraatstructuur**: Deze visueel aantrekkelijke oplossing stimuleerde gestructureerde plaatsing. De meeste deelnemers legden de pads spontaan in lijnen of symmetrische vormen. Toch bleek het gebruiksgemak beperkt door de kleine magneten, die het correct bevestigen bemoeilijkten. Eén gebruiker gaf aan dat het “te precies” moest gebeuren, wat frustrerend werd.
+
+- **Schilderijframe**: Dit prototype werd het meest positief onthaald. Eén gebruiker ging spontaan over tot een creatieve interpretatie waarbij pads figuren voorstelden (“de gele zijn sterren, de blauwe de hemel”). Dit leidde tot een gesprek over *The Starry Night* van Van Gogh. Andere gebruikers prezen de visuele integratie en het motiverende karakter van het frame. Zelfs wie minder creatief ingesteld was, gaf aan het systeem “aangenaam” en “mooi” te vinden. De visuele aantrekkelijkheid verhoogde duidelijk de betrokkenheid.
+
+De resultaten tonen aan dat het opslagsysteem een cruciale rol speelt in de beleving van het product. Een opbergmethode is niet louter functioneel, maar kan ook bijdragen aan het motiveren, inspireren of kalmeren van gebruikers – zeker in een woonzorgomgeving waarin visuele prikkels belangrijk zijn.
+
+### Conclusies en ontwerpimplicaties
+
+De gebruikerstesten leverden waardevolle inzichten op die rechtstreeks zullen worden vertaald naar het verdere ontwerpproces:
+
+- **Gebruik in zitpositie** moet als standaardoptie ondersteund worden, met voldoende ergonomische marge voor verschillende lichaamshoudingen. Staand gebruik blijft relevant voor actieve gebruikers, mits ergonomisch gepaste plaatsing.
+
+- **Interfaceontwerp** dient grote, duidelijke knoppen, vetgedrukte tekst en sterke kleurcontrasten te combineren met een luchtige, overzichtelijke lay-out. De feedback van de doelgroep bevestigt dat deze keuzes het gebruiksgemak en het vertrouwen verhogen.
+
+- **Opslagsystemen** kunnen meerwaarde creëren wanneer ze niet alleen functioneel maar ook visueel stimulerend zijn. Het schilderijframe toont dat esthetische elementen de betrokkenheid kunnen versterken en spelplezier vergroten.
+
+Deze bevindingen vormen het fundament voor de volgende ontwikkelfase, waarin verdere technische verfijning, uitbreidingen en langetermijntesten zullen plaatsvinden.
+
+Voor meer details, zie het [Develop 1 - rapport]([https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi)) en het [testprotocol]([https://1drv.ms/w/c/9458d939536e9058/EZPexuH_t1ZDrBxKF-i5EC4BjO-2J_DN5rmQSSC7-4Sotg?e=qlHPgn](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR)).
+
+### Conclusie en ontwerpimplicaties
+
+De eerste ontwikkelfase van LumiLife leverde waardevolle inzichten op over hoe ouderen omgaan met fysieke, visuele en cognitieve interactie binnen het product. De gebruikerstesten bevestigen het belang van een geïntegreerde aanpak waarbij gebruiksgemak, motiverende elementen en esthetiek hand in hand gaan. 
+
+**Fysiek gebruik** moet afgestemd zijn op de mogelijkheden én grenzen van de doelgroep. Zittend gebruik blijkt de meest comfortabele en laagdrempelige optie, met minimale fysieke belasting. Tegelijkertijd toont het enthousiasme bij staand gebruik dat er potentieel is voor activerende spelvormen, mits de ergonomie correct wordt afgestemd op lichaamshoogte en balans.
+
+**De interface** moet visueel helder, intuïtief en rustgevend zijn. Oudere gebruikers hebben baat bij eenvoudige schermen met grote knoppen, vetgedrukte typografie en sterke kleurcontrasten. Het gebruik van semantisch herkenbare kleuren (zoals groen en rood) verhoogt niet alleen de bruikbaarheid, maar ook het zelfvertrouwen bij interactie. Een luchtige en overzichtelijke lay-out draagt bij aan een positieve gebruikerservaring.
+
+**Opslagsystemen** vervullen meer dan een functionele rol: ze beïnvloeden de beleving, motivatie en zelfs creativiteit van gebruikers. Waar de magnetische muur praktisch maar onpersoonlijk aanvoelde, en de honingraatstructuur visueel ordelijk maar technisch beperkt was, bleek het schilderijframe verrassend stimulerend. De integratie van visuele esthetiek in een functionele component wekte spontaan emotie, verhaal en interactie op – een onverwacht krachtig designprincipe.
+
+
+
+
+
+
+
 
 ## Bill of materials
 **Elektronische componenten**
