@@ -339,6 +339,11 @@ Je vindt de Definition template hier in de bijlage ([Definition template](https:
 ### Conclusies & implicaties
 De gebruikerstesten benadrukten het belang van eenvoud en toegankelijkheid in het ontwerp. Spelregels moeten intuïtief en duidelijk zijn om frustratie te voorkomen, en fouten mogen niet leiden tot demotivatie. Ritmische en multisensorische feedback blijft een essentieel element om zowel fysieke als cognitieve stimulatie te waarborgen.
 
+
+
+
+
+
 ## Develop 1: Interface en Opslagsystemen
 
 ### Doelstellingen
@@ -349,7 +354,7 @@ In deze eerste ontwikkelfase werd gefocust op het optimaliseren van de fysieke, 
 2. **Opslagsystemen**: Vergelijken van drie opbergprototypes op vlak van gebruiksgemak, esthetiek en praktische toepasbaarheid in een woonzorgcontext.
 3. **Interfaceontwerp**: Toetsen of theoretisch onderbouwde UX-principes voor ouderen ook in de praktijk geprefereerd worden, aan de hand van visuele vergelijkingen tussen verschillende interface-elementen.
 
----
+
 
 ### Materiaal en methoden
 
@@ -357,6 +362,7 @@ In deze eerste ontwikkelfase werd gefocust op het optimaliseren van de fysieke, 
 **Doelgroep**: Ouderen van 65–70 jaar, twee uit een woonzorgcentrum en twee die zelfstandig wonen.  
 **Locatie**: Woonzorgcentrum Heilig Hart en thuisomgevingen  
 **Duur per sessie**: Ongeveer 30 minuten  
+
 
 #### Voorbereiding
 
@@ -374,6 +380,8 @@ Om de bruikbaarheid van LumiLife in verschillende woonomgevingen te testen, werd
 3. **Schilderijframe** – een geïntegreerde wandoplossing waarbij de pads rond een kunstwerk worden geplaatst, wat zorgt voor esthetische meerwaarde en speelse interactie.
 
 Deze drie varianten werden getest op gebruiksgemak, stabiliteit en voorkeur bij ouderen. De foto’s hieronder illustreren elk prototype.
+
+
 
 #### Uitvoering van de tests
 
@@ -394,7 +402,10 @@ De testopzet bestond uit drie delen:
 Tijdens elke sessie werd gebruik gemaakt van observaties, notities, en een kort interview. Alle deelnemers tekenden vooraf het informed consent.
 
 
+
+
 ### Resultaten
+
 
 #### Interactie met de pads – zittend gebruik
 
@@ -403,6 +414,7 @@ Tijdens het testen in zittende positie werd vooral gelet op comfort, bereikbaarh
 De observaties toonden subtiele maar relevante verschillen tussen gebruikers. Eén deelnemer zat verder van de pads en moest de rug losmaken van de rugleuning om de verste pads aan te raken. Ondanks een eerdere schouderoperatie kon zij de buitenste pads nog vlot bereiken, zonder spanningen in pols of arm. Een tweede deelnemer zat juist dichter bij de tafel, hoefde nauwelijks voorover te leunen, en vond automatisch een rusthouding waarbij de handen ontspannen op de bovenbenen lagen. Deze positie bleek ergonomisch optimaal en werd omschreven als “aangenaam natuurlijk”.
 
 Een belangrijke bevinding was dat het plaatsen van de pads op een matige afstand ertoe leidt dat gebruikers hun bovenlichaam in rust kunnen houden. Hierdoor wordt overbelasting van schouders en rug vermeden bij herhaald gebruik. Dit inzicht ondersteunt het idee dat LumiLife perfect inzetbaar is in een zittende context, op voorwaarde dat de tafelhoogte en afstand correct zijn afgestemd op de gebruiker.
+
 
 #### Interactie met de pads – staand gebruik
 
@@ -413,6 +425,7 @@ De andere deelnemer toonde net een tegenovergestelde strategie. Hij bewoog energ
 Niettemin brachten beide deelnemers ook enkele fysieke beperkingen aan het licht. Door de huidige plaatsing van de pads moesten gebruikers zich herhaaldelijk vooroverbuigen, wat leidde tot spanning in nek, schouders en onderrug. Ook de armpositie bleek niet optimaal: uitgestrekte armen richting de lage pads veroorzaakten vermoeidheid na meerdere herhalingen. De licht gebogen knieën boden enige steun, maar bleken onvoldoende om langdurige inspanning te compenseren.
 
 Hieruit volgt dat staand gebruik zeker wenselijk is, vooral voor actievere gebruikers, maar enkel mits aangepaste hoogte- en wandpositionering van de pads. Idealiter worden de pads op borsthoogte geplaatst, zodat het bovenlichaam in een rechte lijn kan blijven.
+
 
 #### Interface-evaluatie
 
@@ -430,6 +443,7 @@ De interface werd getest aan de hand van verschillende visuele ontwerpvarianten,
 
 Samenvattend bevestigde deze evaluatie de meeste principes uit het voorafgaand literatuuronderzoek. De doelgroep heeft baat bij een eenvoudig, visueel helder en logisch opgebouwd scherm, met nadruk op zichtbaarheid, herkenning en vertrouwde kleurcodes.
 
+
 #### Opslag- en ophangsystemen
 
 Tijdens het testen van de drie opberg- en ophangsysteemprototypes werd zowel de functionele bruikbaarheid als de emotionele beleving geëvalueerd. Elk systeem werd afzonderlijk getest op gemak, stabiliteit en gebruiksvriendelijkheid.
@@ -442,19 +456,7 @@ Tijdens het testen van de drie opberg- en ophangsysteemprototypes werd zowel de 
 
 De resultaten tonen aan dat het opslagsysteem een cruciale rol speelt in de beleving van het product. Een opbergmethode is niet louter functioneel, maar kan ook bijdragen aan het motiveren, inspireren of kalmeren van gebruikers – zeker in een woonzorgomgeving waarin visuele prikkels belangrijk zijn.
 
-### Conclusies en ontwerpimplicaties
 
-De gebruikerstesten leverden waardevolle inzichten op die rechtstreeks zullen worden vertaald naar het verdere ontwerpproces:
-
-- **Gebruik in zitpositie** moet als standaardoptie ondersteund worden, met voldoende ergonomische marge voor verschillende lichaamshoudingen. Staand gebruik blijft relevant voor actieve gebruikers, mits ergonomisch gepaste plaatsing.
-
-- **Interfaceontwerp** dient grote, duidelijke knoppen, vetgedrukte tekst en sterke kleurcontrasten te combineren met een luchtige, overzichtelijke lay-out. De feedback van de doelgroep bevestigt dat deze keuzes het gebruiksgemak en het vertrouwen verhogen.
-
-- **Opslagsystemen** kunnen meerwaarde creëren wanneer ze niet alleen functioneel maar ook visueel stimulerend zijn. Het schilderijframe toont dat esthetische elementen de betrokkenheid kunnen versterken en spelplezier vergroten.
-
-Deze bevindingen vormen het fundament voor de volgende ontwikkelfase, waarin verdere technische verfijning, uitbreidingen en langetermijntesten zullen plaatsvinden.
-
-Voor meer details, zie het [Develop 1 - rapport]([https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi)) en het [testprotocol]([https://1drv.ms/w/c/9458d939536e9058/EZPexuH_t1ZDrBxKF-i5EC4BjO-2J_DN5rmQSSC7-4Sotg?e=qlHPgn](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR)).
 
 ### Conclusie en ontwerpimplicaties
 
@@ -466,7 +468,7 @@ De eerste ontwikkelfase van LumiLife leverde waardevolle inzichten op over hoe o
 
 **Opslagsystemen** vervullen meer dan een functionele rol: ze beïnvloeden de beleving, motivatie en zelfs creativiteit van gebruikers. Waar de magnetische muur praktisch maar onpersoonlijk aanvoelde, en de honingraatstructuur visueel ordelijk maar technisch beperkt was, bleek het schilderijframe verrassend stimulerend. De integratie van visuele esthetiek in een functionele component wekte spontaan emotie, verhaal en interactie op – een onverwacht krachtig designprincipe.
 
-
+Voor meer details, zie het [Develop 1 - rapport]([https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi)) en het [testprotocol]([https://1drv.ms/w/c/9458d939536e9058/EZPexuH_t1ZDrBxKF-i5EC4BjO-2J_DN5rmQSSC7-4Sotg?e=qlHPgn](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR)).
 
 
 
