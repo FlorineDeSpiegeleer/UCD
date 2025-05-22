@@ -15,10 +15,12 @@ Baptiste Braekevelt
 
 ## Samenvatting
 
-LumiLife is ontwikkeld om het probleem van fysieke en cognitieve achteruitgang bij ouderen aan te pakken. Veel ouderen ervaren mobiliteitsproblemen en geheugenverlies, wat hun onafhankelijkheid en levenskwaliteit sterk beïnvloedt. Traditionele oplossingen zijn vaak duur, complex en niet gericht op een speelse aanpak die ouderen motiveert.
-Dit probleem is onderzocht door middel van literatuurstudies, gebruikerstesten en interviews met ouderen en therapeuten. Deze aanpak bood waardevolle inzichten in de voorkeuren en behoeften van de doelgroep, zoals het belang van eenvoudige bediening, toegankelijkheid en motiverende feedbackmechanismen.
-De oplossing is LumiLife: een set compacte, interactieve pads die licht- en geluidssignalen combineren om ouderen fysiek en cognitief te stimuleren. De pads lichten op in ritme met de muziek, en de gebruiker moet snel drukken op de oplichtende pad. Dit bevordert niet alleen motorische vaardigheden en reactiesnelheid, maar zorgt ook voor een leuke en uitdagende ervaring. De pads zijn ontworpen voor zowel zittend als staand gebruik en kunnen eenvoudig worden ingezet in woonzorgcentra of thuisomgevingen.
-LumiLife biedt een betaalbare en toegankelijke manier om ouderen actief te houden, hun geheugen te trainen en hun mobiliteit te verbeteren. Dit alles in een product dat eenvoudig te gebruiken, gemakkelijk op te bergen en motiverend is voor de doelgroep.
+LumiLife is een reeks interactieve, lichtgevende pads ontworpen om ouderen op een toegankelijke en motiverende manier fysiek en cognitief te stimuleren. Ouderen kampen vaak met verminderde mobiliteit, geheugenverlies en een gebrek aan speelse beweegmomenten, zowel in woonzorgcentra als thuis. Bestaande oplossingen zijn vaak technisch complex of onvoldoende afgestemd op hun noden. LumiLife biedt hiervoor een laagdrempelig alternatief dat spel, beweging en geheugen traint combineert in één product.
+
+Via ritmisch oplichtende pads worden ouderen uitgedaagd om te reageren, patronen te onthouden of verschillen op te sporen. De pads kunnen zittend of staand gebruikt worden. Dankzij eenvoudige bediening, duidelijke visuele feedback en aanpasbare moeilijkheidsgraden sluit het systeem aan bij uiteenlopende gebruikersprofielen. Het ontwerp werd iteratief getest en verfijnd met ouderen, waarbij spelplezier, comfort en begrijpelijkheid centraal stonden.
+
+LumiLife onderscheidt zich door zijn speelse benadering, modulaire opbouw en uitnodigende vormgeving. Het product verlaagt de drempel tot beweging, bevordert hersenactiviteit en creëert nieuwe mogelijkheden voor sociale en fysieke interactie bij ouderen.
+
 
 <img src="https://github.com/user-attachments/assets/7efb93a3-ce78-4fa9-96cb-1d0a359c266c" alt="sketch van de pads" width="50%"/><br/>
 <img src="https://github.com/user-attachments/assets/7a4e949d-ee9a-4cbb-9d29-5ae345ce5b92" alt="sketch van de pads" width="50%"/><br/>
