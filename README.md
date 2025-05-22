@@ -506,70 +506,117 @@ Vier interactieve spelletjes werden ontwikkeld en in dezelfde volgorde aangebode
 2. **Simon Says** – Herhaal een steeds langer wordende kleurvolgorde.
 3. **Foutzoekspel** – Zoek de pad die *niet* brandt.
 4. **Opletspel** – Reageer zo snel mogelijk op een onverwacht lichtsignaal.
+De gebruikte Arduino-code is [hier](https://1drv.ms/f/c/9458d939536e9058/Ekrx7HoWOF9Ch0Qm6PNlmDUBsAGSlaoXRvZhFeAR-V_O9A?e=00CaEL) opgenomen. De spelregels die tijdens de testfase gehanteerd werden, zijn gedetailleerd terug te vinden in het bijhorende [testprotocol](https://1drv.ms/w/c/9458d939536e9058/EXgDpYKNdM9EvrJvkd7Jm6wBwVAXnAeeC1VeggPRiwNnsg?e=ZTa6Es).
 
 #### Uitvoering van de tests
 
-Per sessie werden de vier spellen gespeeld en afzonderlijk geëvalueerd. De test bestond uit:
+Elke sessie volgde een vaste structuur waarin vier spellen na elkaar werden gespeeld en individueel geëvalueerd. Voor elk spel werden de spelregels mondeling toegelicht, waarna werd getest in welke mate deze duidelijk en begrijpelijk waren voor de gebruiker. Tijdens het spel werden zowel verbale reacties als non-verbale signalen geobserveerd en genoteerd.
 
-- Introductie en invullen van informed consent (5 min)
-- Spelrondes met directe feedback na elk spel (4 × ±10 min)
-- Algemene reflectievragen over voorkeuren, technologiebeleving en herhaalbaarheid (5 min)
+De testsessie bestond uit de volgende onderdelen:
 
-De onderzoekers observeerden verbaal en non-verbaal gedrag, en noteerden reacties, voorkeuren en knelpunten per speltype.  
+- **Introductie en informed consent** (±5 min)  
+  Korte toelichting op het doel van het onderzoek, kennismaking met de opstelling en ondertekening van het toestemmingsformulier.
 
+- **Spelrondes** (4 × ±10 min)  
+  Voor elk spel werd gestart met het voorlezen van de spelregels, gevolgd door het eigenlijke spelen. Na afloop werd telkens directe feedback verzameld over begrijpelijkheid, beleving en eventuele verwarring. Ook werden de prestaties (zoals scores of reactietijden) genoteerd.
+
+- **Slotreflectie** (±5 min)  
+  Deelnemers gaven aan welk spel zij het leukst en minst leuk vonden, hoe comfortabel ze zich voelden bij het gebruik van technologie, en of ze zichzelf de spellen vaker zagen gebruiken.
+
+Tijdens de gehele sessie registreerden de onderzoekers individuele voorkeuren, reacties op visuele en auditieve feedback, en specifieke knelpunten per spel. Deze rijke feedback diende als basis voor het verder verfijnen van zowel spelmechaniek als interface en interactiemodel.
 
 
 ### Resultaten
 
-#### Reactiespel (Snelheid)
+### Resultaten
 
-- **Ervaring**: Het spel werd eenvoudig gevonden, maar één deelnemer ervaarde de visuele flickerfeedback bij fouten als stresserend.  
-- **Problemen**: De vaste lengte van 90 seconden werd als te lang ervaren. Starttempo was voor sommigen te hoog.  
-- **Positief**: Ritme en eenvoud werden gewaardeerd.  
-- **Aanbevelingen**:
-  - Laat gebruikers de spelduur zelf instellen.
-  - Voeg een optie toe om het tempo aan te passen.
-  - Bied mogelijkheid om flickerfeedback uit te schakelen.
+#### Reactiespel – Snelheid
 
-#### Simon Says (Geheugen)
+**Beschrijving**  
+In dit spel licht telkens één pad op. De gebruiker moet zo snel mogelijk reageren door op de juiste pad te drukken.
 
-- **Ervaring**: Hoge betrokkenheid, ondanks de moeilijkheidsgraad. Sommige deelnemers drukten te snel of vergaten het patroon.  
-- **Problemen**: Instructies waren onvoldoende duidelijk. Gebruikers wisten niet altijd wanneer hun beurt begon.  
-- **Scores**: Bereikte stappen varieerden van 3 tot 12.  
-- **Aanbevelingen**:
-  - Langere brandduur van de LED’s.
-  - Vooraf duidelijke speluitleg of korte demonstratie.
-  - Mogelijkheid om het startniveau (aantal stappen) zelf te kiezen.
+**Gebruikerservaring**  
+- Het spel werd positief beoordeeld voor zijn eenvoud en ritme.
+- Eén deelnemer gaf aan zich zenuwachtig te voelen door de visuele flicker-feedback bij fouten.
+- De spelduur van 90 seconden werd als te lang ervaren.
+- Het starttempo was voor sommigen aan de hoge kant.
 
-#### Foutzoekspel (Visuele focus)
+**Aanbevelingen**
+- Laat deelnemers zelf de spelduur instellen.
+- Start met een trager tempo dat geleidelijk verhoogt.
+- Maak flicker-feedback optioneel.
 
-- **Ervaring**: Oudere deelnemers vonden het spel boeiend en uitdagend. Jongere deelnemers gaven aan dat het spel verwarrend werd bij veel gelijktijdige LED’s.  
-- **Problemen**: Eén deelnemer vond de lichtintensiteit te laag.  
-- **Scores**: Aantal correct opgeloste rondes varieerde van 18 tot 26.  
-- **Aanbevelingen**:
-  - Verhoog de LED-helderheid.
-  - Zorg voor beter visueel contrast bij veel lichtbronnen.
+#### Simon Says – Geheugen
 
-#### Opletspel (Reactietijd)
+**Beschrijving**  
+De gebruiker moet een steeds langer wordend patroon van lichtsignalen correct herhalen.
 
-- **Ervaring**: Rustig spel dat weinig stress veroorzaakte.  
-- **Problemen**: LEDs brandden te kort. Onzekerheid over spelverloop (wanneer stopt het, wat gebeurt er bij fouten?).  
-- **Tijden**: Reactietijden varieerden tussen 754 ms en 1555 ms.  
-- **Aanbevelingen**:
-  - Laat de LEDs langer branden.
-  - Toon op het einde de snelste tijd.
-  - Voeg duidelijke begin- en eindsignalen toe.
+**Gebruikerservaring**  
+- De betrokkenheid bij het spel was hoog, ook bij deelnemers die fouten maakten.
+- Sommige gebruikers drukten te snel, vóór het volledige patroon getoond was.
+- Onzekerheid ontstond wanneer het patroon vergeten werd; gebruikers wisten niet of ze mochten herstarten.
+- Er werd gesuggereerd om het patroon automatisch opnieuw te tonen na inactiviteit.
 
+**Scores**  
+Gebruikers bereikten tussen de 3 en 12 correcte stappen (3, 4, 8, 12).
+
+**Aanbevelingen**
+- Bied vooraf duidelijkere spelinstructies aan.
+- Voorzie een korte demonstratieronde of visuele tutorial.
+- Laat spelers het startniveau zelf kiezen.
+- Verleng de brandduur van de LED's om het patroon beter te kunnen volgen.
+
+#### Foutzoekspel – Visuele aandacht
+
+**Beschrijving**  
+Zeven van de acht pads lichten op; de gebruiker moet het enige pad dat níét oplicht identificeren en indrukken.
+
+**Gebruikerservaring**  
+- Oudere deelnemers vonden dit spel aangenaam en uitdagend.
+- Jongere gebruikers meldden verwarring bij veel gelijktijdig licht.
+- Eén gebruiker gaf aan moeite te hebben met het onderscheiden van de niet-brandende pad door te zwakke lichtintensiteit.
+
+**Scores**  
+Correct opgeloste rondes per gebruiker: 18, 20, 22, 26
+
+**Aanbevelingen**
+- Verhoog de lichtintensiteit van de LED's voor betere zichtbaarheid.
+
+#### Opletspel – Reactietijd
+
+**Beschrijving**  
+Een willekeurige pad licht op. De gebruiker moet zo snel mogelijk reageren. De reactietijd wordt gemeten.
+
+**Gebruikerservaring**  
+- De ervaring werd als rustig en stressvrij omschreven.
+- Sommige deelnemers waren te laat doordat het lichtsignaal te kort brandde.
+- Er bestond onzekerheid over het einde van het spel of het gevolg van een fout.
+
+**Reactietijden**
+Gemeten waarden: van 754 ms (snelste) tot 1555 ms (traagste)
+
+**Aanbevelingen**
+- Laat de LEDs langer branden om voldoende reactietijd te geven.
+- Voorzie duidelijke signalen over spelbegin en -einde.
+- Toon de snelste tijd aan het einde van het spel als motiverende feedback.
 
 
 ### Algemene observaties
 
-- **Fysiek gebruik**: Sommige drukknoppen zaten te diep, wat lastig was voor gebruikers met verminderde vingerkracht.
-- **Technologiebeleving**: Alle deelnemers stonden positief tegenover het gebruik van elektronische componenten, ondanks beperkte ervaring.  
-- **Spelregels en interface**:
-  - Er is nood aan duidelijke instructies vóór elk spel.
-  - Een visuele timer op het scherm zou houvast bieden.
-  - Auditieve feedback moet optioneel zijn om overstimulatie te vermijden.
+**Hardware**
+- Sommige drukknoppen vereisten relatief veel kracht om in te drukken. Dit bemoeilijkte de bediening voor gebruikers met minder handkracht.
+
+**Gebruiksgemak en houding**
+- De testopstelling werd als toegankelijk en overzichtelijk ervaren.
+- Deelnemers voelden zich comfortabel en gemotiveerd, ook al hadden sommigen weinig ervaring met technologie.
+
+**Interface en instructies**
+- Er werd herhaaldelijk gevraagd naar **duidelijke en korte instructies** voorafgaand aan elk spel.
+- Een visuele **timer** op het scherm zou volgens de deelnemers rust en structuur bieden.
+- De spelregels zichtbaar maken op de interface zelf (bijv. via een helpknop of bij opstart) werd als nuttige toevoeging beschouwd.
+
+
+Deze resultaten bevestigen dat ouderen op een positieve manier omgaan met elektronische interactie, mits het ontwerp afgestemd is op hun tempo, fysieke capaciteiten en informatieverwerking.
 
 
 
@@ -587,8 +634,9 @@ De tweede ontwikkelfase toonde aan dat elektronische spellen voor ouderen effect
 
 Deze bevindingen bevestigen dat de gekozen richting van LumiLife – fysieke en cognitieve stimulatie via speelse technologie – aansluit bij de leefwereld en mogelijkheden van ouderen. De verkregen feedback vormt een directe basis voor de technische en inhoudelijke verbeteringen in de derde ontwikkelfase.
 
-Voor alle details, zie het [Develop 2 - testverslag](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi) en het [testprotocol](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR).
+Voor alle details, zie het [Develop 2 - testverslag](https://1drv.ms/w/c/9458d939536e9058/EWuxvZJjiwpLhqgg5ToP5JcBoZrPr7lJtrvCCkB_JkaWTA?e=bkyzJ9) en het [testprotocol](https://1drv.ms/w/c/9458d939536e9058/EXgDpYKNdM9EvrJvkd7Jm6wBwVAXnAeeC1VeggPRiwNnsg?e=ZTa6Es).
 
+---
 
 
 
