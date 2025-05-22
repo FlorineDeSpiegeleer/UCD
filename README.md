@@ -637,6 +637,65 @@ Deze bevindingen bevestigen dat de gekozen richting van LumiLife – fysieke en 
 Voor alle details, zie het [Develop 2 - testverslag](https://1drv.ms/w/c/9458d939536e9058/EWuxvZJjiwpLhqgg5ToP5JcBoZrPr7lJtrvCCkB_JkaWTA?e=bkyzJ9) en het [testprotocol](https://1drv.ms/w/c/9458d939536e9058/EXgDpYKNdM9EvrJvkd7Jm6wBwVAXnAeeC1VeggPRiwNnsg?e=ZTa6Es).
 
 ---
+## Develop 3: Vormbeleving en Eindprototype
+
+### Doelstellingen
+
+De derde ontwikkelfase van LumiLife focust op de esthetische beleving en functionele evaluatie van het eindprototype. Deze fase combineert een beoordeling van tien vormvarianten met een test van het werkende prototype inclusief interface en ophangsysteem. De centrale doelstellingen zijn:
+
+1. **Inzicht verwerven in de esthetische voorkeuren van ouderen**  
+   - Welke vormkenmerken (kleur, textuur, geometrie) worden als aantrekkelijk of storend ervaren?
+
+2. **Gebruikservaring van het finale prototype evalueren**  
+   - Wordt het ontwerp als intuïtief, motiverend en comfortabel ervaren in de praktijk?
+
+3. **Concrete aanbevelingen verzamelen voor de eindverfijning**  
+   - Welke aspecten verdienen nog aanpassing vóór eventuele productiestap?
+
+
+### Materiaal en methoden
+
+**Aantal respondenten**: N = 4  
+**Doelgroep**: Ouderen van 65+ zonder ernstige fysieke of cognitieve beperkingen  
+**Locatie**: Woonzorgcentrum en thuissituatie in regio Kortrijk
+**Duur**: 30 min
+**Periode**: 16–22 mei
+
+#### Fase 1: Beoordeling van padvormen (esthetische evaluatie)
+
+Deelnemers kregen tien visuele vormconcepten van de pads te zien (zie figuur hieronder), gegenereerd via schetsen, Vizcom en Chatgpt. Elk ontwerp werd beoordeeld op een schaal van 1 tot 10 (1 = totaal niet mooi, 10 = zeer mooi). Tijdens deze fase werd gepeild naar voorkeuren, afkeuren en verbetersuggesties, met bijzondere aandacht voor kleurgebruik, vorm, proportie en textuur.
+
+<img src="assets/padvormen-evaluatie.jpg" alt="Overzicht van padvormen" width="80%"/>
+Figuur 18: Visuele vormconcepten
+
+**Interviewvragen:**
+- Welke vorm(en) spreekt u het meest aan, en waarom?
+- Welke vorm vindt u het minst mooi?
+- Wat zou u veranderen aan deze ontwerpen?
+
+**Observaties**:
+- Spontane reacties zoals lachen, fronsen, twijfel of enthousiasme.
+- Non-verbale signalen bij het zien van specifieke vormen.
+
+
+
+#### Fase 2: Test van het finale werkende prototype
+
+In de tweede testfase werd het volledige prototype – bestaande uit de gekozen padvorm met drukknop, de bijhorende interface en het ophangsysteem – in gebruik gedemonstreerd en getest. Deelnemers kregen de kans om het systeem te hanteren zoals bedoeld, inclusief indrukken, ophangen, gebruiken en opbergen.
+
+**Interviewvragen:**
+- Hoe voelt het om de pad vast te houden en in te drukken?
+- Is de interface duidelijk en begrijpelijk?
+- Is het systeem eenvoudig in gebruik en opberging?
+- Zou u dit vaker willen gebruiken?
+- Wat zou u visueel, technisch of functioneel aanpassen?
+
+**Observaties**:
+- Aandacht voor natuurlijke interactie, aarzeling, verwarring of spontaniteit.
+- Letten op fysieke belasting, grip, en houding bij gebruik.
+De verkregen data werd verzameld via observaties, interviews en scorekaarten. De analyse gebeurt thematisch per fase, met bijzondere aandacht voor consistenties in voorkeuren, praktische drempels en suggesties voor verbetering.
+De inzichten uit deze test vormen de basis voor het definitieve ontwerp van LumiLife, met als doel een product dat niet alleen functioneel maar ook esthetisch en emotioneel aansluit bij de leefwereld van ouderen.
+
 
 
 
