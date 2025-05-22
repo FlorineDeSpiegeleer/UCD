@@ -509,7 +509,7 @@ In de tweede ontwikkelfase lag de focus op het testen van de elektronische werki
 
 #### Voorbereiding
 
-Voor deze testfase werd een elektronisch prototype ontwikkeld op basis van een Arduino Nano, gekoppeld aan 9 breadboards met elk een LED en een drukknop. De visuele en auditieve feedback werd bewust eenvoudig gehouden om overprikkeling te vermijden. Een kartonnen behuizing zorgde ervoor dat de technische onderdelen onzichtbaar bleven, waardoor de gebruikers zich konden focussen op het spel. Hieronder is een afbeelding te zien van het prototype. 
+Voor deze testfase werd een elektronisch prototype ontwikkeld op basis van een Arduino Nano, gekoppeld aan 9 breadboards met elk een LED en een drukknop. De visuele en auditieve feedback werd bewust eenvoudig gehouden om overprikkeling te vermijden. Een kartonnen behuizing zorgde ervoor dat de technische onderdelen onzichtbaar bleven, waardoor de gebruikers zich konden focussen op het spel. Hieronder is een afbeelding te zien van het prototype. <br/>
 <img src="IMG_0394.jpg" alt="binnenkant prototype" width="30%"/><img src="IMG_0392.jpg" alt="prototype test 1" width="30%"/><img src="IMG_0395.jpg" alt="prototype test 2" width="30%"/><br/>
 Figuur 16 & 17: prototype spelvarianten
 
@@ -540,9 +540,6 @@ Tijdens de gehele sessie registreerden de onderzoekers individuele voorkeuren, r
 
 
 ### Resultaten
-
-### Resultaten
-
 #### Reactiespel – Snelheid
 
 **Beschrijving**  
@@ -678,7 +675,7 @@ De derde ontwikkelfase van LumiLife focust op de esthetische beleving en functio
 
 Deelnemers kregen tien visuele vormconcepten van de pads te zien (zie figuur hieronder), gegenereerd via schetsen, Vizcom en Chatgpt. Elk ontwerp werd beoordeeld op een schaal van 1 tot 10 (1 = totaal niet mooi, 10 = zeer mooi). Tijdens deze fase werd gepeild naar voorkeuren, afkeuren en verbetersuggesties, met bijzondere aandacht voor kleurgebruik, vorm, proportie en textuur.
 
-<img src="assets/padvormen-evaluatie.jpg" alt="Overzicht van padvormen" width="80%"/>
+<img src="image.png" alt="Overzicht van padvormen" width="60%"/>
 Figuur 18: Visuele vormconcepten
 
 **Interviewvragen:**
