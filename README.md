@@ -709,11 +709,32 @@ In de tweede testfase werd het volledige prototype – bestaande uit de gekozen 
 De verkregen data werd verzameld via observaties, interviews en scorekaarten. De analyse gebeurt thematisch per fase, met bijzondere aandacht voor consistenties in voorkeuren, praktische drempels en suggesties voor verbetering.
 De inzichten uit deze test vormen de basis voor het definitieve ontwerp van LumiLife, met als doel een product dat niet alleen functioneel maar ook esthetisch en emotioneel aansluit bij de leefwereld van ouderen.
 
+--- 
+## Kritische reflectie
 
+Het LumiLife-project bood de unieke kans om het volledige ontwerpproces – van probleemverkenning tot het testen van een werkend prototype – te doorlopen binnen een duidelijke methodologische structuur. Door het Triple Diamond-model als leidraad te nemen, werd het mogelijk om systematisch te schakelen tussen onderzoek, ontwerp en validatie, met telkens de eindgebruiker als centrale focus.
 
+Tijdens het eerste semester lag de nadruk op het verdiepen in de leefwereld van ouderen. Via literatuuronderzoek, interviews en benchmarking werden niet alleen de fysieke en cognitieve uitdagingen van de doelgroep blootgelegd, maar ook hun motivatie, voorkeuren en drempels. Het ontwikkelen van een goed gedefinieerde “How Might We”-vraag en het vertalen van inzichten naar concrete ontwerpeisen legden een stevige basis voor de rest van het traject. Toch werd in deze fase ook duidelijk hoe moeilijk het is om abstracte concepten helder over te brengen aan gebruikers. Het storyboard en de eerste low-fidelity prototypes speelden daarom een cruciale rol in het tastbaar maken van ideeën.
 
+Het tweede semester werd gekenmerkt door iteratief ontwerpen en testen. Elke ontwikkelfase bracht nieuwe inzichten met zich mee: van het belang van vormgeving en feedback tot de gevoeligheid voor tempo en spelregels. Het herhaaldelijk betrekken van de doelgroep maakte het mogelijk om de interactie intuïtiever en het product visueel aantrekkelijker te maken. De keuze voor kleinschalige gebruikerstesten (N=4 per cyclus) bood daarbij de ruimte om diepgaand te observeren en te reflecteren, al blijft het aantal respondenten uiteraard een beperking in termen van representativiteit.
 
-## Bill of materials
+Het uiteindelijke ontwerp weerspiegelt een zorgvuldige afweging tussen technische haalbaarheid, gebruiksvriendelijkheid en esthetiek. Het product is laagdrempelig en uitnodigend, zonder te vervallen in infantiliteit of complexiteit. Toch blijft het een eerste iteratie: de eenvoud van de huidige opstelling biedt nog veel ruimte voor technologische uitbreiding, zoals draadloze communicatie of gepersonaliseerde instellingen.
+
+Ook methodologisch was het project leerrijk. De combinatie van observaties, interviews en performantie-indicatoren leverde rijke gegevens op, maar toekomstige iteraties zouden baat hebben bij een meer hybride aanpak waarin ook kwantitatieve data – zoals foutpercentages of reactietijden – systematisch worden geregistreerd. Tot slot zou het waardevol zijn om het product ook in groepscontexten of binnen revalidatieprogramma’s te testen, om het sociale en therapeutische potentieel ten volle te benutten.
+
+**Openstaande onderzoeksvragen**  
+- Hoe verschilt de impact van LumiLife op motivatie en geheugen tussen korte en lange termijn gebruik?
+- Wat is de rol van spelvariatie in het behoud van betrokkenheid over meerdere sessies?
+- In hoeverre kunnen gebruikers zelf instellingen aanpassen zonder begeleiding?
+- Hoe kan LumiLife geïntegreerd worden in bestaande zorgtrajecten of dagactiviteiten?
+
+**Toekomstig onderzoek** zou zich kunnen richten op langdurige inzetbaarheid, technologische uitbreiding (bv. draadloze modules, app-integratie) en validatie van cognitieve en fysieke effecten. Daarnaast is het wenselijk om de impact op sociaal contact en groepsinteractie verder te onderzoeken.
+
+Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in het proces te betrekken. Hun stem heeft niet alleen het product gevormd, maar ook de manier waarop het ontworpen werd.
+
+---
+## Technische beschrijving
+### Bill of materials
 **Elektronische componenten**
 1. LED-strips of -panelen: Voor de visuele feedback.
 2. Druksensoren: Voor het detecteren van aanrakingen op de pads.
@@ -729,27 +750,7 @@ De inzichten uit deze test vormen de basis voor het definitieve ontwerp van Lumi
 1. Schroeven, bouten, of lijm: Voor het assembleren van de pads.
 2. Soldeerbout en soldeertin: Voor het verbinden van elektronische componenten.
 
-## Kritische reflectie
-Het LumiLife-project heeft ons een diepgaand inzicht gegeven in het proces van gebruikersgericht ontwerpen, met name voor een kwetsbare doelgroep zoals ouderen. Door gebruik te maken van een iteratief ontwerpproces en drie golven van gebruikerstesten, werd het concept verfijnd tot een oplossing die zowel cognitieve als fysieke stimulatie combineert. Ondanks onze vooruitgang zijn er enkele sterke punten en uitdagingen die het reflecteren waard zijn.
 
-**Sterke punten**
-Een van de belangrijkste successen van het project was de nauwe betrokkenheid van de doelgroep tijdens elke fase. Door interviews, observaties en feedback van ouderen werd een ontwerp ontwikkeld dat aansluit bij hun behoeften. De keuze voor hexagonale pads, grotere knoppen en verbeterde kleurencontrasten zijn voorbeelden van directe resultaten van gebruikersfeedback.
-
-Daarnaast bood het iteratieve karakter van het project een groot voordeel. Door prototypes te ontwikkelen, te testen en te verbeteren, is het product steeds gebruiksvriendelijker en aantrekkelijker gemaakt. Vooral de aanpassing van visuele en auditieve feedback bleek cruciaal om de spelervaring intuïtiever en motiverender te maken.
-
-De methodische aanpak, zoals het Triple Diamond-model, zorgde ervoor dat het proces goed gestructureerd bleef. Het gebruik van benchmarks, literatuuronderzoek en duidelijke protocollen maakte de beslissingen transparant en onderbouwd. Deze aanpak gaf ons niet alleen richting, maar zorgde er ook voor dat het eindproduct stevig geworteld is in theorie en praktijk.
-
-**Uitdagingen**
-Ondanks deze successen waren er ook beperkingen. De relatief kleine testgroep, voornamelijk bestaande uit ouderen met interesse in technologie, maakt het lastig om de resultaten te generaliseren.
-
-Daarnaast bleek de technische uitvoerbaarheid van sommige functies een uitdaging. Het verminderen van het gewicht van de pads en het toevoegen van een volumeregeling voor auditieve feedback vereisen verdere technologische innovatie en samenwerking met materiaal- en elektronica-experts.
-
-Het ontwerpen van een balans tussen stimulatie en eenvoud was ook complex. Hoewel ouderen de multisensorische feedback waardeerden, werd overstimulatie soms als overweldigend ervaren. Het vinden van een optimale instelling die aanpasbaar is voor individuele voorkeuren blijft een aandachtspunt.
-
-**Lessen en vooruitzichten**
-Een belangrijke les is dat gebruikersbetrokkenheid vanaf het begin cruciaal is voor het succes van een ontwerp. De inzichten uit interviews en testen hebben ons geholpen om problemen vroegtijdig te identificeren en op te lossen. Tegelijkertijd bleek dat flexibiliteit in ontwerp en aanpassingsvermogen in technologie essentieel zijn voor producten die een diverse doelgroep bedienen.
-
-Vooruitkijkend biedt LumiLife een solide basis voor verdere ontwikkeling. Met aanvullende tests, een bredere gebruikersgroep en technologische verbeteringen kan het product een significante impact hebben op de levenskwaliteit van ouderen. Het project heeft ons niet alleen waardevolle ontwerpvaardigheden bijgebracht, maar ook laten zien hoe technologie op een toegankelijke manier kan bijdragen aan maatschappelijke uitdagingen.
 
 ## Algemene Product requirements
 
@@ -775,7 +776,7 @@ Voor een uitgebreide lijst met specifieke requirements en de onderliggende analy
 | **Opslag en Transport** | Het product moet lichtgewicht en draagbaar zijn, met eenvoudige opbergmogelijkheden.             | Wave 2                            |
 |                         | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                               | Wave 2                            |
 
-
+--- 
 ## Bronnen
 1: Alzheimer’s Disease International - Dementia statistics(z.d.). ([dementia facts figures](//www.alzint.org/about/dementia-facts-figures/dementia-statistics/)) 
 
@@ -783,7 +784,7 @@ Voor een uitgebreide lijst met specifieke requirements en de onderliggende analy
 
 3: Expertisecentrum Dementie Vlaanderen. (z.d.) - Prevalentie van dementie in België. ([prevalentie dementie](//https://www.dementie.be/home/wat-is-dementie/prevalentie/))
 
-
+--- 
 ## Bijlagen
 
 1: [miroboard](https://miro.com/app/board/uXjVLZcFU1Y=/?share_link_id=487604183572) 
@@ -819,7 +820,11 @@ Voor een uitgebreide lijst met specifieke requirements en de onderliggende analy
 * Muzikale volgorde: ([broeder Jacob](https://scratch.mit.edu/projects/1108770480))
 * Bomspel: ([oversteek](https://scratch.mit.edu/projects/1108045979))
 
-15: [Product Requirement Document](https://1drv.ms/w/c/9458d939536e9058/EeOrmluedlZEijFVp-KXkkYByNwl6bXrTcV5uZBdw7UXhA?e=TZn4MG)
-
+15: [Develop 1_protocol](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR)
+16: [Develop 1_rapport](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi)
+17: [Develop 2_protocol](https://1drv.ms/w/c/9458d939536e9058/EXgDpYKNdM9EvrJvkd7Jm6wBwVAXnAeeC1VeggPRiwNnsg?e=ZTa6Es)
+18: [Develop 2_rapport](https://1drv.ms/w/c/9458d939536e9058/EWuxvZJjiwpLhqgg5ToP5JcBoZrPr7lJtrvCCkB_JkaWTA?e=bkyzJ9)
+19: [Develop 3_protocol]()
+20: [Develop 3_rapport]()
 
 
