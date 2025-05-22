@@ -371,7 +371,7 @@ Voorafgaand aan de gebruikerstesten werd een literatuuronderzoek uitgevoerd naar
 - Twee knopvormen (groot/afgerond vs. smal/rechthoekig)
 - Twee kleurcombinaties (hoog vs. laag contrast)
 - Twee lay-outopzetten (luchtig gespreid vs. compact)
-Het document dat gebruikt werd tijdens de gebruikerstesten, met de resultaten van het literatuuronderzoek vindt u ([hier]([https://www.figma.com/design/Cy5q6bLcNbuYPB8e8v4Wj1/Untitled?node-id=0-1&p=f&t=RWDK0Pis2ZzK7HZx-0](https://1drv.ms/w/c/9458d939536e9058/EalpHkAlwedOk8uQsMz_srsBpAp_RENM4rBhBhqwPlnYFg?e=QTNQ8P))) terug. 
+Het document dat gebruikt werd tijdens de gebruikerstesten, met de resultaten van het literatuuronderzoek vindt u ([hier](https://1drv.ms/w/c/9458d939536e9058/EalpHkAlwedOk8uQsMz_srsBpAp_RENM4rBhBhqwPlnYFg?e=mT8cuu)) terug. 
 
 Om de bruikbaarheid van LumiLife in verschillende woonomgevingen te testen, werden drie prototypes ontwikkeld voor het opbergen van de pads. Elk systeem exploreert een andere benadering van functionaliteit, esthetiek en ergonomie:
 
