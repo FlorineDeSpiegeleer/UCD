@@ -1,10 +1,15 @@
 # LumiLife
 
-*LumiLife: Interactieve, lichtgevende pads die ouderen op een leuke en toegankelijke manier stimuleren om fysiek en cognitief actief te blijven.* 
+**LumiLife – Interactieve stimulatiepads voor ouderen**
 
-*Projectteam: De Spiegeleer Florine; Braekevelt Baptiste*
+LumiLife stimuleert ouderen op een toegankelijke en plezierige manier om zowel fysiek als mentaal actief te blijven via interactieve, verlichte drukpads die spelenderwijs beweging en geheugen ondersteunen.
 
-08/01/2025
+**Team**  
+Florine De Spiegeleer  
+Baptiste Braekevelt
+
+**Datum**  
+22 mei 2025
 
 ---
 
