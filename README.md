@@ -510,7 +510,7 @@ In de tweede ontwikkelfase lag de focus op het testen van de elektronische werki
 #### Voorbereiding
 
 Voor deze testfase werd een elektronisch prototype ontwikkeld op basis van een Arduino Nano, gekoppeld aan 9 breadboards met elk een LED en een drukknop. De visuele en auditieve feedback werd bewust eenvoudig gehouden om overprikkeling te vermijden. Een kartonnen behuizing zorgde ervoor dat de technische onderdelen onzichtbaar bleven, waardoor de gebruikers zich konden focussen op het spel. Hieronder is een afbeelding te zien van het prototype. 
-
+<img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0009.jpg" alt="ophangen op muur" width="50%"/><img src="https://github.com/FlorineDeSpiegeleer/UCD/blob/62f1b05d90d613f5fa06f3a554c5f0c31145cb13/IMG_0009.jpg" alt="ophangen op muur" width="50%"/><br/>
 Figuur 16 & 17: prototype spelvarianten
 
 Vier interactieve spelletjes werden ontwikkeld en in dezelfde volgorde aangeboden:
