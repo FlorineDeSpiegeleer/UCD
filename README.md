@@ -706,6 +706,68 @@ In de tweede testfase werd het volledige prototype – bestaande uit de gekozen 
 De verkregen data werd verzameld via observaties, interviews en scorekaarten. De analyse gebeurt thematisch per fase, met bijzondere aandacht voor consistenties in voorkeuren, praktische drempels en suggesties voor verbetering.
 De inzichten uit deze test vormen de basis voor het definitieve ontwerp van LumiLife, met als doel een product dat niet alleen functioneel maar ook esthetisch en emotioneel aansluit bij de leefwereld van ouderen.
 
+### Resultaten
+
+Tijdens deze derde testfase werd zowel de esthetische voorkeur als de gebruikservaring van het werkende LumiLife-prototype geëvalueerd. De resultaten zijn opgesplitst in twee delen: vormbeoordeling van tien visuele padvarianten, en de praktische test van het finale prototype inclusief interface en ophangsysteem.
+
+#### Fase 1 – Vormbeoordeling
+
+- **Favoriete ontwerpen**: Pad 8 werd twee keer als favoriet aangeduid, gevolgd door pad 3 en pad 4. Deze ontwerpen vielen in de smaak vanwege hun neutrale kleurgebruik, eenvoud, antislipmateriaal en degelijke uitstraling.
+- **Minst gewaardeerde ontwerpen**: Pad 1 werd het vaakst als minst aantrekkelijk aangeduid (3x), gevolgd door pad 6. Deze werden omschreven als te fel, te hoekig of niet comfortabel qua uitstraling.
+- **Verbetersuggesties**: Gebruikers stelden voor om dikkere randen toe te voegen voor een betere grip, textuur of stof aan te brengen voor een zachtere look & feel, en een antisliplaag onderaan te voorzien.
+
+#### Fase 2 – Prototype-evaluatie
+
+**Eerste indruk**  
+- Het prototype werd als licht, stevig en aangenaam ervaren in de hand.
+- De werking werd intuïtief bevonden; één deelnemer had kort uitleg nodig, maar begreep daarna de opzet vlot.
+- De interface werd als overzichtelijk ervaren, hoewel één gebruiker lichte vertraging opmerkte tussen knopdruk en respons.
+
+**Gebruik en interactie**  
+- De drukknop werd door één deelnemer als iets te klein of stroef ervaren.
+- De LED-feedback werd als motiverend en duidelijk ervaren. Het visuele effect verhoogde het spelplezier.
+- Er werd gesuggereerd om optioneel auditieve feedback toe te voegen, zoals een zachte 'ping' of melodie bij succesvolle acties.
+
+**Ophangsysteem**  
+- Het magnetisch ophangsysteem werd als handig en visueel discreet ervaren.
+- Gebruikers gaven aan het product liefst op een zichtbare, toegankelijke plek te plaatsen (zoals de eetkamer of tv-hoek).
+- Een correcte ophanghoogte bleek essentieel voor comfortabel gebruik.
+
+**Gebruikersreacties**  
+- “Ik had gedacht dat het ingewikkelder ging zijn, maar eigenlijk valt dat goed mee.” – Kaat  
+- Eén deelnemer bleef spontaan herhalen en wilde het product samen met kleinkinderen gebruiken.
+- Non-verbale signalen zoals lachen, herhaald drukken en luidop redeneren duidden op hoge betrokkenheid.
+### Algemene observaties
+
+**Over de vormgeving**  
+- De voorkeur ging duidelijk uit naar afgeronde, zachte vormen met een neutrale kleurstelling. Deze werden als rustgevend, veilig en esthetisch passend binnen een huiselijke context ervaren.
+- Textuur en grip werden benoemd als belangrijke factoren voor comfort en controle. Een antisliponderzijde en tactiele afwerking werden gewaardeerd.
+
+**Over de bediening**  
+- De pad werd als licht en hanteerbaar ervaren. Eén deelnemer vond de drukknop iets te klein of stroef, wat kan wijzen op een verbeterpunt qua ergonomie.
+- De interface werd in het algemeen intuïtief bevonden, al zorgde een lichte reactievertraging bij één gebruiker voor verwarring. Een visuele of auditieve bevestiging zou hier kunnen helpen.
+
+**Over de motivatiewaarde**  
+- De LED-feedback werd als stimulerend en leuk ervaren. Gebruikers vonden het motiverend om feedback te krijgen na interactie.
+- Er werd gesuggereerd om optionele auditieve signalen toe te voegen, zoals een zachte ‘ping’ of motiverende muziek, mits instelbaar naar persoonlijke voorkeur.
+
+
+
+### Conclusie en ontwerpimplicaties
+
+De testfase in Develop 3 bevestigde dat het ontwerp van LumiLife goed aansluit bij de wensen en leefwereld van ouderen. Zowel de vormgeving als de interactie werd in het algemeen positief onthaald. De afgeronde vormen, neutrale kleuren en antislipmaterialen versterken het gevoel van vertrouwen en toegankelijkheid. Het werkende prototype werd intuïtief bevonden en de visuele feedback motiveerde gebruikers om ermee te blijven interageren.
+
+Toch kwamen er ook enkele aandachtspunten naar voren. De knopgrootte en reactietijd van de interface kunnen verder worden geoptimaliseerd. Daarnaast werd het toevoegen van zachte geluiden of muziek voorgesteld als versterkend element, mits optioneel en subtiel geïmplementeerd.
+
+**Ontwerpimplicaties voor verdere ontwikkeling:**
+- Optimaliseer de knopgrootte en drukweerstand voor een bredere gebruikersgroep.
+- Verbeter de responsiviteit van de interface en voeg duidelijke feedback toe na een actie.
+- Houd bij de eindafwerking rekening met de voorkeur voor afgeronde vormen, sobere kleuren en tactiele materialen.
+- Overweeg optionele audiofeedback (bijv. ‘ping’ of rustgevende tonen) als bijkomend feedbackkanaal.
+
+De positieve houding van de deelnemers bevestigt dat LumiLife potentieel heeft als toegankelijke, motiverende en sociaal inzetbare tool voor dagelijkse stimulatie. Deze feedback vormt een waardevolle basis voor de afronding en mogelijke opschaling van het product.
+
+
 --- 
 ## Kritische reflectie
 
