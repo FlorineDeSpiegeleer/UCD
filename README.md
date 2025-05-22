@@ -468,7 +468,7 @@ De eerste ontwikkelfase van LumiLife leverde waardevolle inzichten op over hoe o
 
 **Opslagsystemen** vervullen meer dan een functionele rol: ze beïnvloeden de beleving, motivatie en zelfs creativiteit van gebruikers. Waar de magnetische muur praktisch maar onpersoonlijk aanvoelde, en de honingraatstructuur visueel ordelijk maar technisch beperkt was, bleek het schilderijframe verrassend stimulerend. De integratie van visuele esthetiek in een functionele component wekte spontaan emotie, verhaal en interactie op – een onverwacht krachtig designprincipe.
 
-Voor meer details, zie het [Develop 1 - rapport]([https://1drv.ms/w/c/9458d939536e9058/ETyzMVBTAqpOuSBb_r_y764BASb1ogtXWAj5bsVuHbbHAg?e=OtncXO](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi)) en het [testprotocol]([https://1drv.ms/w/c/9458d939536e9058/EZPexuH_t1ZDrBxKF-i5EC4BjO-2J_DN5rmQSSC7-4Sotg?e=qlHPgn](https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR)).
+Voor meer details, zie het [Develop 1 - rapport](https://1drv.ms/w/c/9458d939536e9058/EWhR-tmCHptBiUysGQoVtIYB4nBNWtqoA-bsH1ej9FYUKQ?e=X24wHi)) en het [testprotocol]((https://1drv.ms/w/c/9458d939536e9058/EUS0uwE4PvFEjm2u7NHSTDQB72pJcFUFVLs8EOmPZHMsvA?e=jUdrhR)).
 
 
 
