@@ -45,28 +45,34 @@ LumiLife biedt een innovatieve oplossing voor deze uitdaging. Met een set intera
 ---
 ## Methodologie
 
+Het ontwerptraject van LumiLife werd uitgevoerd volgens een gestructureerd ontwerpparadigma gebaseerd op het **Triple Diamond-model**, een uitbreiding op het klassieke Double Diamond-model. Dit model omvat drie opeenvolgende fasen: *Discovery*, *Definition* en *Development*, die telkens een afwisseling van divergent en convergent denken faciliteren. Deze fasering diende als kapstok voor het volledige project en ondersteunde een iteratief proces van verkennen, conceptualiseren, bouwen en testen.  
 
-Het project werd uitgevoerd volgens een gestructureerd proces gebaseerd op het Triple Diamond-model. Semester 1 richtte zich op de Discovery- en Definition-fasen, waarin het probleem werd onderzocht en een oplossing werd gedefinieerd. Semester 2 richtte zich op iteratieve ontwikkelingen in de Development-fase.
+### Discovery (Week 1–6)
 
-* **Discovery (Week 1-6)**
-De Discovery-fase richtte zich op het begrijpen van de uitdagingen en behoeften van ouderen. Dit omvatte een uitgebreide literatuurstudie naar mobiliteits- en geheugenproblemen bij ouderen, evenals de Ronnie Gardiner Methode (RGM) en de toepassingen daarvan. Er werd ook benchmarking uitgevoerd om bestaande oplossingen en hun tekortkomingen te analyseren. Daarnaast werden interviews georganiseerd met therapeuten en ouderen om diepgaand inzicht te krijgen in hun perspectieven en ervaringen. Deze gecombineerde aanpak stelde ons in staat om probleemopportuniteiten te identificeren en de belangrijkste behoeften van de doelgroep te definiëren.
+De Discovery-fase richtte zich op het fundamenteel begrijpen van de doelgroep en context. Via een uitgebreide literatuurstudie werden fysieke en cognitieve uitdagingen bij ouderen onderzocht, evenals therapeutische principes zoals de Ronnie Gardiner Methode (RGM), die multisensorische stimulatie inzet via ritme en beweging. Parallel werd een benchmarking uitgevoerd van bestaande marktproducten om lacunes en opportuniteiten te identificeren.
 
-* **Definition (Week 6-12)**
-Tijdens de Definition-fase werden de inzichten uit de Discovery-fase vertaald naar duidelijke ontwerpeisen en productvereisten. Op basis van deze gegevens werden verschillende concepten ontwikkeld, zorgvuldig beoordeeld en geprioriteerd om te voldoen aan de behoeften van de doelgroep.
+Aanvullend werden diepte-interviews afgenomen met ouderen en therapeuten (zonder RGM-ervaring), met als doel hun noden, voorkeuren en barrières in kaart te brengen. Deze kwalitatieve inzichten werden geanalyseerd en vertaald naar ontwerpcriteria. Een "How Might We"-vraag werd geformuleerd als strategisch kader voor de rest van het traject.
 
-Er werd een storyboard ontworpen om de gebruikerservaring en interacties met LumiLife te visualiseren. Dit storyboard speelde een cruciale rol in het communiceren van ontwerpideeën en het maken van abstracte concepten tastbaar voor het team en gebruikers. Het bood een visueel overzicht van hoe de pads zouden worden gebruikt in verschillende contexten, en hielp bij het identificeren van potentiële knelpunten in de gebruikersflow.
+### Definition (Week 6–12)
+
+De tweede fase stond in het teken van het concretiseren van ontwerpvereisten en het exploreren van oplossingsrichtingen. Op basis van de verkregen inzichten werden meerdere low-fidelity concepten ontwikkeld en getest tijdens drie golven gebruikerstesten (N = 4–5 per test). De focus lag hierbij op gebruiksgemak, aantrekkelijkheid, spelplezier en begrijpelijkheid.  
+
+Daarnaast werd een storyboard ontworpen om de volledige gebruikersflow visueel te communiceren. Deze visualisatie hielp bij het identificeren van kritische momenten in de interactie en ondersteunde besluitvorming tijdens het ontwerpproces.
+
+### Development (Semester 2)
+
+In de Development-fase werd het ontwerp iteratief verfijnd en technisch uitgewerkt. Deze fase werd opgedeeld in drie cycli, telkens met een duidelijke focus:
+
+- **Develop 1**: Evaluatie van padvorm, interface en opbergsysteem met behulp van fysieke mock-ups
+- **Develop 2**: Implementatie en test van vier elektronische spelconcepten op basis van LED-feedback en drukinteractie (via Arduino)
+- **Develop 3**: Beoordeling van de visuele vormgeving en test van het finale prototype met werkende hardware en interface
+
+Elke cyclus bestond uit prototyping, gebruikerstesten en terugkoppeling. Door systematisch feedback te verzamelen en te vertalen naar ontwerpverbeteringen werd het product stapsgewijs verfijnd tot een coherent en gebruikersgericht eindconcept.
+
 
 ![image](https://github.com/user-attachments/assets/9317f081-5b9f-4352-bf7f-57bc3adc0fd6)
 Figuur 4: Storyboard
 
-Daarnaast vonden drie rondes van gebruikerstesten plaats, waarbij elke ronde 4 tot 5 deelnemers telde. De testen richtten zich op het evalueren van de aantrekkelijkheid, haalbaarheid en gebruiksvriendelijkheid van het ontwerp a.d.h.v. low-fidelity prototypes. Voor elke test werden uitgebreide protocollen en informed consents opgesteld en de resultaten werden nauwgezet gedocumenteerd in rapporten.
-De resultaten en rapporten vormden een solide basis voor het definitieve concept en de verdere ontwikkeling.
-
-* **Development (Semester 2)**
-In semester 2, de nadruk ligt op de uitontwikkeling van het concept via iteratieve processen. De focus zal liggen op:
-  * Definiëren van de belangrijkste ontwerpprioriteiten: Het identificeren en specificeren van cruciale aspecten van het productontwerp die afgestemd zijn op gebruikersbehoeften en technologische mogelijkheden.
-  * Ontwerpmethoden toepassen: Het uitvoeren van doelgerichte activiteiten, zoals prototyping, testen, en evalueren, om het ontwerp te verfijnen en de functionaliteiten te optimaliseren.
-  * Drie iteratieve ontwikkelingsfases: In elke iteratie worden nieuwe functies toegevoegd en geëvalueerd. Het proces omvat het testen van basisfunctionaliteiten (zoals licht- en geluidssignalen), uitbreiding met complexe interacties (zoals multisensorische feedback), en optimalisatie van de gebruikservaring in realistische contexten.
 
 ![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/8d520abe4ca6ac43c15741aea6686691e437a6c5/tijdlijn.jpg)
 
