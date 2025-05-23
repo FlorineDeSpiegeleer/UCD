@@ -793,13 +793,14 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 
 ---
 ## Technische beschrijving
-**Hardware**
-- Platform: Arduino Nano 33 IoT
- - Prijs: €26,70
- - Link: ([Arduino Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot?utm_source=google&utm_medium=cpc&utm_campaign=EU-Pmax&gad_source=1&gad_campaignid=22591753150&gbraid=0AAAAACbEa85ty6tKB15_W19N7PravQ6gK&gclid=Cj0KCQjwucDBBhDxARIsANqFdr1_ogqMmVLgb_sjEjv6EMny-leCNmIqqbqXi_eTD2lS18ofeorBnUcaAsmNEALw_wcB))
-- Touchscreen Display: 7-inch HDMI touchscreen
-**Software**
-
+**Elektrische componenten**
+| Component                    | Beschrijving                                                                   | Link                                                                                                                | Prijs (€/stuk) |
+| ---------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Arduino Nano 33 IoT          | Microcontroller met ingebouwde Wi-Fi (optioneel, voor toekomstige uitbreiding) | [Arduino Store](https://store.arduino.cc/products/arduino-nano-33-iot)                                              | 26,70          |
+| LED’s (WS2812B)              | Individueel adresseerbare RGB-leds voor visuele feedback                       | [Amazon (WS2812B)](https://www.amazon.nl/dp/B08ZD7BQK1)                                                             | 12,00 (set 10) |
+| Drukknoppen                  | Grote drukknoppen voor input op pads                                           | [Conrad](https://www.conrad.be/nl/p/drukknop-rood-1x-aan-uit-250-v-1-a-6-mm-tru-components-tc-3934831-1575487.html) | 1,50           |
+| 9V batterij + batterijhouder | Draagbare energievoorziening voor Arduino                                      | [Kiwi Electronics](https://www.kiwi-electronics.nl/batterijhouder-met-schakelaar-voor-1x-9v-blok)                   | 2,00           |
+| Breadboard + jumper wires    | Voor prototyping van schakeling                                                | [Kiwi Electronics](https://www.kiwi-electronics.nl/breadboard-set-830-punten-met-65-jumperdraden)                   | 5,00           |
 
 
 
