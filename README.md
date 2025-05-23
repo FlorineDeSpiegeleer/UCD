@@ -793,7 +793,7 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 
 ---
 ## Technische beschrijving
-Hieronder vindt u de volledige lijst van componenten die nodig zijn om het LumiLife-prototype te bouwen, inclusief prijzen en links naar de producten.
+Hieronder vindt u de volledige Bill Of Materials (BOM) die nodig zijn om het LumiLife-prototype te bouwen, inclusief prijzen en links naar de producten.
 
 ### Elektrische componenten
 | Component | Beschrijving | Link | Aantal |Prijs (€/stuk) |
@@ -812,22 +812,26 @@ Hieronder vindt u de volledige lijst van componenten die nodig zijn om het LumiL
 | Rubberen antisliplaag       | Voorkomt verschuiven op tafel of vloer                | €1,00/stuk      |
 | Magnetische strips of frame | Opbergsysteem                                         | €8,00           |
 | Karton (voor prototype)     | Eenvoudige constructie voor mockup                    | €0,50           |
-| Extra                       | Lijm, zaagmachine, lasercutter en plakband            | gratis/ lenen   |
+| Extra                       | Lijm, zaagmachine, lasercutter en plakband            | gratis/ geleend |
 
-1. Hardwareopbouw
-Snijd of laser de pads uit MDF of acryl (zeshoekig, ±15 cm diameter).
+### 1. Hardwareopbouw
+1. Snijd of laser de pads uit MDF of acryl (zeshoekig, ±15 cm diameter).
 
-Bevestig de drukknop centraal in de pad.
+2. Lijm de verschillende delen uit het MDF of acryl aan elkaar.
 
-Monteer een LED-strip of WS2812B in het oppervlak.
+3. Plaats de Arduino 33 IoT in het breadboard, met de bijhorende elektrische componenten.
 
-Bedraad alles via breadboard naar Arduino.
+4. Lijm het breadboard centraal in de pad.
 
-Voeg een batterijhouder toe (9V).
+5. Bedraad alles via breadboard naar Arduino.
 
-Voorzie antislip of magnetische strip onderaan de pads.
+6. Voeg een batterijhouder toe (9V).
 
-Herhaal dit voor elke pad (bijv. set van 3 tot 6 stuks).
+7. Voorzie een magnetische strip aan de onderkant van de pads.
+
+8. Lijm een antisliplaag aan de onderkant van de pad (over de magnetische strip).
+
+9. Herhaal dit voor elke pad (in totaal 9 pads).
 
 ## Algemene Product requirements
 
