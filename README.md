@@ -896,7 +896,7 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 | 2.8            | Het product moet een moeilijkheidsgraad hebben en moet aanpasbaar zijn voor de gebruiker.                                           | Wave 3              |
 | 2.9            | Het product moet verschillende spellen bevatten om de interesse te wekken.                                                          | Wave 3              |
 | 2.10           | De spelregels moeten duidelijk en intuïtief zijn.                                                                                   | Wave 3              |
-| **Develop 1**   |                                                                                                                                     |                     |
+| **Develop1**   |                                                                                                                                     |                     |
 | 3.1            | De interface moet overstimulatie vermijden (instelbare licht-/geluidsintensiteit).                                                  | Gebruikerstest      |
 | 3.2            | De interface moet een compititief spelkarakter hebben.                                                                              | Gebruikerstest      |
 | 3.3            | Het product moet positieve feedback geven bij succesvolle acties (bijv. met auditieve feedback).                                    | Gebruikerstest      |
