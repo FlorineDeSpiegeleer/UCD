@@ -840,6 +840,20 @@ Hieronder vindt u de volledige Bill Of Materials (BOM) die nodig zijn om het Lum
 
 3. Upload de code naar de Arduino.
 
+### 3. Interface
+- Maak via een interfaceontwerp-software je interface: [Figma](https://www.figma.com/)
+
+### Extra Tips & Ontwerpaanbevelingen
+- Zorg voor variabele moeilijkheidsgraad (sneller tempo, langere volgorde).
+
+- Voeg visuele feedback toe: groen = correct, rood = fout.
+
+- Eventueel uitbreiden met geluid (piezo buzzer of muziek via Scratch).
+
+- Gebruik zachte, afgeronde materialen voor comfort.
+
+- Hou installatie modulair: elk pad moet zelfstandig werken.
+
 ## Algemene Product requirements
 
 Hieronder worden de belangrijkste algemene product requirements samengevat, gebaseerd op inzichten uit interviews, literatuuronderzoek, benchmarking en gebruikerstesten. Deze vereisten bieden een overzicht van de kernfuncties en eigenschappen die essentieel zijn voor het ontwerp en de ontwikkeling van het product.
