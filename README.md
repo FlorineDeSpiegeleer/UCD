@@ -767,6 +767,64 @@ Toch kwamen er ook enkele aandachtspunten naar voren. De knopgrootte en reactiet
 
 De positieve houding van de deelnemers bevestigt dat LumiLife potentieel heeft als toegankelijke, motiverende en sociaal inzetbare tool voor dagelijkse stimulatie. Deze feedback vormt een waardevolle basis voor de afronding en mogelijke opschaling van het product.
 
+## Algemene Product requirements
+
+Hieronder worden de belangrijkste algemene product requirements samengevat, gebaseerd op inzichten uit interviews, literatuuronderzoek, benchmarking en gebruikerstesten. Deze vereisten bieden een overzicht van de kernfuncties en eigenschappen die essentieel zijn voor het ontwerp en de ontwikkeling van het product.
+
+| **Categorie**          | **Requirement**                                                                                  | **Bron**                          |
+|-------------------------|------------------------------------------------------------------------------------------------|-----------------------------------|
+| **Gebruiksgemak**       | Het product moet intuïtief zijn, met minimale uitleg of training voor gebruikers.                | Interviews, Gebruikerstesten      |
+|                         | Alle elementen moeten eenvoudig bedienbaar zijn, ook voor mensen met beperkte kracht of mobiliteit. | Interviews, Wave 1 & Wave 2       |
+| **Veiligheid**          | Het product moet veilig zijn om te gebruiken, zonder scherpe randen of onderdelen die gemakkelijk loskomen. | Benchmarking, Gebruikerstesten   |
+| **Flexibiliteit**       | Het product moet aanpasbaar zijn voor gebruikers met verschillende fysieke en cognitieve niveaus. | Interviews, Literatuuronderzoek   |
+|                         | Het product moet eenvoudig schoon te maken zijn.                                                | Interviews, Wave 1                |
+|                         | Feedback moet aangepast kunnen worden aan persoonlijke voorkeuren (bijv. volume, kleurintensiteit). | Gebruikerstesten                  |
+| **Toegankelijkheid**    | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                  | Interviews, Benchmarking          |
+
+
+| Categorie      | Requirement                                                                                                                         | Bron                |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **Discovery**  |                                                                                                                                     |                     |
+| 1.1            | Het product moet bijdragen aan cognitieve en fysieke stimulatie.                                                                    | Literatuuronderzoek |
+| 1.2            | De interface moet duidelijk zijn, met heldere symbolen en tekst voor uitleg.                                                        | Literatuuronderzoek |
+| 1.3            | Het product moet duidelijke visuele en tactiele feedback geven.                                                                     | Literatuuronderzoek |
+| 1.4            | Het product moet gebruiksvriendelijk zijn en makkelijk te navigeren.                                                                | Literatuuronderzoek |
+| 1.5            | Het product moet veilig en duurzaam/ robuust zijn om te gebruiken.                                                                  | Benchmarking        |
+| 1.6            | Het product wordt ontworpen met kostenefficiëntie in gedachten, zodat het betaalbaar blijft voor ouderen en zorginstellingen.       | Benchmarking        |
+| 1.7            | Het product moet compatibel zijn met een scherm om de resultaten van het spel af te lezen.                                          | Benchmarking        |
+| **Definition** |                                                                                                                                     |                     |
+| 2.1            | De pads moeten zeshoekig en handgrootte zijn, om grip en comfort te vergroten.                                                      | Wave 1              |
+| 2.2            | De knop op de pads moeten groot en duidelijk zijn om op te drukken.                                                                 | Wave 1              |
+| 2.3            | De taal van de instructies in de interface moeten in het Nederlands zijn.                                                           | Wave 1 & 2          |
+| 2.4            | Het product moet licht en draagbaar zijn.                                                                                           | Wave 1 & 2          |
+| 2.5            | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                                                     | Wave 1 & 2          |
+| 2.6            | De interface moet een neutrale, volwassen uitstraling hebben (geen kinderachtige elementen).                                        | Wave 2              |
+| 2.7            | Het product moet een moeilijkheidsgraad hebben en moet aanpasbaar zijn voor de gebruiker.                                           | Wave 3              |
+| 2.8            | Het product moet verschillende spellen bevatten om de interesse te wekken.                                                          | Wave 3              |
+| 2.9            | De spelregels moeten duidelijk en intuïtief zijn.                                                                                   | Wave 3              |
+| **Develop1**   |                                                                                                                                     |                     |
+| 3.1            | De interface moet overstimulatie vermijden (instelbare licht-/geluidsintensiteit).                                                  | Gebruikerstest      |
+| 3.2            | De interface moet een compititief spelkarakter hebben.                                                                              | Gebruikerstest      |
+| 3.3            | Het product moet positieve feedback geven bij succesvolle acties (bijv. met auditieve feedback).                                    | Gebruikerstest      |
+| 3.4            | Het product moet duidelijke interactieve elementen bevatten die herkenbaar zijn voor de gebruiker.                                  | Gebruikerstest      |
+| 3.5            | Het product mag geen overbelasting veroorzaken door te veel elementen of onduidelijk instructies.                                   | Gebruikerstest      |
+| 3.6            | Het product bevat een intuïtieve stopknop waarmee gebruikers het spel op elk moment kunnen onderbreken.                             | Gebruikerstest      |
+| 3.7            | Het product moet op eender welke positie in de ruimte te plaatsen zijn. De pads mogen op een willekeurige positie te plaatsen zijn. | Gebruikerstest      |
+| 3.8            | Het product moet een draadloze oplossing bieden.                                                                                    | Gebruikerstest      |
+| 3.9            | Het product biedt een antisliplaag aan de onderzijde van de pads voor de veiligheid.                                                | Gebruikerstest      |
+| 3.10           | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                                   | Gebruikerstest      |
+| **Develop2**   |                                                                                                                                     |                     |
+| 4.1            | Het product moet eenvoudige spelregels met ingebouwde tutorials hebben.                                                             | Gebruikerstest      |
+| 4.2            | Het product moet een aanpasbaar spelduur en tempo hebben.                                                                           | Gebruikerstest      |
+| 4.3            | De LED's moeten een langere brandduur hebben voor beter zichtbaarheid tijdens het spel.                                             | Gebruikerstest      |
+| 4.4            | De interface moet een duidelijke timer en vooruitgangsindicator hebben.                                                             | Gebruikerstest      |
+| 4.5            | De interface moet tijdens het spelen van een spel een hulpknop voor de spelregels ter beschikking stellen.                          | Gebruikerstest      |
+| 4.6            | De interface moet de scores van elk spel kunnen weergeven. Moeilijkheidsgraad wordt ook weergegeven door symbolen.                  | Gebruikerstest      |
+| **Develop3**   |                                                                                                                                     |                     |
+| 5.1            | Het product moet een stevige behuizing hebben zoals PE of PP.                                                                       | Gebruikerstest      |
+| 5.2            | Het product moet zachte vormen bevatten, zodat dit langdurig comfort biedt voor de gebruiker.                                       | Gebruikerstest      |
+| 5.2            | De interface moet duidelijk en direct reageren (geen vertraging).                                                                   | Gebruikerstest      |
+| 5.3            | Het opbergsysteem moet makkelijk te verplaatsen zijn op de muren.                                                                   | Gebruikerstest      |
 
 --- 
 ## Kritische reflectie
@@ -859,65 +917,6 @@ Hieronder vindt u de volledige Bill Of Materials (BOM) die nodig zijn om het Lum
 - Gebruik zachte, afgeronde materialen voor comfort.
 
 - Hou installatie modulair: elk pad moet zelfstandig werken.
-
-## Algemene Product requirements
-
-Hieronder worden de belangrijkste algemene product requirements samengevat, gebaseerd op inzichten uit interviews, literatuuronderzoek, benchmarking en gebruikerstesten. Deze vereisten bieden een overzicht van de kernfuncties en eigenschappen die essentieel zijn voor het ontwerp en de ontwikkeling van het product.
-
-| **Categorie**          | **Requirement**                                                                                  | **Bron**                          |
-|-------------------------|------------------------------------------------------------------------------------------------|-----------------------------------|
-| **Gebruiksgemak**       | Het product moet intuïtief zijn, met minimale uitleg of training voor gebruikers.                | Interviews, Gebruikerstesten      |
-|                         | Alle elementen moeten eenvoudig bedienbaar zijn, ook voor mensen met beperkte kracht of mobiliteit. | Interviews, Wave 1 & Wave 2       |
-| **Veiligheid**          | Het product moet veilig zijn om te gebruiken, zonder scherpe randen of onderdelen die gemakkelijk loskomen. | Benchmarking, Gebruikerstesten   |
-| **Flexibiliteit**       | Het product moet aanpasbaar zijn voor gebruikers met verschillende fysieke en cognitieve niveaus. | Interviews, Literatuuronderzoek   |
-|                         | Het product moet eenvoudig schoon te maken zijn.                                                | Interviews, Wave 1                |
-|                         | Feedback moet aangepast kunnen worden aan persoonlijke voorkeuren (bijv. volume, kleurintensiteit). | Gebruikerstesten                  |
-| **Toegankelijkheid**    | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                  | Interviews, Benchmarking          |
-
-
-| Categorie      | Requirement                                                                                                                         | Bron                |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| **Discovery**  |                                                                                                                                     |                     |
-| 1.1            | Het product moet bijdragen aan cognitieve en fysieke stimulatie.                                                                    | Literatuuronderzoek |
-| 1.2            | De interface moet duidelijk zijn, met heldere symbolen en tekst voor uitleg.                                                        | Literatuuronderzoek |
-| 1.3            | Het product moet duidelijke visuele en tactiele feedback geven.                                                                     | Literatuuronderzoek |
-| 1.4            | Het product moet gebruiksvriendelijk zijn en makkelijk te navigeren.                                                                | Literatuuronderzoek |
-| 1.5            | Het product moet veilig en duurzaam/ robuust zijn om te gebruiken.                                                                  | Benchmarking        |
-| 1.6            | Het product wordt ontworpen met kostenefficiëntie in gedachten, zodat het betaalbaar blijft voor ouderen en zorginstellingen.       | Benchmarking        |
-| 1.7            | Het product moet compatibel zijn met een scherm om de resultaten van het spel af te lezen.                                          | Benchmarking        |
-| **Definition** |                                                                                                                                     |                     |
-| 2.1            | De pads moeten zeshoekig en handgrootte zijn, om grip en comfort te vergroten.                                                      | Wave 1              |
-| 2.2            | De knop op de pads moeten groot en duidelijk zijn om op te drukken.                                                                 | Wave 1              |
-| 2.3            | De taal van de instructies in de interface moeten in het Nederlands zijn.                                                           | Wave 1 & 2          |
-| 2.4            | Het product moet licht en draagbaar zijn.                                                                                           | Wave 1 & 2          |
-| 2.5            | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                                                     | Wave 1 & 2          |
-| 2.6            | De interface moet een neutrale, volwassen uitstraling hebben (geen kinderachtige elementen).                                        | Wave 2              |
-| 2.7            | Het product moet een moeilijkheidsgraad hebben en moet aanpasbaar zijn voor de gebruiker.                                           | Wave 3              |
-| 2.8            | Het product moet verschillende spellen bevatten om de interesse te wekken.                                                          | Wave 3              |
-| 2.9            | De spelregels moeten duidelijk en intuïtief zijn.                                                                                   | Wave 3              |
-| **Develop1**   |                                                                                                                                     |                     |
-| 3.1            | De interface moet overstimulatie vermijden (instelbare licht-/geluidsintensiteit).                                                  | Gebruikerstest      |
-| 3.2            | De interface moet een compititief spelkarakter hebben.                                                                              | Gebruikerstest      |
-| 3.3            | Het product moet positieve feedback geven bij succesvolle acties (bijv. met auditieve feedback).                                    | Gebruikerstest      |
-| 3.4            | Het product moet duidelijke interactieve elementen bevatten die herkenbaar zijn voor de gebruiker.                                  | Gebruikerstest      |
-| 3.5            | Het product mag geen overbelasting veroorzaken door te veel elementen of onduidelijk instructies.                                   | Gebruikerstest      |
-| 3.6            | Het product bevat een intuïtieve stopknop waarmee gebruikers het spel op elk moment kunnen onderbreken.                             | Gebruikerstest      |
-| 3.7            | Het product moet op eender welke positie in de ruimte te plaatsen zijn. De pads mogen op een willekeurige positie te plaatsen zijn. | Gebruikerstest      |
-| 3.8            | Het product moet een draadloze oplossing bieden.                                                                                    | Gebruikerstest      |
-| 3.9            | Het product biedt een antisliplaag aan de onderzijde van de pads voor de veiligheid.                                                | Gebruikerstest      |
-| 3.10           | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                                   | Gebruikerstest      |
-| **Develop2**   |                                                                                                                                     |                     |
-| 4.1            | Het product moet eenvoudige spelregels met ingebouwde tutorials hebben.                                                             | Gebruikerstest      |
-| 4.2            | Het product moet een aanpasbaar spelduur en tempo hebben.                                                                           | Gebruikerstest      |
-| 4.3            | De LED's moeten een langere brandduur hebben voor beter zichtbaarheid tijdens het spel.                                             | Gebruikerstest      |
-| 4.4            | De interface moet een duidelijke timer en vooruitgangsindicator hebben.                                                             | Gebruikerstest      |
-| 4.5            | De interface moet tijdens het spelen van een spel een hulpknop voor de spelregels ter beschikking stellen.                          | Gebruikerstest      |
-| 4.6            | De interface moet de scores van elk spel kunnen weergeven. Moeilijkheidsgraad wordt ook weergegeven door symbolen.                  | Gebruikerstest      |
-| **Develop3**   |                                                                                                                                     |                     |
-| 5.1            | Het product moet een stevige behuizing hebben zoals PE of PP.                                                                       | Gebruikerstest      |
-| 5.2            | Het product moet zachte vormen bevatten, zodat dit langdurig comfort biedt voor de gebruiker.                                       | Gebruikerstest      |
-| 5.2            | De interface moet duidelijk en direct reageren (geen vertraging).                                                                   | Gebruikerstest      |
-| 5.3            | Het opbergsysteem moet makkelijk te verplaatsen zijn op de muren.                                                                   | Gebruikerstest      |
 
 --- 
 ## Bronnen
