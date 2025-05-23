@@ -793,9 +793,9 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 
 ---
 ## Technische beschrijving
-**Elektrische componenten**
-| Component                    | Beschrijving                                                                   | Link                                                                                                                | Prijs (€/stuk) |
-| ---------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | -------------- |
+### Elektrische componenten
+| Component | Beschrijving | Link | Prijs (€/stuk) |
+| --- | --- | --- | --- |
 | Arduino Nano 33 IoT          | Microcontroller met ingebouwde Wi-Fi (optioneel, voor toekomstige uitbreiding) | [Arduino Store](https://store.arduino.cc/products/arduino-nano-33-iot)                                              | 26,70          |
 | LED’s (WS2812B)              | Individueel adresseerbare RGB-leds voor visuele feedback                       | [Amazon (WS2812B)](https://www.amazon.nl/dp/B08ZD7BQK1)                                                             | 12,00 (set 10) |
 | Drukknoppen                  | Grote drukknoppen voor input op pads                                           | [Conrad](https://www.conrad.be/nl/p/drukknop-rood-1x-aan-uit-250-v-1-a-6-mm-tru-components-tc-3934831-1575487.html) | 1,50           |
