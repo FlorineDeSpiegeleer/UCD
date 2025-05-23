@@ -868,12 +868,9 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 |-------------------------|------------------------------------------------------------------------------------------------|-----------------------------------|
 | **Gebruiksgemak**       | Het product moet intuïtief zijn, met minimale uitleg of training voor gebruikers.                | Interviews, Gebruikerstesten      |
 |                         | Alle elementen moeten eenvoudig bedienbaar zijn, ook voor mensen met beperkte kracht of mobiliteit. | Interviews, Wave 1 & Wave 2       |
-|                         | De lay-out moet duidelijk en consistent zijn, zodat gebruikers snel kunnen navigeren.            | Literatuuronderzoek               |
 | **Veiligheid**          | Het product moet veilig zijn om te gebruiken, zonder scherpe randen of onderdelen die gemakkelijk loskomen. | Benchmarking, Gebruikerstesten   |
-|                         | Het gebruik van materialen moet allergievrij en niet-giftig zijn.                                | Benchmarking                      |
 | **Flexibiliteit**       | Het product moet aanpasbaar zijn voor gebruikers met verschillende fysieke en cognitieve niveaus. | Interviews, Literatuuronderzoek   |
 |                         | Er moeten instellingen zijn om de moeilijkheidsgraad aan te passen.                              | Wave 2                            |
-| **Duurzaamheid**        | De materialen moeten bestand zijn tegen intensief gebruik en langdurige belasting.               | Benchmarking                      |
 |                         | Het product moet eenvoudig schoon te maken zijn.                                                | Interviews, Wave 1                |
 | **Feedback**            | Visuele en auditieve feedback moeten duidelijk en begrijpelijk zijn.                            | Literatuuronderzoek, Wave 2       |
 |                         | Feedback moet aangepast kunnen worden aan persoonlijke voorkeuren (bijv. volume, kleurintensiteit). | Gebruikerstesten                  |
@@ -881,6 +878,22 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 |                         | Alle teksten en instructies moeten in het Nederlands beschikbaar zijn.                          | Interviews, Wave 2                |
 | **Opslag en Transport** | Het product moet lichtgewicht en draagbaar zijn, met eenvoudige opbergmogelijkheden.             | Wave 2                            |
 |                         | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                               | Wave 2                            |
+
+| Categorie      | Requirement                                                                                                                   | Bron                |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **Discovery**  |                                                                                                                               |                     |
+| 1.1            | Het product moet bijdragen aan cognitieve en fysieke stimulatie.                                                              | Literatuuronderzoek |
+| 1.2            | De interface moet duidelijk zijn, met heldere symbolen en tekst voor uitleg.                                                  | Literatuuronderzoek |
+| 1.3            | Het product moet duidelijke visuele en tactiele feedback geven.                                                               | Literatuuronderzoek |
+| 1.4            | Het product moet gebruiksvriendelijk zijn en makkelijk te navigeren.                                                          | Literatuuronderzoek |
+| 1.5            | Het product moet veilig en duurzaam/ robuust zijn om te gebruiken.                                                            | Benchmarking        |
+| 1.6            | Het product wordt ontworpen met kostenefficiëntie in gedachten, zodat het betaalbaar blijft voor ouderen en zorginstellingen. | Benchmarking        |
+| **Definition** |                                                                                                                               |                     |
+| 2.1            | De taal van de instructies in de interface moeten in het Nederlands zijn.                                                     | Wave 1 & 2          |
+| 2.2            | De interface moet een neutrale, volwassen uitstraling hebben (geen kinderachtige elementen).                                  | Wave 2              |
+| 2.3            | De knop op de pads moeten groot en duidelijk zijn om op te drukken.                                                           | Wave 1              |
+| 2.4            | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                             | Wave 2              |
+| 2.5            | Het product moet licht en draagbaar zijn.                                                                                     | Wave 1 & 2          |
 
 --- 
 ## Bronnen
