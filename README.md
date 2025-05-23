@@ -904,14 +904,17 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 | 3.6            | Het product bevat een intuïtieve stopknop waarmee gebruikers het spel op elk moment kunnen onderbreken.                             | Gebruikerstest      |
 | 3.7            | Het product moet op eender welke positie in de ruimte te plaatsen zijn. De pads mogen op een willekeurige positie te plaatsen zijn. | Gebruikerstest      |
 | 3.8            | Het product moet een draadloze oplossing bieden.                                                                                    | Gebruikerstest      |
-| 3.9            | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                                   | Gebruikerstest      |
+| 3.9            | Het product biedt een antisliplaag aan de onderzijde van de pads voor de veiligheid.                                                | Gebruikerstest      |
+| 3.10           | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                                   | Gebruikerstest      |
 | **Develop2**   |                                                                                                                                     |                     |
 | 4.1            | Het product moet eenvoudige spelregels met ingebouwde tutorials hebben.                                                             | Gebruikerstest      |
 | 4.2            | Het product moet een aanpasbaar spelduur en tempo hebben.                                                                           | Gebruikerstest      |
 | 4.3            | De LED's moeten een langere brandduur hebben voor beter zichtbaarheid tijdens het spel.                                             | Gebruikerstest      |
 | 4.4            | De interface moet een duidelijke timer en vooruitgangsindicator hebben.                                                             | Gebruikerstest      |
 | 4.5            | De interface moet tijdens het spelen van een spel een hulpknop voor de spelregels ter beschikking stellen.                          | Gebruikerstest      |
-
+| 4.6            | De interface moet de scores van elk spel kunnen weergeven. Moeilijkheidsgraad wordt ook weergegeven door symbolen.                  | Gebruikerstest      |
+| **Develop3**   |                                                                                                                                     |                     |
+| 5.1            | 
 
 
 --- 
