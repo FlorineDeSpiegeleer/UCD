@@ -810,7 +810,7 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 | Rubberen antisliplaag       | Voorkomt verschuiven op tafel of vloer                | €1,00/stuk      |
 | Magnetische strips of frame | Opbergsysteem                                         | €8,00           |
 | Karton (voor prototype)     | Eenvoudige constructie voor mockup                    | €0,50           |
-
+| Extra                       | Lijm, zaagmachine, lasercutter en plakband            | gratis/ lenen   |
 
 
 
