@@ -793,6 +793,8 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 
 ---
 ## Technische beschrijving
+Hieronder vindt u de volledige lijst van componenten die nodig zijn om het LumiLife-prototype te bouwen, inclusief prijzen en links naar de producten.
+
 ### Elektrische componenten
 | Component | Beschrijving | Link | Aantal |Prijs (€/stuk) |
 | --- | --- | --- | --- | --- |
@@ -812,7 +814,20 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 | Karton (voor prototype)     | Eenvoudige constructie voor mockup                    | €0,50           |
 | Extra                       | Lijm, zaagmachine, lasercutter en plakband            | gratis/ lenen   |
 
+1. Hardwareopbouw
+Snijd of laser de pads uit MDF of acryl (zeshoekig, ±15 cm diameter).
 
+Bevestig de drukknop centraal in de pad.
+
+Monteer een LED-strip of WS2812B in het oppervlak.
+
+Bedraad alles via breadboard naar Arduino.
+
+Voeg een batterijhouder toe (9V).
+
+Voorzie antislip of magnetische strip onderaan de pads.
+
+Herhaal dit voor elke pad (bijv. set van 3 tot 6 stuks).
 
 ## Algemene Product requirements
 
