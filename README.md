@@ -75,7 +75,6 @@ Figuur 4: Storyboard
 
 
 ![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/28f804bf89721fae8225fe129e89647e22e0068a/tijdlijn_ggo.png)
-
 Figuur 5: Tijdlijn 
 
 Door het gestructureerde verloop van deze fasen en het herhaaldelijk betrekken van de doelgroep, werd LumiLife ontwikkeld als een innovatieve en effectieve oplossing om ouderen fysiek en mentaal te ondersteunen.
