@@ -891,7 +891,140 @@ Hieronder vindt u de volledige Bill Of Materials (BOM) die nodig zijn om het Lum
 - Maak via een interfaceontwerp-software je interface: [Figma](https://www.figma.com/)
 
 ### Code Structuur
+**1. Reactiespel met 8 pads**
+- Upload de code naar Arduino IDE:
+```
+const int numPads = 8;
 
+const int ledPins[numPads]    = {2, 3, 4, 5, 6, 7, 8, 9};
+const int buttonPins[numPads] = {10, 11, 12, A0, A1, A2, A3, A4};
+
+int currentPad = -1;
+int lastPad = -1;
+int score = 0;
+
+unsigned long reactionTime = 3000;      // trage start (ms)
+unsigned long padStartTime = 0;
+unsigned long gameStartTime = 0;
+unsigned long gameDuration = 90000;     // 90 sec
+bool waitingForInput = false;
+bool gameOver = false;
+
+void setup() {
+  Serial.begin(9600);
+  
+  for (int i = 0; i < numPads; i++) {
+    pinMode(ledPins[i], OUTPUT);
+    pinMode(buttonPins[i], INPUT_PULLUP);
+    digitalWrite(ledPins[i], LOW);
+  }
+
+  randomSeed(analogRead(A5)); // stabiele willekeur
+
+  Serial.println("🕹️ Reactiespel start! Druk op de juiste knop zo snel mogelijk.");
+  gameStartTime = millis();
+  delay(500);
+  pickNewPad();
+}
+
+void loop() {
+  if (gameOver) return;
+
+  if (millis() - gameStartTime >= gameDuration) {
+    stopGame();
+    return;
+  }
+
+  if (waitingForInput) {
+    checkButtons();
+
+    if (millis() - padStartTime > reactionTime) {
+      Serial.println("⏱️ Te traag!");
+      handleFailure();
+    }
+  }
+}
+
+void pickNewPad() {
+  for (int i = 0; i < numPads; i++) {
+    digitalWrite(ledPins[i], LOW);
+  }
+
+  // Kies andere pad dan vorige
+  do {
+    currentPad = random(numPads);
+  } while (currentPad == lastPad);
+
+  lastPad = currentPad;
+
+  digitalWrite(ledPins[currentPad], HIGH);
+  padStartTime = millis();
+  waitingForInput = true;
+
+  Serial.print("🎯 Druk op pad ");
+  Serial.println(currentPad + 1);
+}
+
+void checkButtons() {
+  for (int i = 0; i < numPads; i++) {
+    if (digitalRead(buttonPins[i]) == LOW) {
+      delay(30); // debounce
+      if (digitalRead(buttonPins[i]) == LOW) {
+        waitForRelease(i);
+        if (i == currentPad) {
+          // ✅ Correct
+          Serial.println("✅ Juist!");
+          digitalWrite(ledPins[i], LOW);
+          reactionTime = max(800, reactionTime - 100); // maak moeilijker
+          score++;
+          waitingForInput = false;
+          delay(200);
+          pickNewPad();
+        } else {
+          Serial.print("❌ Fout! Je drukte op pad ");
+          Serial.println(i + 1);
+          handleFailure();
+        }
+        return; // belangrijk: verlaat na één knop
+      }
+    }
+  }
+}
+
+void handleFailure() {
+  score--;
+  // Foutmelding: alle LED’s knipperen
+  for (int j = 0; j < 2; j++) {
+    for (int i = 0; i < numPads; i++) digitalWrite(ledPins[i], HIGH);
+    delay(200);
+    for (int i = 0; i < numPads; i++) digitalWrite(ledPins[i], LOW);
+    delay(200);
+  }
+
+  reactionTime = min(5000, reactionTime + 300); // maak makkelijker
+  waitingForInput = false;
+  delay(300);
+  pickNewPad();
+}
+
+void stopGame() {
+  for (int i = 0; i < numPads; i++) {
+    digitalWrite(ledPins[i], LOW);
+  }
+
+  Serial.println("⏱️ Tijd is om!");
+  Serial.print("🎯 Eindscore: ");
+  Serial.println(score);
+  gameOver = true;
+}
+
+void waitForRelease(int pinIndex) {
+  while (digitalRead(buttonPins[pinIndex]) == LOW) {
+    delay(10);
+  }
+  delay(30); // extra debounce
+}
+```
 
 
 
