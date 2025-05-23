@@ -864,8 +864,6 @@ Hieronder vindt u de volledige Bill Of Materials (BOM) die nodig zijn om het Lum
 
 Hieronder worden de belangrijkste algemene product requirements samengevat, gebaseerd op inzichten uit interviews, literatuuronderzoek, benchmarking en gebruikerstesten. Deze vereisten bieden een overzicht van de kernfuncties en eigenschappen die essentieel zijn voor het ontwerp en de ontwikkeling van het product.
 
-Voor een uitgebreide lijst met specifieke requirements en de onderliggende analyses wordt verwezen naar het volledige document in de bijlage ([Product Requirement Document](https://1drv.ms/w/c/9458d939536e9058/EeOrmluedlZEijFVp-KXkkYByNwl6bXrTcV5uZBdw7UXhA?e=TZn4MG)). Hierin worden alle product requirements gedetailleerd besproken, inclusief de bronverwijzingen en context.
-
 | **Categorie**          | **Requirement**                                                                                  | **Bron**                          |
 |-------------------------|------------------------------------------------------------------------------------------------|-----------------------------------|
 | **Gebruiksgemak**       | Het product moet intuïtief zijn, met minimale uitleg of training voor gebruikers.                | Interviews, Gebruikerstesten      |
