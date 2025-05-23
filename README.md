@@ -825,13 +825,20 @@ Hieronder vindt u de volledige Bill Of Materials (BOM) die nodig zijn om het Lum
 
 5. Bedraad alles via breadboard naar Arduino.
 
-6. Voeg een batterijhouder toe (9V).
+6. Voeg de knoopcel batterij toe (3V).
 
 7. Voorzie een magnetische strip aan de onderkant van de pads.
 
 8. Lijm een antisliplaag aan de onderkant van de pad (over de magnetische strip).
 
 9. Herhaal dit voor elke pad (in totaal 9 pads).
+
+### 2. Arduino Setup
+1. Sluit je Arduino Nano 33 IoT aan via USB in de computer.
+
+2. Installeer de Arduino IDE: [arduino.cc](https://www.arduino.cc/en/software)
+
+3. Upload de code naar de Arduino.
 
 ## Algemene Product requirements
 
