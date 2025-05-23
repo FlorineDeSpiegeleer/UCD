@@ -771,17 +771,6 @@ De positieve houding van de deelnemers bevestigt dat LumiLife potentieel heeft a
 
 Hieronder worden de belangrijkste algemene product requirements samengevat, gebaseerd op inzichten uit interviews, literatuuronderzoek, benchmarking en gebruikerstesten. Deze vereisten bieden een overzicht van de kernfuncties en eigenschappen die essentieel zijn voor het ontwerp en de ontwikkeling van het product.
 
-| **Categorie**          | **Requirement**                                                                                  | **Bron**                          |
-|-------------------------|------------------------------------------------------------------------------------------------|-----------------------------------|
-| **Gebruiksgemak**       | Het product moet intuïtief zijn, met minimale uitleg of training voor gebruikers.                | Interviews, Gebruikerstesten      |
-|                         | Alle elementen moeten eenvoudig bedienbaar zijn, ook voor mensen met beperkte kracht of mobiliteit. | Interviews, Wave 1 & Wave 2       |
-| **Veiligheid**          | Het product moet veilig zijn om te gebruiken, zonder scherpe randen of onderdelen die gemakkelijk loskomen. | Benchmarking, Gebruikerstesten   |
-| **Flexibiliteit**       | Het product moet aanpasbaar zijn voor gebruikers met verschillende fysieke en cognitieve niveaus. | Interviews, Literatuuronderzoek   |
-|                         | Het product moet eenvoudig schoon te maken zijn.                                                | Interviews, Wave 1                |
-|                         | Feedback moet aangepast kunnen worden aan persoonlijke voorkeuren (bijv. volume, kleurintensiteit). | Gebruikerstesten                  |
-| **Toegankelijkheid**    | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                  | Interviews, Benchmarking          |
-
-
 | Categorie      | Requirement                                                                                                                         | Bron                |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | **Discovery**  |                                                                                                                                     |                     |
