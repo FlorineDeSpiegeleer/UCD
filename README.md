@@ -914,8 +914,10 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 | 4.5            | De interface moet tijdens het spelen van een spel een hulpknop voor de spelregels ter beschikking stellen.                          | Gebruikerstest      |
 | 4.6            | De interface moet de scores van elk spel kunnen weergeven. Moeilijkheidsgraad wordt ook weergegeven door symbolen.                  | Gebruikerstest      |
 | **Develop3**   |                                                                                                                                     |                     |
-| 5.1            | 
-
+| 5.1            | Het product moet een stevige behuizing hebben zoals PE of PP.                                                                       | Gebruikerstest      |
+| 5.2            | Het product moet zachte vormen bevatten, zodat dit langdurig comfort biedt voor de gebruiker.                                       | Gebruikerstest      |
+| 5.2            | De interface moet duidelijk en direct reageren (geen vertraging).                                                                   | Gebruikerstest      |
+| 5.3            | Het opbergsysteem moet makkelijk te verplaatsen zijn op de muren.                                                                   | Gebruikerstest      |
 
 --- 
 ## Bronnen
