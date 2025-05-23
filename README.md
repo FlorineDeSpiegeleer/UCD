@@ -396,7 +396,7 @@ Om de bruikbaarheid van LumiLife in verschillende woonomgevingen te testen, werd
 
 ![Image](https://github.com/FlorineDeSpiegeleer/UCD/blob/553ed1f231b6614efbe5b31717d8630af76aed31/opberg_1.jpg)
 ![Image](https://github.com/FlorineDeSpiegeleer/UCD/blob/fdbc03628498d0c899af583b4fd6594b5a00af29/opberg_2.jpg)
-![Image]()
+![Image](https://github.com/FlorineDeSpiegeleer/UCD/blob/927c6875245a75e1dbd628d6c9b58f0ef1443faf/opberg_3.jpg)
 Figuur 13, 14 en 15: Ophangsysteem
 Deze drie varianten werden getest op gebruiksgemak, stabiliteit en voorkeur bij ouderen. De foto’s hieronder illustreren elk prototype.
 
