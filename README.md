@@ -870,30 +870,40 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 |                         | Alle elementen moeten eenvoudig bedienbaar zijn, ook voor mensen met beperkte kracht of mobiliteit. | Interviews, Wave 1 & Wave 2       |
 | **Veiligheid**          | Het product moet veilig zijn om te gebruiken, zonder scherpe randen of onderdelen die gemakkelijk loskomen. | Benchmarking, Gebruikerstesten   |
 | **Flexibiliteit**       | Het product moet aanpasbaar zijn voor gebruikers met verschillende fysieke en cognitieve niveaus. | Interviews, Literatuuronderzoek   |
-|                         | Er moeten instellingen zijn om de moeilijkheidsgraad aan te passen.                              | Wave 2                            |
 |                         | Het product moet eenvoudig schoon te maken zijn.                                                | Interviews, Wave 1                |
-| **Feedback**            | Visuele en auditieve feedback moeten duidelijk en begrijpelijk zijn.                            | Literatuuronderzoek, Wave 2       |
 |                         | Feedback moet aangepast kunnen worden aan persoonlijke voorkeuren (bijv. volume, kleurintensiteit). | Gebruikerstesten                  |
 | **Toegankelijkheid**    | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                  | Interviews, Benchmarking          |
-|                         | Alle teksten en instructies moeten in het Nederlands beschikbaar zijn.                          | Interviews, Wave 2                |
-| **Opslag en Transport** | Het product moet lichtgewicht en draagbaar zijn, met eenvoudige opbergmogelijkheden.             | Wave 2                            |
-|                         | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                               | Wave 2                            |
 
-| Categorie      | Requirement                                                                                                                   | Bron                |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| **Discovery**  |                                                                                                                               |                     |
-| 1.1            | Het product moet bijdragen aan cognitieve en fysieke stimulatie.                                                              | Literatuuronderzoek |
-| 1.2            | De interface moet duidelijk zijn, met heldere symbolen en tekst voor uitleg.                                                  | Literatuuronderzoek |
-| 1.3            | Het product moet duidelijke visuele en tactiele feedback geven.                                                               | Literatuuronderzoek |
-| 1.4            | Het product moet gebruiksvriendelijk zijn en makkelijk te navigeren.                                                          | Literatuuronderzoek |
-| 1.5            | Het product moet veilig en duurzaam/ robuust zijn om te gebruiken.                                                            | Benchmarking        |
-| 1.6            | Het product wordt ontworpen met kostenefficiëntie in gedachten, zodat het betaalbaar blijft voor ouderen en zorginstellingen. | Benchmarking        |
-| **Definition** |                                                                                                                               |                     |
-| 2.1            | De taal van de instructies in de interface moeten in het Nederlands zijn.                                                     | Wave 1 & 2          |
-| 2.2            | De interface moet een neutrale, volwassen uitstraling hebben (geen kinderachtige elementen).                                  | Wave 2              |
-| 2.3            | De knop op de pads moeten groot en duidelijk zijn om op te drukken.                                                           | Wave 1              |
-| 2.4            | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                             | Wave 2              |
-| 2.5            | Het product moet licht en draagbaar zijn.                                                                                     | Wave 1 & 2          |
+
+| Categorie      | Requirement                                                                                                                         | Bron                |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **Discovery**  |                                                                                                                                     |                     |
+| 1.1            | Het product moet bijdragen aan cognitieve en fysieke stimulatie.                                                                    | Literatuuronderzoek |
+| 1.2            | De interface moet duidelijk zijn, met heldere symbolen en tekst voor uitleg.                                                        | Literatuuronderzoek |
+| 1.3            | Het product moet duidelijke visuele en tactiele feedback geven.                                                                     | Literatuuronderzoek |
+| 1.4            | Het product moet gebruiksvriendelijk zijn en makkelijk te navigeren.                                                                | Literatuuronderzoek |
+| 1.5            | Het product moet veilig en duurzaam/ robuust zijn om te gebruiken.                                                                  | Benchmarking        |
+| 1.6            | Het product wordt ontworpen met kostenefficiëntie in gedachten, zodat het betaalbaar blijft voor ouderen en zorginstellingen.       | Benchmarking        |
+| 1.7            | Het product moet compatibel zijn met een scherm om de resultaten van het spel af te lezen.                                          | Benchmarking        |
+| **Definition** |                                                                                                                                     |                     |
+| 2.1            | De pads moeten zeshoekig en handgrootte zijn, om grip en comfort te vergroten.                                                      | Wave 1              |
+| 2.2            | De knop op de pads moeten groot en duidelijk zijn om op te drukken.                                                                 | Wave 1              |
+| 2.3            | De taal van de instructies in de interface moeten in het Nederlands zijn.                                                           | Wave 1 & 2          |
+| 2.4            | Het product moet licht en draagbaar zijn.                                                                                           | Wave 1 & 2          |
+| 2.5            | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                                                     | Wave 1 & 2          |
+| 2.6            | De interface moet een neutrale, volwassen uitstraling hebben (geen kinderachtige elementen).                                        | Wave 2              |
+| 2.7            | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                                   | Wave 2              |
+| 2.8            | Het product moet een moeilijkheidsgraad hebben en moet aanpasbaar zijn voor de gebruiker.                                           | Wave 3              |
+| 2.9            | Het product moet verschillende spellen bevatten om de interesse te wekken.                                                          | Wave 3              |
+| 2.10           | De spelregels moeten duidelijk en intuïtief zijn.                                                                                   | Wave 3              |
+| **Develop 1**  |                                                                                                                                     |                     |
+| 3.1            | De interface moet overstimulatie vermijden (instelbare licht-/geluidsintensiteit).                                                  | Gebruikerstest      |
+| 3.2            | De interface moet een compititief spelkarakter hebben.                                                                              | Gebruikerstest      |
+| 3.3            | Het product moet positieve feedback geven bij succesvolle acties (bijv. met auditieve feedback).                                    | Gebruikerstest      |
+| 3.4            | Het product moet duidelijke interactieve elementen bevatten die herkenbaar zijn voor de gebruiker.                                  | Gebruikerstest      |
+| 3.5            | Het product mag geen overbelasting veroorzaken door te veel elementen of onduidelijk instructies.                                   | Gebruikerstest      |
+| 3.6            | Het product bevat een intuïtieve stopknop waarmee gebruikers het spel op elk moment kunnen onderbreken.                             | Gebruikerstest      |
+| 3.7            | Het product moet op eender welke positie in de ruimte te plaatsen zijn. De pads mogen op een willekeurige positie te plaatsen zijn. | Gebruikerstest      |
 
 --- 
 ## Bronnen
