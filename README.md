@@ -74,7 +74,7 @@ Elke cyclus bestond uit prototyping, gebruikerstesten en terugkoppeling. Door sy
 Figuur 4: Storyboard
 
 
-![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/8d520abe4ca6ac43c15741aea6686691e437a6c5/tijdlijn.jpg)
+![image](https://github.com/FlorineDeSpiegeleer/UCD/blob/28f804bf89721fae8225fe129e89647e22e0068a/tijdlijn_ggo.png)
 
 Figuur 5: Tijdlijn 
 
