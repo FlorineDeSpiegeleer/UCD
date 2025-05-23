@@ -394,6 +394,9 @@ Om de bruikbaarheid van LumiLife in verschillende woonomgevingen te testen, werd
 2. **Honingraatstructuur** – een decoratief opbergsysteem met geometrische vormgeving dat inspeelt op visuele ordening.
 3. **Schilderijframe** – een geïntegreerde wandoplossing waarbij de pads rond een kunstwerk worden geplaatst, wat zorgt voor esthetische meerwaarde en speelse interactie.
 
+![Image](https://github.com/FlorineDeSpiegeleer/UCD/blob/553ed1f231b6614efbe5b31717d8630af76aed31/opberg_1.jpg)
+![Image]()
+![Image]()
 Figuur 13, 14 en 15: Ophangsysteem
 Deze drie varianten werden getest op gebruiksgemak, stabiliteit en voorkeur bij ouderen. De foto’s hieronder illustreren elk prototype.
 
