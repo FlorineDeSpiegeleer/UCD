@@ -843,6 +843,12 @@ Hieronder vindt u de volledige Bill Of Materials (BOM) die nodig zijn om het Lum
 ### 3. Interface
 - Maak via een interfaceontwerp-software je interface: [Figma](https://www.figma.com/)
 
+### Code Structuur
+
+
+
+
+
 ### Extra Tips & Ontwerpaanbevelingen
 - Zorg voor variabele moeilijkheidsgraad (sneller tempo, langere volgorde).
 
