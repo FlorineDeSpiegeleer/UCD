@@ -892,10 +892,9 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 | 2.4            | Het product moet licht en draagbaar zijn.                                                                                           | Wave 1 & 2          |
 | 2.5            | Het product moet geschikt zijn voor gebruik in een zittende of staande positie.                                                     | Wave 1 & 2          |
 | 2.6            | De interface moet een neutrale, volwassen uitstraling hebben (geen kinderachtige elementen).                                        | Wave 2              |
-| 2.7            | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                                   | Wave 2              |
-| 2.8            | Het product moet een moeilijkheidsgraad hebben en moet aanpasbaar zijn voor de gebruiker.                                           | Wave 3              |
-| 2.9            | Het product moet verschillende spellen bevatten om de interesse te wekken.                                                          | Wave 3              |
-| 2.10           | De spelregels moeten duidelijk en intuïtief zijn.                                                                                   | Wave 3              |
+| 2.7            | Het product moet een moeilijkheidsgraad hebben en moet aanpasbaar zijn voor de gebruiker.                                           | Wave 3              |
+| 2.8            | Het product moet verschillende spellen bevatten om de interesse te wekken.                                                          | Wave 3              |
+| 2.9            | De spelregels moeten duidelijk en intuïtief zijn.                                                                                   | Wave 3              |
 | **Develop1**   |                                                                                                                                     |                     |
 | 3.1            | De interface moet overstimulatie vermijden (instelbare licht-/geluidsintensiteit).                                                  | Gebruikerstest      |
 | 3.2            | De interface moet een compititief spelkarakter hebben.                                                                              | Gebruikerstest      |
@@ -904,6 +903,16 @@ Hieronder worden de belangrijkste algemene product requirements samengevat, geba
 | 3.5            | Het product mag geen overbelasting veroorzaken door te veel elementen of onduidelijk instructies.                                   | Gebruikerstest      |
 | 3.6            | Het product bevat een intuïtieve stopknop waarmee gebruikers het spel op elk moment kunnen onderbreken.                             | Gebruikerstest      |
 | 3.7            | Het product moet op eender welke positie in de ruimte te plaatsen zijn. De pads mogen op een willekeurige positie te plaatsen zijn. | Gebruikerstest      |
+| 3.8            | Het product moet een draadloze oplossing bieden.                                                                                    | Gebruikerstest      |
+| 3.9            | Het opslag- en transportsysteem moet compact en ergonomisch zijn.                                                                   | Gebruikerstest      |
+| **Develop2**   |                                                                                                                                     |                     |
+| 4.1            | Het product moet eenvoudige spelregels met ingebouwde tutorials hebben.                                                             | Gebruikerstest      |
+| 4.2            | Het product moet een aanpasbaar spelduur en tempo hebben.                                                                           | Gebruikerstest      |
+| 4.3            | De LED's moeten een langere brandduur hebben voor beter zichtbaarheid tijdens het spel.                                             | Gebruikerstest      |
+| 4.4            | De interface moet een duidelijke timer en vooruitgangsindicator hebben.                                                             | Gebruikerstest      |
+| 4.5            | De interface moet tijdens het spelen van een spel een hulpknop voor de spelregels ter beschikking stellen.                          | Gebruikerstest      |
+
+
 
 --- 
 ## Bronnen
