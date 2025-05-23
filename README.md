@@ -695,6 +695,9 @@ Figuur 18: Visuele vormconcepten
 
 In de tweede testfase werd het volledige prototype – bestaande uit de gekozen padvorm met drukknop, de bijhorende interface en het ophangsysteem – in gebruik gedemonstreerd en getest. Deelnemers kregen de kans om het systeem te hanteren zoals bedoeld, inclusief indrukken, ophangen, gebruiken en opbergen.
 
+![Image](https://github.com/FlorineDeSpiegeleer/UCD/blob/245336caa2752d557d5d4834a68b0eec6268abf9/gtest_develop3.jpg)
+Figuur 19: gebruiker test het volledig product
+
 **Interviewvragen:**
 - Hoe voelt het om de pad vast te houden en in te drukken?
 - Is de interface duidelijk en begrijpelijk?
