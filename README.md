@@ -793,7 +793,12 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 
 ---
 ## Technische beschrijving
-### Bill of materials
+**Hardware**
+- Platform: Arduino Nano 33 IoT
+ - Prijs: €26,70
+ - Link: ([Arduino Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot?utm_source=google&utm_medium=cpc&utm_campaign=EU-Pmax&gad_source=1&gad_campaignid=22591753150&gbraid=0AAAAACbEa85ty6tKB15_W19N7PravQ6gK&gclid=Cj0KCQjwucDBBhDxARIsANqFdr1_ogqMmVLgb_sjEjv6EMny-leCNmIqqbqXi_eTD2lS18ofeorBnUcaAsmNEALw_wcB))
+- Touchscreen Display: 7-inch HDMI touchscreen
+**Software**
 
 
 
