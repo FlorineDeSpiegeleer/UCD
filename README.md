@@ -794,20 +794,7 @@ Het project bevestigt hoe belangrijk het is om ouderen vroeg en herhaaldelijk in
 ---
 ## Technische beschrijving
 ### Bill of materials
-**Elektronische componenten**
-1. LED-strips of -panelen: Voor de visuele feedback.
-2. Druksensoren: Voor het detecteren van aanrakingen op de pads.
-3. Microcontroller (zoals Arduino of Raspberry Pi): Voor de aansturing van LED's en sensoren.
-4. Batterij of oplaadbare accu: Voor draagbare energievoorziening.
 
-**Fysieke materialen**
-1. Pads structuur (bijvoorbeeld acryl, kunststof of hout): Voor de behuizing en fysieke vorm van de pads.
-2. Rubberen antislipmateriaal: Om de pads stabiel te houden op verschillende oppervlakken.
-3. Draagkoffer of opbergdoos: Voor transport en opslag.
-
-**Gereedschappen en accessoires**
-1. Schroeven, bouten, of lijm: Voor het assembleren van de pads.
-2. Soldeerbout en soldeertin: Voor het verbinden van elektronische componenten.
 
 
 
